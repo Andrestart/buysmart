@@ -1,0 +1,56 @@
+price,product,supermarket,link,name
+1.45,aceite de girasol,carrefour,https://www.carrefour.es/?q=aceite de girasol&page=2,Aceite de girasol Carrefour 1 l.
+1.39,aceite de girasol,carrefour,https://www.carrefour.es/?q=aceite de girasol&page=2,Aceite de girasol Carrefour garrafa 5 l.
+1.45,aceite de girasol,carrefour,https://www.carrefour.es/?q=aceite de girasol&page=3,Aceite de girasol Carrefour 1 l.
+1.39,aceite de girasol,carrefour,https://www.carrefour.es/?q=aceite de girasol&page=3,Aceite de girasol Carrefour garrafa 5 l.
+5.8,ajo,carrefour,https://www.carrefour.es/?q=ajo&page=2,Ajo Círculo de Calidad 250 g
+4.7,ajo,carrefour,https://www.carrefour.es/?q=ajo&page=2,Ajo sprint 500 g
+11.96,albaricoque,carrefour,https://www.carrefour.es/?q=albaricoque&page=2,Orejón albaricoque Carrefour tarrina 250 g
+2.41,albaricoque,carrefour,https://www.carrefour.es/?q=albaricoque&page=2,Mermelada de albaricoque categoría extra Carrefour 410 g.
+11.96,albaricoque,carrefour,https://www.carrefour.es/?q=albaricoque&page=3,Orejón albaricoque Carrefour tarrina 250 g
+2.41,albaricoque,carrefour,https://www.carrefour.es/?q=albaricoque&page=3,Mermelada de albaricoque categoría extra Carrefour 410 g.
+1.58,berenjena,carrefour,https://www.carrefour.es/?q=berenjena&page=2,Berenjena 1ª categoría Carrefour Malla 500 g
+1.39,berenjena,carrefour,https://www.carrefour.es/?q=berenjena&page=2,Berenjena 2ª categoría Carrefour a granel 500 g aprox
+1.58,berenjena,carrefour,https://www.carrefour.es/?q=berenjena&page=3,Berenjena 1ª categoría Carrefour Malla 500 g
+1.39,berenjena,carrefour,https://www.carrefour.es/?q=berenjena&page=3,Berenjena 2ª categoría Carrefour a granel 500 g aprox
+1.39,calabacín,carrefour,https://www.carrefour.es/?q=calabacín&page=2,Calabacín Carrefour malla de 1 kg
+1.49,calabacín,carrefour,https://www.carrefour.es/?q=calabacín&page=2,Calabacín Carrefour a granel 1 kg aprox
+1.39,calabacín,carrefour,https://www.carrefour.es/?q=calabacín&page=3,Calabacín Carrefour malla de 1 kg
+1.49,calabacín,carrefour,https://www.carrefour.es/?q=calabacín&page=3,Calabacín Carrefour a granel 1 kg aprox
+5.53,cebada,carrefour,https://www.carrefour.es/?q=cebada&page=2,"Cereales de arroz, trigo y cebada integral Special K Kellogg's 750 g."
+6.58,cebada,carrefour,https://www.carrefour.es/?q=cebada&page=2,"Cereales de arroz, trigo y cebada integral con chocolate negro Special K Kellogg's 550 g."
+5.53,cebada,carrefour,https://www.carrefour.es/?q=cebada&page=3,"Cereales de arroz, trigo y cebada integral Special K Kellogg's 750 g."
+6.58,cebada,carrefour,https://www.carrefour.es/?q=cebada&page=3,"Cereales de arroz, trigo y cebada integral con chocolate negro Special K Kellogg's 550 g."
+3.9,champiñón,carrefour,https://www.carrefour.es/?q=champiñón&page=2,Champiñon pie cortado Carrefour 500 g aprox
+4.3,champiñón,carrefour,https://www.carrefour.es/?q=champiñón&page=2,Champiñones laminados Carrefour 230 g.
+3.9,champiñón,carrefour,https://www.carrefour.es/?q=champiñón&page=3,Champiñon pie cortado Carrefour 500 g aprox
+4.3,champiñón,carrefour,https://www.carrefour.es/?q=champiñón&page=3,Champiñones laminados Carrefour 230 g.
+11.4,ciruela,carrefour,https://www.carrefour.es/?q=ciruela&page=2,Ciruela deshuesada Carrefour tarrina 350 g
+6.35,ciruela,carrefour,https://www.carrefour.es/?q=ciruela&page=2,Ciruelas sin hueso Carrefour 200 g.
+11.4,ciruela,carrefour,https://www.carrefour.es/?q=ciruela&page=3,Ciruela deshuesada Carrefour tarrina 350 g
+6.35,ciruela,carrefour,https://www.carrefour.es/?q=ciruela&page=3,Ciruelas sin hueso Carrefour 200 g.
+1.79,clementina,carrefour,https://www.carrefour.es/?q=clementina&page=2,Clementina caja Círculo de Calidad a granel 1 kg aprox
+1.18,clementina,carrefour,https://www.carrefour.es/?q=clementina&page=2,Zumo de clementinas Carrefour exprimido brik de 1 l.
+1.79,clementina,carrefour,https://www.carrefour.es/?q=clementina&page=3,Clementina caja Círculo de Calidad a granel 1 kg aprox
+1.18,clementina,carrefour,https://www.carrefour.es/?q=clementina&page=3,Zumo de clementinas Carrefour exprimido brik de 1 l.
+1.89,coliflor,carrefour,https://www.carrefour.es/?q=coliflor&page=2,Coliflor Carrefour 500 g aprox
+1.29,coliflor,carrefour,https://www.carrefour.es/?q=coliflor&page=2,Coliflor Carrefour 1 kg.
+1.89,coliflor,carrefour,https://www.carrefour.es/?q=coliflor&page=3,Coliflor Carrefour 500 g aprox
+1.29,coliflor,carrefour,https://www.carrefour.es/?q=coliflor&page=3,Coliflor Carrefour 1 kg.
+6.59,espárrago,carrefour,https://www.carrefour.es/?q=espárrago&page=2,Espárrago blanco Carrefour 205 g.
+13.9,espárrago,carrefour,https://www.carrefour.es/?q=espárrago&page=2,Espárragos blancos extra 8/12 Carretilla 205 g.
+6.59,espárrago,carrefour,https://www.carrefour.es/?q=espárrago&page=3,Espárrago blanco Carrefour 205 g.
+13.9,espárrago,carrefour,https://www.carrefour.es/?q=espárrago&page=3,Espárragos blancos extra 8/12 Carretilla 205 g.
+4.91,fresa,carrefour,https://www.carrefour.es/?q=fresa&page=2,Fresas Carrefour Classic 650 g.
+13.27,fresa,carrefour,https://www.carrefour.es/?q=fresa&page=2,Surtidos de fresas y frutos rojos de España 750 gr
+4.91,fresa,carrefour,https://www.carrefour.es/?q=fresa&page=3,Fresas Carrefour Classic 650 g.
+13.27,fresa,carrefour,https://www.carrefour.es/?q=fresa&page=3,Surtidos de fresas y frutos rojos de España 750 gr
+0.5,harina de trigo,carrefour,https://www.carrefour.es/?q=harina de trigo&page=2,Harina de trigo Carrefour 1 kg.
+0.99,harina de trigo,carrefour,https://www.carrefour.es/?q=harina de trigo&page=2,Harina de trigo Gallo 1 kg.
+0.5,harina de trigo,carrefour,https://www.carrefour.es/?q=harina de trigo&page=3,Harina de trigo Carrefour 1 kg.
+0.99,harina de trigo,carrefour,https://www.carrefour.es/?q=harina de trigo&page=3,Harina de trigo Gallo 1 kg.
+0.63,leche entera,carrefour,https://www.carrefour.es/?q=leche entera&page=2,Leche entera Carrefour brik 1 l.
+0.79,leche entera,carrefour,https://www.carrefour.es/?q=leche entera&page=2,Leche entera Central Lechera Asturiana brik 1 l.
+0.5,lechuga,carrefour,https://www.carrefour.es/?q=lechuga&page=2,Lechuga iceberg Carrefour 1 ud
+3.16,lechuga,carrefour,https://www.carrefour.es/?q=lechuga&page=2,Lechuga iceberg Carrefour 250 g
+3.82,malta,carrefour,https://www.carrefour.es/?q=malta&page=2,"Bebida de Malta Polar sin alcohol botella 20,7 cl."
