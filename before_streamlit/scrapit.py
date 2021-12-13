@@ -19,7 +19,7 @@ opciones.add_argument('--start-maximized')
 opciones.add_argument('--incognito')     
 
 def scrap():
-    supermarket = input("Type the supermarket to scrap from ('dia', 'carrefour' or 'ersoki') or 'every super' to scrap them all >>>>>  \n")
+    supermarket = input("Type the supermarket to scrap from ('dia', 'carrefour' or 'eroski') or 'every super' to scrap them all >>>>>  \n")
     warnings.filterwarnings("ignore")
 
     data = pd.read_csv("../mydata/cleandata/data.csv")
@@ -44,6 +44,7 @@ def scrap():
 
     for f in foods:
         if supermarket == 'carrefour':
+            print(f"SCRAPPING {f} from {supermarket}...")
             for i in range(2,4):
                 url = f"https://www.carrefour.es/?q={f}&page={i}"
                 driver.get(url)
@@ -53,17 +54,21 @@ def scrap():
                     time.sleep(0.7)
                 except:
                     pass
-                print(f"SCRAPPING {f} from {supermarket}...")
-                try:
                     for o in range(1,50): #price, scroll, product, supermarket, link and name
+                        try:
+
                             prices.append(driver.find_element_by_css_selector(f'#ebx-grid > article:nth-child({o}) > div > span').text.split("€")[0])
                             driver.execute_script("window.scrollTo(0, window.scrollY + 300)")
                             prod.append(f)
                             sup.append(supermarket)
                             links.append(url)
                             names.append(driver.find_element_by_css_selector(f'#ebx-grid > article:nth-child({o}) > div > a.ebx-result-link.ebx-result__title-link.track-click > h1').text)
-                except:
-                    pass
+                        except:
+                            prices.append(np.nan)
+                            prod.append(f)
+                            sup.append(supermarket)
+                            links.append(np.nan)
+                            names.append(np.nan)
 
         elif supermarket == 'dia':
             url = f"https://www.dia.es/compra-online/search?text={f}&x=0&y=0"
@@ -83,7 +88,11 @@ def scrap():
                     sup.append(supermarket)
                     links.append(url)
                 except:
-                    pass
+                    prices.append(np.nan)
+                    prod.append(f)
+                    sup.append(supermarket)
+                    links.append(np.nan)
+                    names.append(np.nan)
 
         elif supermarket == 'eroski':
             url = f"https://supermercado.eroski.es/es/search/results/?q={f}&suggestionsFilter=false"
@@ -110,7 +119,6 @@ def scrap():
                 prod.append(f)
                 sup.append(supermarket)
                 links.append(url)
-
 
 
         elif supermarket == 'every super':

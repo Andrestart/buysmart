@@ -4,7 +4,7 @@ import config.sqlconfig as c
 import os
 import pandas as pd
 
-
+supermarket = input("Write here the supermarket you want to insert scrapped values from ('dia', 'carrefour' or 'eroski' or 'all' for all the supermarkets\n\n")
 
 def check(string):
     """
@@ -15,7 +15,6 @@ def check(string):
         return True
     else:
         return False
-
 
 def giveid(prodname):
     """
@@ -29,9 +28,14 @@ def giveid(prodname):
     return e
 
 def deletescrap():
-    c.engine.execute(f"""TRUNCATE `dia`;""")
-    c.engine.execute(f"""TRUNCATE `carrefour`;""")
-    c.engine.execute(f"""TRUNCATE `eroski`;""")
+    if supermarket == 'all':
+        c.engine.execute(f"""TRUNCATE `dia`;""")
+        c.engine.execute(f"""TRUNCATE `carrefour`;""")
+        c.engine.execute(f"""TRUNCATE `eroski`;""")
+    else:
+        c.engine.execute(f"""TRUNCATE `{supermarket}`;""")
+
+
     return print("All scraps previously saved have been deleted")
 
 def deleteproducts():
@@ -61,22 +65,25 @@ def insertproducts():
     return print("All products have been inserted to the database")
     
 def insertscrap():
-    supermarkets = ["dia", "carrefour", "eroski"]
-    for supermarket in supermarkets:
-        scrap = pd.read_csv(f"../mydata/scraps_{supermarket}/{supermarket}.csv")
+    scrap = pd.read_csv(f'../mydata/scraps_{supermarket}/scrap.csv')
+    try:
         c.engine.execute(f"""TRUNCATE `{supermarket}`;""")
-        for i, row in scrap.iterrows():
-            idprod =  giveid(row['product'])
-            try:
-                c.engine.execute(f"""
-        INSERT INTO `{supermarket}` (`namescrap`, `supermarket`, `link`, `price`, `product_idproduct`) VALUES
-        ("{row['name']}", "{row['supermarket']}","{row['link']}",{row['price']},{idprod})
-        ;
-        """)
-            except:
-                print(f"I can't add {row['name']}")
-        print(f"{supermarket.capitalize()} scrapping has been correctly added to the database")
-    return print("All scrapped information have been inserted to the database")
+    except:
+        pass
+    for i, row in scrap.iterrows():
+        idprod =  giveid(row['product'])
+        try:
+            c.engine.execute(f"""
+    INSERT INTO `{supermarket}` (`namescrap`, `supermarket`, `link`, `price`, `product_idproduct`) VALUES
+    ("{row['name']}", "{row['supermarket']}","{row['link']}",{row['price']},{idprod})
+    ;
+    """)
+            print(f"I have inserted {row['name']}")
+        except:
+            print(f"I can't add {row['name']}")
+    print(f"{supermarket.capitalize()} scrapping has been correctly added to the database")
+    return print("All scrapped information has been inserted to the database")
+
 
 def deletegraphs():
     c.engine.execute(f"""TRUNCATE `graphs`;""")
