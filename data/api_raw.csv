@@ -1,871 +1,871 @@
 ,memberStateCode,memberStateName,beginDate,endDate,weekNumber,price,unit,description
-0,ES,Spain,29/01/2018,04/02/2018,27,"€48,07",Euro / HL.,Albacete vino blanco sin DOP/IGP
-1,ES,Spain,29/01/2018,04/02/2018,27,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-2,ES,Spain,29/01/2018,04/02/2018,27,"€64,63",Euro / HL.,Albacete vino tinto sin DOP/IGP
-3,ES,Spain,29/01/2018,04/02/2018,27,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-4,ES,Spain,29/01/2018,04/02/2018,27,"€57,80",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-5,ES,Spain,29/01/2018,04/02/2018,27,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-6,ES,Spain,29/01/2018,04/02/2018,27,"€55,76",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-7,ES,Spain,29/01/2018,04/02/2018,27,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-8,ES,Spain,29/01/2018,04/02/2018,27,"€61,72",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-9,ES,Spain,29/01/2018,04/02/2018,27,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-10,ES,Spain,29/01/2018,04/02/2018,27,"€237,95",Euro / HL.,Rueda DOP vino blanco
-11,ES,Spain,29/01/2018,04/02/2018,27,"€,00",Quantity,Rueda DOP vino blanco
-12,ES,Spain,29/01/2018,04/02/2018,27,"€51,04",Euro / HL.,Toledo vino blanco sin DOP/IGP
-13,ES,Spain,29/01/2018,04/02/2018,27,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-14,ES,Spain,29/01/2018,04/02/2018,27,"€65,44",Euro / HL.,Toledo vino tinto sin DOP/IGP
-15,ES,Spain,29/01/2018,04/02/2018,27,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-16,ES,Spain,29/01/2018,04/02/2018,27,"€64,27",Euro / HL.,Valencia vino tinto sin DOP/IGP
-17,ES,Spain,29/01/2018,04/02/2018,27,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-18,ES,Spain,26/02/2018,04/03/2018,31,"€58,55",Euro / HL.,Albacete vino blanco sin DOP/IGP
-19,ES,Spain,26/02/2018,04/03/2018,31,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-20,ES,Spain,26/02/2018,04/03/2018,31,"€65,96",Euro / HL.,Albacete vino tinto sin DOP/IGP
-21,ES,Spain,26/02/2018,04/03/2018,31,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-22,ES,Spain,26/02/2018,04/03/2018,31,"€51,56",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-23,ES,Spain,26/02/2018,04/03/2018,31,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-24,ES,Spain,26/02/2018,04/03/2018,31,"€61,36",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-25,ES,Spain,26/02/2018,04/03/2018,31,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-26,ES,Spain,26/02/2018,04/03/2018,31,"€249,58",Euro / HL.,Rioja DOP vino tinto
-27,ES,Spain,26/02/2018,04/03/2018,31,"€,00",Quantity,Rioja DOP vino tinto
-28,ES,Spain,26/02/2018,04/03/2018,31,"€268,40",Euro / HL.,Rueda DOP vino blanco
-29,ES,Spain,26/02/2018,04/03/2018,31,"€,00",Quantity,Rueda DOP vino blanco
-30,ES,Spain,26/02/2018,04/03/2018,31,"€52,45",Euro / HL.,Toledo vino blanco sin DOP/IGP
-31,ES,Spain,26/02/2018,04/03/2018,31,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-32,ES,Spain,26/02/2018,04/03/2018,31,"€66,08",Euro / HL.,Toledo vino tinto sin DOP/IGP
-33,ES,Spain,26/02/2018,04/03/2018,31,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-34,ES,Spain,26/02/2018,04/03/2018,31,"€64,27",Euro / HL.,Valencia vino tinto sin DOP/IGP
-35,ES,Spain,26/02/2018,04/03/2018,31,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-36,ES,Spain,26/03/2018,01/04/2018,35,"€54,90",Euro / HL.,Albacete vino blanco sin DOP/IGP
-37,ES,Spain,26/03/2018,01/04/2018,35,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-38,ES,Spain,26/03/2018,01/04/2018,35,"€64,01",Euro / HL.,Albacete vino tinto sin DOP/IGP
-39,ES,Spain,26/03/2018,01/04/2018,35,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-40,ES,Spain,26/03/2018,01/04/2018,35,"€55,96",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-41,ES,Spain,26/03/2018,01/04/2018,35,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-42,ES,Spain,26/03/2018,01/04/2018,35,"€54,01",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-43,ES,Spain,26/03/2018,01/04/2018,35,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-44,ES,Spain,26/03/2018,01/04/2018,35,"€64,69",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-45,ES,Spain,26/03/2018,01/04/2018,35,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-46,ES,Spain,26/03/2018,01/04/2018,35,"€243,44",Euro / HL.,Rioja DOP vino tinto
-47,ES,Spain,26/03/2018,01/04/2018,35,"€,00",Quantity,Rioja DOP vino tinto
-48,ES,Spain,26/03/2018,01/04/2018,35,"€269,23",Euro / HL.,Rueda DOP vino blanco
-49,ES,Spain,26/03/2018,01/04/2018,35,"€,00",Quantity,Rueda DOP vino blanco
-50,ES,Spain,26/03/2018,01/04/2018,35,"€51,44",Euro / HL.,Toledo vino blanco sin DOP/IGP
-51,ES,Spain,26/03/2018,01/04/2018,35,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-52,ES,Spain,26/03/2018,01/04/2018,35,"€64,74",Euro / HL.,Toledo vino tinto sin DOP/IGP
-53,ES,Spain,26/03/2018,01/04/2018,35,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-54,ES,Spain,26/03/2018,01/04/2018,35,"€64,27",Euro / HL.,Valencia vino tinto sin DOP/IGP
-55,ES,Spain,26/03/2018,01/04/2018,35,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-56,ES,Spain,31/07/2017,06/08/2017,1,"€31,43",Euro / HL.,Albacete vino blanco sin DOP/IGP
-57,ES,Spain,31/07/2017,06/08/2017,1,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-58,ES,Spain,31/07/2017,06/08/2017,1,"€39,39",Euro / HL.,Albacete vino tinto sin DOP/IGP
-59,ES,Spain,31/07/2017,06/08/2017,1,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-60,ES,Spain,31/07/2017,06/08/2017,1,"€32,38",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-61,ES,Spain,31/07/2017,06/08/2017,1,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-62,ES,Spain,31/07/2017,06/08/2017,1,"€35,15",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-63,ES,Spain,31/07/2017,06/08/2017,1,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-64,ES,Spain,31/07/2017,06/08/2017,1,"€46,75",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-65,ES,Spain,31/07/2017,06/08/2017,1,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-66,ES,Spain,31/07/2017,06/08/2017,1,"€154,43",Euro / HL.,Rioja DOP vino tinto
-67,ES,Spain,31/07/2017,06/08/2017,1,"€,00",Quantity,Rioja DOP vino tinto
-68,ES,Spain,31/07/2017,06/08/2017,1,"€145,75",Euro / HL.,Rueda DOP vino blanco
-69,ES,Spain,31/07/2017,06/08/2017,1,"€,00",Quantity,Rueda DOP vino blanco
-70,ES,Spain,31/07/2017,06/08/2017,1,"€35,21",Euro / HL.,Toledo vino blanco sin DOP/IGP
-71,ES,Spain,31/07/2017,06/08/2017,1,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-72,ES,Spain,31/07/2017,06/08/2017,1,"€44,59",Euro / HL.,Toledo vino tinto sin DOP/IGP
-73,ES,Spain,31/07/2017,06/08/2017,1,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-74,ES,Spain,31/07/2017,06/08/2017,1,"€44,56",Euro / HL.,Valencia vino tinto sin DOP/IGP
-75,ES,Spain,31/07/2017,06/08/2017,1,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-76,ES,Spain,28/08/2017,03/09/2017,5,"€35,73",Euro / HL.,Albacete vino blanco sin DOP/IGP
-77,ES,Spain,28/08/2017,03/09/2017,5,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-78,ES,Spain,28/08/2017,03/09/2017,5,"€40,87",Euro / HL.,Albacete vino tinto sin DOP/IGP
-79,ES,Spain,28/08/2017,03/09/2017,5,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-80,ES,Spain,28/08/2017,03/09/2017,5,"€40,12",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-81,ES,Spain,28/08/2017,03/09/2017,5,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-82,ES,Spain,28/08/2017,03/09/2017,5,"€33,32",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-83,ES,Spain,28/08/2017,03/09/2017,5,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-84,ES,Spain,28/08/2017,03/09/2017,5,"€42,85",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-85,ES,Spain,28/08/2017,03/09/2017,5,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-86,ES,Spain,28/08/2017,03/09/2017,5,"€32,79",Euro / HL.,Toledo vino blanco sin DOP/IGP
-87,ES,Spain,28/08/2017,03/09/2017,5,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-88,ES,Spain,28/08/2017,03/09/2017,5,"€41,80",Euro / HL.,Toledo vino tinto sin DOP/IGP
-89,ES,Spain,28/08/2017,03/09/2017,5,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-90,ES,Spain,28/08/2017,03/09/2017,5,"€54,03",Euro / HL.,Valencia vino tinto sin DOP/IGP
-91,ES,Spain,28/08/2017,03/09/2017,5,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-92,ES,Spain,25/09/2017,01/10/2017,9,"€39,87",Euro / HL.,Albacete vino blanco sin DOP/IGP
-93,ES,Spain,25/09/2017,01/10/2017,9,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-94,ES,Spain,25/09/2017,01/10/2017,9,"€45,18",Euro / HL.,Albacete vino tinto sin DOP/IGP
-95,ES,Spain,25/09/2017,01/10/2017,9,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-96,ES,Spain,25/09/2017,01/10/2017,9,"€43,87",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-97,ES,Spain,25/09/2017,01/10/2017,9,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-98,ES,Spain,25/09/2017,01/10/2017,9,"€39,67",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-99,ES,Spain,25/09/2017,01/10/2017,9,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-100,ES,Spain,25/09/2017,01/10/2017,9,"€44,43",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-101,ES,Spain,25/09/2017,01/10/2017,9,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-102,ES,Spain,25/09/2017,01/10/2017,9,"€138,61",Euro / HL.,Rueda DOP vino blanco
-103,ES,Spain,25/09/2017,01/10/2017,9,"€,00",Quantity,Rueda DOP vino blanco
-104,ES,Spain,25/09/2017,01/10/2017,9,"€42,77",Euro / HL.,Toledo vino blanco sin DOP/IGP
-105,ES,Spain,25/09/2017,01/10/2017,9,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-106,ES,Spain,25/09/2017,01/10/2017,9,"€46,26",Euro / HL.,Toledo vino tinto sin DOP/IGP
-107,ES,Spain,25/09/2017,01/10/2017,9,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-108,ES,Spain,25/09/2017,01/10/2017,9,"€58,72",Euro / HL.,Valencia vino tinto sin DOP/IGP
-109,ES,Spain,25/09/2017,01/10/2017,9,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-110,ES,Spain,30/10/2017,05/11/2017,14,"€39,42",Euro / HL.,Albacete vino blanco sin DOP/IGP
-111,ES,Spain,30/10/2017,05/11/2017,14,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-112,ES,Spain,30/10/2017,05/11/2017,14,"€54,93",Euro / HL.,Albacete vino tinto sin DOP/IGP
-113,ES,Spain,30/10/2017,05/11/2017,14,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-114,ES,Spain,30/10/2017,05/11/2017,14,"€47,55",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-115,ES,Spain,30/10/2017,05/11/2017,14,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-116,ES,Spain,30/10/2017,05/11/2017,14,"€45,54",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-117,ES,Spain,30/10/2017,05/11/2017,14,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-118,ES,Spain,30/10/2017,05/11/2017,14,"€54,36",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-119,ES,Spain,30/10/2017,05/11/2017,14,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-120,ES,Spain,30/10/2017,05/11/2017,14,"€148,76",Euro / HL.,Rueda DOP vino blanco
-121,ES,Spain,30/10/2017,05/11/2017,14,"€,00",Quantity,Rueda DOP vino blanco
-122,ES,Spain,30/10/2017,05/11/2017,14,"€46,97",Euro / HL.,Toledo vino blanco sin DOP/IGP
-123,ES,Spain,30/10/2017,05/11/2017,14,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-124,ES,Spain,30/10/2017,05/11/2017,14,"€49,21",Euro / HL.,Toledo vino tinto sin DOP/IGP
-125,ES,Spain,30/10/2017,05/11/2017,14,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-126,ES,Spain,30/10/2017,05/11/2017,14,"€62,93",Euro / HL.,Valencia vino tinto sin DOP/IGP
-127,ES,Spain,30/10/2017,05/11/2017,14,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-128,ES,Spain,27/11/2017,03/12/2017,18,"€38,63",Euro / HL.,Albacete vino blanco sin DOP/IGP
-129,ES,Spain,27/11/2017,03/12/2017,18,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-130,ES,Spain,27/11/2017,03/12/2017,18,"€53,69",Euro / HL.,Albacete vino tinto sin DOP/IGP
-131,ES,Spain,27/11/2017,03/12/2017,18,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-132,ES,Spain,27/11/2017,03/12/2017,18,"€53,86",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-133,ES,Spain,27/11/2017,03/12/2017,18,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-134,ES,Spain,27/11/2017,03/12/2017,18,"€51,99",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-135,ES,Spain,27/11/2017,03/12/2017,18,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-136,ES,Spain,27/11/2017,03/12/2017,18,"€61,37",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-137,ES,Spain,27/11/2017,03/12/2017,18,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-138,ES,Spain,27/11/2017,03/12/2017,18,"€197,41",Euro / HL.,Rueda DOP vino blanco
-139,ES,Spain,27/11/2017,03/12/2017,18,"€,00",Quantity,Rueda DOP vino blanco
-140,ES,Spain,27/11/2017,03/12/2017,18,"€46,46",Euro / HL.,Toledo vino blanco sin DOP/IGP
-141,ES,Spain,27/11/2017,03/12/2017,18,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-142,ES,Spain,27/11/2017,03/12/2017,18,"€58,87",Euro / HL.,Toledo vino tinto sin DOP/IGP
-143,ES,Spain,27/11/2017,03/12/2017,18,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-144,ES,Spain,27/11/2017,03/12/2017,18,"€64,27",Euro / HL.,Valencia vino tinto sin DOP/IGP
-145,ES,Spain,27/11/2017,03/12/2017,18,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-146,ES,Spain,01/01/2018,07/01/2018,23,"€41,18",Euro / HL.,Albacete vino blanco sin DOP/IGP
-147,ES,Spain,01/01/2018,07/01/2018,23,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-148,ES,Spain,01/01/2018,07/01/2018,23,"€53,63",Euro / HL.,Albacete vino tinto sin DOP/IGP
-149,ES,Spain,01/01/2018,07/01/2018,23,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-150,ES,Spain,01/01/2018,07/01/2018,23,"€54,78",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-151,ES,Spain,01/01/2018,07/01/2018,23,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-152,ES,Spain,01/01/2018,07/01/2018,23,"€53,88",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-153,ES,Spain,01/01/2018,07/01/2018,23,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-154,ES,Spain,01/01/2018,07/01/2018,23,"€63,96",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-155,ES,Spain,01/01/2018,07/01/2018,23,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-156,ES,Spain,01/01/2018,07/01/2018,23,"€48,93",Euro / HL.,Toledo vino blanco sin DOP/IGP
-157,ES,Spain,01/01/2018,07/01/2018,23,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-158,ES,Spain,01/01/2018,07/01/2018,23,"€67,25",Euro / HL.,Toledo vino tinto sin DOP/IGP
-159,ES,Spain,01/01/2018,07/01/2018,23,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-160,ES,Spain,01/01/2018,07/01/2018,23,"€64,27",Euro / HL.,Valencia vino tinto sin DOP/IGP
-161,ES,Spain,01/01/2018,07/01/2018,23,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-162,ES,Spain,01/07/2019,07/07/2019,49,"€28,79",Euro / HL.,Albacete vino blanco sin DOP/IGP
-163,ES,Spain,01/07/2019,07/07/2019,49,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-164,ES,Spain,01/07/2019,07/07/2019,49,"€43,63",Euro / HL.,Albacete vino tinto sin DOP/IGP
-165,ES,Spain,01/07/2019,07/07/2019,49,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-166,ES,Spain,01/07/2019,07/07/2019,49,"€27,34",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-167,ES,Spain,01/07/2019,07/07/2019,49,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-168,ES,Spain,01/07/2019,07/07/2019,49,"€25,12",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-169,ES,Spain,01/07/2019,07/07/2019,49,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-170,ES,Spain,01/07/2019,07/07/2019,49,"€34,21",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-171,ES,Spain,01/07/2019,07/07/2019,49,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-172,ES,Spain,01/07/2019,07/07/2019,49,"€150,99",Euro / HL.,Rueda DOP vino blanco
-173,ES,Spain,01/07/2019,07/07/2019,49,"€,00",Quantity,Rueda DOP vino blanco
-174,ES,Spain,01/07/2019,07/07/2019,49,"€26,13",Euro / HL.,Toledo vino blanco sin DOP/IGP
-175,ES,Spain,01/07/2019,07/07/2019,49,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-176,ES,Spain,01/07/2019,07/07/2019,49,"€35,59",Euro / HL.,Toledo vino tinto sin DOP/IGP
-177,ES,Spain,01/07/2019,07/07/2019,49,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-178,ES,Spain,01/07/2019,07/07/2019,49,"€33,12",Euro / HL.,Valencia vino tinto sin DOP/IGP
-179,ES,Spain,01/07/2019,07/07/2019,49,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-180,ES,Spain,29/07/2019,04/08/2019,1,"€30,88",Euro / HL.,Albacete vino blanco sin DOP/IGP
-181,ES,Spain,29/07/2019,04/08/2019,1,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-182,ES,Spain,29/07/2019,04/08/2019,1,"€36,61",Euro / HL.,Albacete vino tinto sin DOP/IGP
-183,ES,Spain,29/07/2019,04/08/2019,1,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-184,ES,Spain,29/07/2019,04/08/2019,1,"€26,03",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-185,ES,Spain,29/07/2019,04/08/2019,1,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-186,ES,Spain,29/07/2019,04/08/2019,1,"€26,43",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-187,ES,Spain,29/07/2019,04/08/2019,1,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-188,ES,Spain,29/07/2019,04/08/2019,1,"€37,14",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-189,ES,Spain,29/07/2019,04/08/2019,1,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-190,ES,Spain,29/07/2019,04/08/2019,1,"€26,56",Euro / HL.,Toledo vino blanco sin DOP/IGP
-191,ES,Spain,29/07/2019,04/08/2019,1,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-192,ES,Spain,29/07/2019,04/08/2019,1,"€34,53",Euro / HL.,Toledo vino tinto sin DOP/IGP
-193,ES,Spain,29/07/2019,04/08/2019,1,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-194,ES,Spain,29/07/2019,04/08/2019,1,"€32,75",Euro / HL.,Valencia vino tinto sin DOP/IGP
-195,ES,Spain,27/01/2020,02/02/2020,27,"€41,99",Euro / HL.,Albacete vino blanco sin DOP/IGP
-196,ES,Spain,27/01/2020,02/02/2020,27,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-197,ES,Spain,27/01/2020,02/02/2020,27,"€45,90",Euro / HL.,Albacete vino tinto sin DOP/IGP
-198,ES,Spain,27/01/2020,02/02/2020,27,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-199,ES,Spain,27/01/2020,02/02/2020,27,"€33,61",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-200,ES,Spain,27/01/2020,02/02/2020,27,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-201,ES,Spain,27/01/2020,02/02/2020,27,"€31,97",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-202,ES,Spain,27/01/2020,02/02/2020,27,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-203,ES,Spain,27/01/2020,02/02/2020,27,"€40,83",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-204,ES,Spain,27/01/2020,02/02/2020,27,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-205,ES,Spain,27/01/2020,02/02/2020,27,"€32,61",Euro / HL.,Toledo vino blanco sin DOP/IGP
-206,ES,Spain,27/01/2020,02/02/2020,27,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-207,ES,Spain,27/01/2020,02/02/2020,27,"€47,51",Euro / HL.,Toledo vino tinto sin DOP/IGP
-208,ES,Spain,27/01/2020,02/02/2020,27,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-209,ES,Spain,27/01/2020,02/02/2020,27,"€42,51",Euro / HL.,Valencia vino tinto sin DOP/IGP
-210,ES,Spain,27/01/2020,02/02/2020,27,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-211,ES,Spain,24/02/2020,01/03/2020,31,"€42,29",Euro / HL.,Albacete vino blanco sin DOP/IGP
-212,ES,Spain,24/02/2020,01/03/2020,31,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-213,ES,Spain,24/02/2020,01/03/2020,31,"€44,98",Euro / HL.,Albacete vino tinto sin DOP/IGP
-214,ES,Spain,24/02/2020,01/03/2020,31,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-215,ES,Spain,24/02/2020,01/03/2020,31,"€33,20",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-216,ES,Spain,24/02/2020,01/03/2020,31,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-217,ES,Spain,24/02/2020,01/03/2020,31,"€29,92",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-218,ES,Spain,24/02/2020,01/03/2020,31,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-219,ES,Spain,24/02/2020,01/03/2020,31,"€41,81",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-220,ES,Spain,24/02/2020,01/03/2020,31,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-221,ES,Spain,24/02/2020,01/03/2020,31,"€30,42",Euro / HL.,Toledo vino blanco sin DOP/IGP
-222,ES,Spain,24/02/2020,01/03/2020,31,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-223,ES,Spain,24/02/2020,01/03/2020,31,"€46,00",Euro / HL.,Toledo vino tinto sin DOP/IGP
-224,ES,Spain,24/02/2020,01/03/2020,31,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-225,ES,Spain,24/02/2020,01/03/2020,31,"€40,94",Euro / HL.,Valencia vino tinto sin DOP/IGP
-226,ES,Spain,24/02/2020,01/03/2020,31,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-227,ES,Spain,30/03/2020,05/04/2020,36,"€36,84",Euro / HL.,Albacete vino blanco sin DOP/IGP
-228,ES,Spain,30/03/2020,05/04/2020,36,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-229,ES,Spain,30/03/2020,05/04/2020,36,"€39,96",Euro / HL.,Albacete vino tinto sin DOP/IGP
-230,ES,Spain,30/03/2020,05/04/2020,36,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-231,ES,Spain,30/03/2020,05/04/2020,36,"€34,45",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-232,ES,Spain,30/03/2020,05/04/2020,36,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-233,ES,Spain,30/03/2020,05/04/2020,36,"€29,88",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-234,ES,Spain,30/03/2020,05/04/2020,36,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-235,ES,Spain,30/03/2020,05/04/2020,36,"€39,73",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-236,ES,Spain,30/03/2020,05/04/2020,36,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-237,ES,Spain,30/03/2020,05/04/2020,36,"€29,38",Euro / HL.,Toledo vino blanco sin DOP/IGP
-238,ES,Spain,30/03/2020,05/04/2020,36,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-239,ES,Spain,30/03/2020,05/04/2020,36,"€43,09",Euro / HL.,Toledo vino tinto sin DOP/IGP
-240,ES,Spain,30/03/2020,05/04/2020,36,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-241,ES,Spain,30/03/2020,05/04/2020,36,"€41,63",Euro / HL.,Valencia vino tinto sin DOP/IGP
-242,ES,Spain,30/03/2020,05/04/2020,36,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-243,ES,Spain,29/07/2019,04/08/2019,1,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-244,ES,Spain,26/08/2019,01/09/2019,5,"€34,70",Euro / HL.,Albacete vino blanco sin DOP/IGP
-245,ES,Spain,26/08/2019,01/09/2019,5,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-246,ES,Spain,26/08/2019,01/09/2019,5,"€37,86",Euro / HL.,Albacete vino tinto sin DOP/IGP
-247,ES,Spain,26/08/2019,01/09/2019,5,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-248,ES,Spain,26/08/2019,01/09/2019,5,"€33,17",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-249,ES,Spain,26/08/2019,01/09/2019,5,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-250,ES,Spain,26/08/2019,01/09/2019,5,"€24,77",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-251,ES,Spain,26/08/2019,01/09/2019,5,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-252,ES,Spain,26/08/2019,01/09/2019,5,"€30,23",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-253,ES,Spain,26/08/2019,01/09/2019,5,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-254,ES,Spain,26/08/2019,01/09/2019,5,"€26,75",Euro / HL.,Toledo vino blanco sin DOP/IGP
-255,ES,Spain,26/08/2019,01/09/2019,5,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-256,ES,Spain,26/08/2019,01/09/2019,5,"€36,61",Euro / HL.,Toledo vino tinto sin DOP/IGP
-257,ES,Spain,26/08/2019,01/09/2019,5,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-258,ES,Spain,26/08/2019,01/09/2019,5,"€40,36",Euro / HL.,Valencia vino tinto sin DOP/IGP
-259,ES,Spain,26/08/2019,01/09/2019,5,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-260,ES,Spain,30/09/2019,06/10/2019,10,"€33,04",Euro / HL.,Albacete vino blanco sin DOP/IGP
-261,ES,Spain,30/09/2019,06/10/2019,10,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-262,ES,Spain,30/09/2019,06/10/2019,10,"€44,13",Euro / HL.,Albacete vino tinto sin DOP/IGP
-263,ES,Spain,30/09/2019,06/10/2019,10,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-264,ES,Spain,30/09/2019,06/10/2019,10,"€38,30",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-265,ES,Spain,30/09/2019,06/10/2019,10,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-266,ES,Spain,30/09/2019,06/10/2019,10,"€31,23",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-267,ES,Spain,30/09/2019,06/10/2019,10,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-268,ES,Spain,30/09/2019,06/10/2019,10,"€38,48",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-269,ES,Spain,30/09/2019,06/10/2019,10,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-270,ES,Spain,30/09/2019,06/10/2019,10,"€26,36",Euro / HL.,Toledo vino blanco sin DOP/IGP
-271,ES,Spain,30/09/2019,06/10/2019,10,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-272,ES,Spain,30/09/2019,06/10/2019,10,"€39,66",Euro / HL.,Toledo vino tinto sin DOP/IGP
-273,ES,Spain,30/09/2019,06/10/2019,10,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-274,ES,Spain,30/09/2019,06/10/2019,10,"€45,04",Euro / HL.,Valencia vino tinto sin DOP/IGP
-275,ES,Spain,30/09/2019,06/10/2019,10,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-276,ES,Spain,28/10/2019,03/11/2019,14,"€37,65",Euro / HL.,Albacete vino blanco sin DOP/IGP
-277,ES,Spain,28/10/2019,03/11/2019,14,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-278,ES,Spain,28/10/2019,03/11/2019,14,"€43,49",Euro / HL.,Albacete vino tinto sin DOP/IGP
-279,ES,Spain,28/10/2019,03/11/2019,14,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-280,ES,Spain,28/10/2019,03/11/2019,14,"€35,19",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-281,ES,Spain,28/10/2019,03/11/2019,14,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-282,ES,Spain,28/10/2019,03/11/2019,14,"€34,58",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-283,ES,Spain,28/10/2019,03/11/2019,14,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-284,ES,Spain,28/10/2019,03/11/2019,14,"€41,29",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-285,ES,Spain,28/10/2019,03/11/2019,14,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-286,ES,Spain,28/10/2019,03/11/2019,14,"€33,85",Euro / HL.,Toledo vino blanco sin DOP/IGP
-287,ES,Spain,28/10/2019,03/11/2019,14,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-288,ES,Spain,28/10/2019,03/11/2019,14,"€39,64",Euro / HL.,Toledo vino tinto sin DOP/IGP
-289,ES,Spain,28/10/2019,03/11/2019,14,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-290,ES,Spain,28/10/2019,03/11/2019,14,"€43,81",Euro / HL.,Valencia vino tinto sin DOP/IGP
-291,ES,Spain,28/10/2019,03/11/2019,14,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-292,ES,Spain,25/11/2019,01/12/2019,18,"€40,34",Euro / HL.,Albacete vino blanco sin DOP/IGP
-293,ES,Spain,25/11/2019,01/12/2019,18,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-294,ES,Spain,25/11/2019,01/12/2019,18,"€46,62",Euro / HL.,Albacete vino tinto sin DOP/IGP
-295,ES,Spain,25/11/2019,01/12/2019,18,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-296,ES,Spain,25/11/2019,01/12/2019,18,"€34,75",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-297,ES,Spain,25/11/2019,01/12/2019,18,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-298,ES,Spain,25/11/2019,01/12/2019,18,"€30,96",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-299,ES,Spain,25/11/2019,01/12/2019,18,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-300,ES,Spain,25/11/2019,01/12/2019,18,"€44,84",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-301,ES,Spain,25/11/2019,01/12/2019,18,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-302,ES,Spain,25/11/2019,01/12/2019,18,"€29,90",Euro / HL.,Toledo vino blanco sin DOP/IGP
-303,ES,Spain,25/11/2019,01/12/2019,18,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-304,ES,Spain,25/11/2019,01/12/2019,18,"€42,11",Euro / HL.,Toledo vino tinto sin DOP/IGP
-305,ES,Spain,25/11/2019,01/12/2019,18,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-306,ES,Spain,25/11/2019,01/12/2019,18,"€44,91",Euro / HL.,Valencia vino tinto sin DOP/IGP
-307,ES,Spain,25/11/2019,01/12/2019,18,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-308,ES,Spain,30/12/2019,05/01/2020,23,"€42,73",Euro / HL.,Albacete vino blanco sin DOP/IGP
-309,ES,Spain,30/12/2019,05/01/2020,23,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-310,ES,Spain,30/12/2019,05/01/2020,23,"€49,81",Euro / HL.,Albacete vino tinto sin DOP/IGP
-311,ES,Spain,30/12/2019,05/01/2020,23,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-312,ES,Spain,30/12/2019,05/01/2020,23,"€36,77",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-313,ES,Spain,30/12/2019,05/01/2020,23,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-314,ES,Spain,30/12/2019,05/01/2020,23,"€32,88",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-315,ES,Spain,30/12/2019,05/01/2020,23,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-316,ES,Spain,30/12/2019,05/01/2020,23,"€43,37",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-317,ES,Spain,30/12/2019,05/01/2020,23,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-318,ES,Spain,30/12/2019,05/01/2020,23,"€34,09",Euro / HL.,Toledo vino blanco sin DOP/IGP
-319,ES,Spain,30/12/2019,05/01/2020,23,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-320,ES,Spain,30/12/2019,05/01/2020,23,"€43,05",Euro / HL.,Toledo vino tinto sin DOP/IGP
-321,ES,Spain,30/12/2019,05/01/2020,23,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-322,ES,Spain,30/12/2019,05/01/2020,23,"€44,51",Euro / HL.,Valencia vino tinto sin DOP/IGP
-323,ES,Spain,30/12/2019,05/01/2020,23,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-324,ES,Spain,30/04/2018,06/05/2018,40,"€57,64",Euro / HL.,Albacete vino blanco sin DOP/IGP
-325,ES,Spain,30/04/2018,06/05/2018,40,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-326,ES,Spain,30/04/2018,06/05/2018,40,"€64,32",Euro / HL.,Albacete vino tinto sin DOP/IGP
-327,ES,Spain,30/04/2018,06/05/2018,40,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-328,ES,Spain,30/04/2018,06/05/2018,40,"€56,73",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-329,ES,Spain,30/04/2018,06/05/2018,40,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-330,ES,Spain,30/04/2018,06/05/2018,40,"€51,72",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-331,ES,Spain,30/04/2018,06/05/2018,40,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-332,ES,Spain,30/04/2018,06/05/2018,40,"€60,60",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-333,ES,Spain,30/04/2018,06/05/2018,40,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-334,ES,Spain,30/04/2018,06/05/2018,40,"€241,21",Euro / HL.,Rioja DOP vino tinto
-335,ES,Spain,30/04/2018,06/05/2018,40,"€,00",Quantity,Rioja DOP vino tinto
-336,ES,Spain,30/04/2018,06/05/2018,40,"€284,01",Euro / HL.,Rueda DOP vino blanco
-337,ES,Spain,30/04/2018,06/05/2018,40,"€,00",Quantity,Rueda DOP vino blanco
-338,ES,Spain,30/04/2018,06/05/2018,40,"€53,57",Euro / HL.,Toledo vino blanco sin DOP/IGP
-339,ES,Spain,30/04/2018,06/05/2018,40,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-340,ES,Spain,30/04/2018,06/05/2018,40,"€62,25",Euro / HL.,Toledo vino tinto sin DOP/IGP
-341,ES,Spain,30/04/2018,06/05/2018,40,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-342,ES,Spain,30/04/2018,06/05/2018,40,"€64,27",Euro / HL.,Valencia vino tinto sin DOP/IGP
-343,ES,Spain,30/04/2018,06/05/2018,40,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-344,ES,Spain,28/05/2018,03/06/2018,44,"€59,65",Euro / HL.,Albacete vino blanco sin DOP/IGP
-345,ES,Spain,28/05/2018,03/06/2018,44,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-346,ES,Spain,28/05/2018,03/06/2018,44,"€65,95",Euro / HL.,Albacete vino tinto sin DOP/IGP
-347,ES,Spain,28/05/2018,03/06/2018,44,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-348,ES,Spain,28/05/2018,03/06/2018,44,"€56,87",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-349,ES,Spain,28/05/2018,03/06/2018,44,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-350,ES,Spain,28/05/2018,03/06/2018,44,"€50,82",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-351,ES,Spain,28/05/2018,03/06/2018,44,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-352,ES,Spain,28/05/2018,03/06/2018,44,"€59,53",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-353,ES,Spain,28/05/2018,03/06/2018,44,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-354,ES,Spain,28/05/2018,03/06/2018,44,"€240,30",Euro / HL.,Rioja DOP vino tinto
-355,ES,Spain,28/05/2018,03/06/2018,44,"€,00",Quantity,Rioja DOP vino tinto
-356,ES,Spain,28/05/2018,03/06/2018,44,"€273,90",Euro / HL.,Rueda DOP vino blanco
-357,ES,Spain,28/05/2018,03/06/2018,44,"€,00",Quantity,Rueda DOP vino blanco
-358,ES,Spain,28/05/2018,03/06/2018,44,"€52,75",Euro / HL.,Toledo vino blanco sin DOP/IGP
-359,ES,Spain,28/05/2018,03/06/2018,44,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-360,ES,Spain,28/05/2018,03/06/2018,44,"€65,95",Euro / HL.,Toledo vino tinto sin DOP/IGP
-361,ES,Spain,28/05/2018,03/06/2018,44,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-362,ES,Spain,28/05/2018,03/06/2018,44,"€64,27",Euro / HL.,Valencia vino tinto sin DOP/IGP
-363,ES,Spain,28/05/2018,03/06/2018,44,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-364,ES,Spain,25/06/2018,01/07/2018,48,"€60,61",Euro / HL.,Albacete vino blanco sin DOP/IGP
-365,ES,Spain,25/06/2018,01/07/2018,48,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-366,ES,Spain,25/06/2018,01/07/2018,48,"€63,80",Euro / HL.,Albacete vino tinto sin DOP/IGP
-367,ES,Spain,25/06/2018,01/07/2018,48,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-368,ES,Spain,25/06/2018,01/07/2018,48,"€52,71",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-369,ES,Spain,25/06/2018,01/07/2018,48,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-370,ES,Spain,25/06/2018,01/07/2018,48,"€51,89",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-371,ES,Spain,25/06/2018,01/07/2018,48,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-372,ES,Spain,25/06/2018,01/07/2018,48,"€64,53",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-373,ES,Spain,25/06/2018,01/07/2018,48,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-374,ES,Spain,25/06/2018,01/07/2018,48,"€48,83",Euro / HL.,Toledo vino blanco sin DOP/IGP
-375,ES,Spain,25/06/2018,01/07/2018,48,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-376,ES,Spain,25/06/2018,01/07/2018,48,"€65,43",Euro / HL.,Toledo vino tinto sin DOP/IGP
-377,ES,Spain,25/06/2018,01/07/2018,48,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-378,ES,Spain,25/06/2018,01/07/2018,48,"€62,76",Euro / HL.,Valencia vino tinto sin DOP/IGP
-379,ES,Spain,25/06/2018,01/07/2018,48,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-380,ES,Spain,30/07/2018,05/08/2018,1,"€60,92",Euro / HL.,Albacete vino blanco sin DOP/IGP
-381,ES,Spain,30/07/2018,05/08/2018,1,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-382,ES,Spain,30/07/2018,05/08/2018,1,"€67,61",Euro / HL.,Albacete vino tinto sin DOP/IGP
-383,ES,Spain,30/07/2018,05/08/2018,1,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-384,ES,Spain,30/07/2018,05/08/2018,1,"€48,80",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-385,ES,Spain,30/07/2018,05/08/2018,1,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-386,ES,Spain,30/07/2018,05/08/2018,1,"€48,57",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-387,ES,Spain,30/07/2018,05/08/2018,1,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-388,ES,Spain,30/07/2018,05/08/2018,1,"€61,84",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-389,ES,Spain,30/07/2018,05/08/2018,1,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-390,ES,Spain,30/07/2018,05/08/2018,1,"€48,62",Euro / HL.,Toledo vino blanco sin DOP/IGP
-391,ES,Spain,30/07/2018,05/08/2018,1,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-392,ES,Spain,30/07/2018,05/08/2018,1,"€63,43",Euro / HL.,Toledo vino tinto sin DOP/IGP
-393,ES,Spain,30/07/2018,05/08/2018,1,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-394,ES,Spain,30/07/2018,05/08/2018,1,"€56,42",Euro / HL.,Valencia vino tinto sin DOP/IGP
-395,ES,Spain,30/07/2018,05/08/2018,1,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-396,ES,Spain,27/08/2018,02/09/2018,5,"€56,55",Euro / HL.,Albacete vino blanco sin DOP/IGP
-397,ES,Spain,27/08/2018,02/09/2018,5,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-398,ES,Spain,27/08/2018,02/09/2018,5,"€64,30",Euro / HL.,Albacete vino tinto sin DOP/IGP
-399,ES,Spain,27/08/2018,02/09/2018,5,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-400,ES,Spain,27/08/2018,02/09/2018,5,"€43,58",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-401,ES,Spain,27/08/2018,02/09/2018,5,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-402,ES,Spain,27/08/2018,02/09/2018,5,"€42,05",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-403,ES,Spain,27/08/2018,02/09/2018,5,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-404,ES,Spain,27/08/2018,02/09/2018,5,"€53,66",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-405,ES,Spain,27/08/2018,02/09/2018,5,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-406,ES,Spain,27/08/2018,02/09/2018,5,"€44,91",Euro / HL.,Toledo vino blanco sin DOP/IGP
-407,ES,Spain,27/08/2018,02/09/2018,5,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-408,ES,Spain,27/08/2018,02/09/2018,5,"€57,43",Euro / HL.,Toledo vino tinto sin DOP/IGP
-409,ES,Spain,27/08/2018,02/09/2018,5,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-410,ES,Spain,27/08/2018,02/09/2018,5,"€55,20",Euro / HL.,Valencia vino tinto sin DOP/IGP
-411,ES,Spain,27/08/2018,02/09/2018,5,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-412,ES,Spain,01/10/2018,07/10/2018,10,"€58,05",Euro / HL.,Albacete vino blanco sin DOP/IGP
-413,ES,Spain,01/10/2018,07/10/2018,10,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-414,ES,Spain,01/10/2018,07/10/2018,10,"€66,59",Euro / HL.,Albacete vino tinto sin DOP/IGP
-415,ES,Spain,01/10/2018,07/10/2018,10,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-416,ES,Spain,01/10/2018,07/10/2018,10,"€40,87",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-417,ES,Spain,01/10/2018,07/10/2018,10,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-418,ES,Spain,01/10/2018,07/10/2018,10,"€42,45",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-419,ES,Spain,01/10/2018,07/10/2018,10,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-420,ES,Spain,01/10/2018,07/10/2018,10,"€54,60",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-421,ES,Spain,01/10/2018,07/10/2018,10,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-422,ES,Spain,01/10/2018,07/10/2018,10,"€48,40",Euro / HL.,Toledo vino blanco sin DOP/IGP
-423,ES,Spain,01/10/2018,07/10/2018,10,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-424,ES,Spain,01/10/2018,07/10/2018,10,"€61,25",Euro / HL.,Toledo vino tinto sin DOP/IGP
-425,ES,Spain,01/10/2018,07/10/2018,10,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-426,ES,Spain,01/10/2018,07/10/2018,10,"€47,58",Euro / HL.,Valencia vino tinto sin DOP/IGP
-427,ES,Spain,01/10/2018,07/10/2018,10,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-428,ES,Spain,29/10/2018,04/11/2018,14,"€48,77",Euro / HL.,Albacete vino blanco sin DOP/IGP
-429,ES,Spain,29/10/2018,04/11/2018,14,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-430,ES,Spain,29/10/2018,04/11/2018,14,"€64,52",Euro / HL.,Albacete vino tinto sin DOP/IGP
-431,ES,Spain,29/10/2018,04/11/2018,14,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-432,ES,Spain,29/10/2018,04/11/2018,14,"€36,71",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-433,ES,Spain,29/10/2018,04/11/2018,14,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-434,ES,Spain,29/10/2018,04/11/2018,14,"€35,60",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-435,ES,Spain,29/10/2018,04/11/2018,14,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-436,ES,Spain,29/10/2018,04/11/2018,14,"€44,95",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-437,ES,Spain,29/10/2018,04/11/2018,14,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-438,ES,Spain,29/10/2018,04/11/2018,14,"€39,77",Euro / HL.,Toledo vino blanco sin DOP/IGP
-439,ES,Spain,29/10/2018,04/11/2018,14,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-440,ES,Spain,29/10/2018,04/11/2018,14,"€53,24",Euro / HL.,Toledo vino tinto sin DOP/IGP
-441,ES,Spain,29/10/2018,04/11/2018,14,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-442,ES,Spain,29/10/2018,04/11/2018,14,"€42,15",Euro / HL.,Valencia vino tinto sin DOP/IGP
-443,ES,Spain,29/10/2018,04/11/2018,14,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-444,ES,Spain,26/11/2018,02/12/2018,18,"€44,56",Euro / HL.,Albacete vino blanco sin DOP/IGP
-445,ES,Spain,26/11/2018,02/12/2018,18,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-446,ES,Spain,26/11/2018,02/12/2018,18,"€54,14",Euro / HL.,Albacete vino tinto sin DOP/IGP
-447,ES,Spain,26/11/2018,02/12/2018,18,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-448,ES,Spain,26/11/2018,02/12/2018,18,"€32,77",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-449,ES,Spain,26/11/2018,02/12/2018,18,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-450,ES,Spain,26/11/2018,02/12/2018,18,"€32,42",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-451,ES,Spain,26/11/2018,02/12/2018,18,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-452,ES,Spain,26/11/2018,02/12/2018,18,"€39,66",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-453,ES,Spain,26/11/2018,02/12/2018,18,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-454,ES,Spain,26/11/2018,02/12/2018,18,"€202,39",Euro / HL.,Rueda DOP vino blanco
-455,ES,Spain,26/11/2018,02/12/2018,18,"€,00",Quantity,Rueda DOP vino blanco
-456,ES,Spain,26/11/2018,02/12/2018,18,"€40,94",Euro / HL.,Toledo vino blanco sin DOP/IGP
-457,ES,Spain,26/11/2018,02/12/2018,18,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-458,ES,Spain,26/11/2018,02/12/2018,18,"€55,10",Euro / HL.,Toledo vino tinto sin DOP/IGP
-459,ES,Spain,26/11/2018,02/12/2018,18,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-460,ES,Spain,26/11/2018,02/12/2018,18,"€39,47",Euro / HL.,Valencia vino tinto sin DOP/IGP
-461,ES,Spain,26/11/2018,02/12/2018,18,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-462,ES,Spain,31/12/2018,06/01/2019,23,"€37,28",Euro / HL.,Albacete vino blanco sin DOP/IGP
-463,ES,Spain,31/12/2018,06/01/2019,23,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-464,ES,Spain,31/12/2018,06/01/2019,23,"€47,59",Euro / HL.,Albacete vino tinto sin DOP/IGP
-465,ES,Spain,31/12/2018,06/01/2019,23,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-466,ES,Spain,31/12/2018,06/01/2019,23,"€31,81",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-467,ES,Spain,31/12/2018,06/01/2019,23,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-468,ES,Spain,31/12/2018,06/01/2019,23,"€30,29",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-469,ES,Spain,31/12/2018,06/01/2019,23,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-470,ES,Spain,31/12/2018,06/01/2019,23,"€34,93",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-471,ES,Spain,31/12/2018,06/01/2019,23,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-472,ES,Spain,31/12/2018,06/01/2019,23,"€202,39",Euro / HL.,Rueda DOP vino blanco
-473,ES,Spain,31/12/2018,06/01/2019,23,"€,00",Quantity,Rueda DOP vino blanco
-474,ES,Spain,31/12/2018,06/01/2019,23,"€32,76",Euro / HL.,Toledo vino blanco sin DOP/IGP
-475,ES,Spain,31/12/2018,06/01/2019,23,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-476,ES,Spain,31/12/2018,06/01/2019,23,"€47,46",Euro / HL.,Toledo vino tinto sin DOP/IGP
-477,ES,Spain,31/12/2018,06/01/2019,23,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-478,ES,Spain,31/12/2018,06/01/2019,23,"€38,26",Euro / HL.,Valencia vino tinto sin DOP/IGP
-479,ES,Spain,31/12/2018,06/01/2019,23,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-480,ES,Spain,28/01/2019,03/02/2019,27,"€38,50",Euro / HL.,Albacete vino blanco sin DOP/IGP
-481,ES,Spain,28/01/2019,03/02/2019,27,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-482,ES,Spain,28/01/2019,03/02/2019,27,"€52,49",Euro / HL.,Albacete vino tinto sin DOP/IGP
-483,ES,Spain,28/01/2019,03/02/2019,27,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-484,ES,Spain,28/01/2019,03/02/2019,27,"€27,18",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-485,ES,Spain,28/01/2019,03/02/2019,27,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-486,ES,Spain,28/01/2019,03/02/2019,27,"€27,20",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-487,ES,Spain,28/01/2019,03/02/2019,27,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-488,ES,Spain,28/01/2019,03/02/2019,27,"€37,93",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-489,ES,Spain,28/01/2019,03/02/2019,27,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-490,ES,Spain,28/01/2019,03/02/2019,27,"€29,12",Euro / HL.,Toledo vino blanco sin DOP/IGP
-491,ES,Spain,28/01/2019,03/02/2019,27,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-492,ES,Spain,28/01/2019,03/02/2019,27,"€41,14",Euro / HL.,Toledo vino tinto sin DOP/IGP
-493,ES,Spain,28/01/2019,03/02/2019,27,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-494,ES,Spain,28/01/2019,03/02/2019,27,"€34,13",Euro / HL.,Valencia vino tinto sin DOP/IGP
-495,ES,Spain,28/01/2019,03/02/2019,27,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-496,ES,Spain,25/02/2019,03/03/2019,31,"€39,58",Euro / HL.,Albacete vino blanco sin DOP/IGP
-497,ES,Spain,25/02/2019,03/03/2019,31,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-498,ES,Spain,25/02/2019,03/03/2019,31,"€48,12",Euro / HL.,Albacete vino tinto sin DOP/IGP
-499,ES,Spain,25/02/2019,03/03/2019,31,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-500,ES,Spain,25/02/2019,03/03/2019,31,"€25,18",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-501,ES,Spain,25/02/2019,03/03/2019,31,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-502,ES,Spain,25/02/2019,03/03/2019,31,"€25,63",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-503,ES,Spain,25/02/2019,03/03/2019,31,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-504,ES,Spain,25/02/2019,03/03/2019,31,"€35,81",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-505,ES,Spain,25/02/2019,03/03/2019,31,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-506,ES,Spain,25/02/2019,03/03/2019,31,"€28,25",Euro / HL.,Toledo vino blanco sin DOP/IGP
-507,ES,Spain,25/02/2019,03/03/2019,31,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-508,ES,Spain,25/02/2019,03/03/2019,31,"€38,29",Euro / HL.,Toledo vino tinto sin DOP/IGP
-509,ES,Spain,25/02/2019,03/03/2019,31,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-510,ES,Spain,25/02/2019,03/03/2019,31,"€34,06",Euro / HL.,Valencia vino tinto sin DOP/IGP
-511,ES,Spain,25/02/2019,03/03/2019,31,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-512,ES,Spain,01/04/2019,07/04/2019,36,"€38,44",Euro / HL.,Albacete vino blanco sin DOP/IGP
-513,ES,Spain,01/04/2019,07/04/2019,36,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-514,ES,Spain,01/04/2019,07/04/2019,36,"€40,14",Euro / HL.,Albacete vino tinto sin DOP/IGP
-515,ES,Spain,01/04/2019,07/04/2019,36,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-516,ES,Spain,01/04/2019,07/04/2019,36,"€27,20",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-517,ES,Spain,01/04/2019,07/04/2019,36,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-518,ES,Spain,01/04/2019,07/04/2019,36,"€25,41",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-519,ES,Spain,01/04/2019,07/04/2019,36,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-520,ES,Spain,01/04/2019,07/04/2019,36,"€33,65",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-521,ES,Spain,01/04/2019,07/04/2019,36,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-522,ES,Spain,01/04/2019,07/04/2019,36,"€142,45",Euro / HL.,Rioja DOP vino tinto
-523,ES,Spain,01/04/2019,07/04/2019,36,"€,00",Quantity,Rioja DOP vino tinto
-524,ES,Spain,01/04/2019,07/04/2019,36,"€31,11",Euro / HL.,Toledo vino blanco sin DOP/IGP
-525,ES,Spain,01/04/2019,07/04/2019,36,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-526,ES,Spain,01/04/2019,07/04/2019,36,"€38,40",Euro / HL.,Toledo vino tinto sin DOP/IGP
-527,ES,Spain,01/04/2019,07/04/2019,36,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-528,ES,Spain,01/04/2019,07/04/2019,36,"€33,33",Euro / HL.,Valencia vino tinto sin DOP/IGP
-529,ES,Spain,01/04/2019,07/04/2019,36,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-530,ES,Spain,29/04/2019,05/05/2019,40,"€29,42",Euro / HL.,Albacete vino blanco sin DOP/IGP
-531,ES,Spain,29/04/2019,05/05/2019,40,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-532,ES,Spain,29/04/2019,05/05/2019,40,"€41,05",Euro / HL.,Albacete vino tinto sin DOP/IGP
-533,ES,Spain,29/04/2019,05/05/2019,40,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-534,ES,Spain,29/04/2019,05/05/2019,40,"€26,77",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-535,ES,Spain,29/04/2019,05/05/2019,40,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-536,ES,Spain,29/04/2019,05/05/2019,40,"€24,79",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-537,ES,Spain,29/04/2019,05/05/2019,40,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-538,ES,Spain,29/04/2019,05/05/2019,40,"€35,69",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-539,ES,Spain,29/04/2019,05/05/2019,40,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-540,ES,Spain,29/04/2019,05/05/2019,40,"€133,26",Euro / HL.,Rioja DOP vino tinto
-541,ES,Spain,29/04/2019,05/05/2019,40,"€,00",Quantity,Rioja DOP vino tinto
-542,ES,Spain,29/04/2019,05/05/2019,40,"€27,38",Euro / HL.,Toledo vino blanco sin DOP/IGP
-543,ES,Spain,29/04/2019,05/05/2019,40,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-544,ES,Spain,29/04/2019,05/05/2019,40,"€32,95",Euro / HL.,Toledo vino tinto sin DOP/IGP
-545,ES,Spain,29/04/2019,05/05/2019,40,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-546,ES,Spain,29/04/2019,05/05/2019,40,"€33,77",Euro / HL.,Valencia vino tinto sin DOP/IGP
-547,ES,Spain,29/04/2019,05/05/2019,40,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-548,ES,Spain,27/05/2019,02/06/2019,44,"€27,39",Euro / HL.,Albacete vino blanco sin DOP/IGP
-549,ES,Spain,27/05/2019,02/06/2019,44,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-550,ES,Spain,27/05/2019,02/06/2019,44,"€41,16",Euro / HL.,Albacete vino tinto sin DOP/IGP
-551,ES,Spain,27/05/2019,02/06/2019,44,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-552,ES,Spain,27/05/2019,02/06/2019,44,"€25,75",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-553,ES,Spain,27/05/2019,02/06/2019,44,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-554,ES,Spain,27/05/2019,02/06/2019,44,"€25,31",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-555,ES,Spain,27/05/2019,02/06/2019,44,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-556,ES,Spain,27/05/2019,02/06/2019,44,"€35,43",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-557,ES,Spain,27/05/2019,02/06/2019,44,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-558,ES,Spain,27/05/2019,02/06/2019,44,"€133,26",Euro / HL.,Rioja DOP vino tinto
-559,ES,Spain,27/05/2019,02/06/2019,44,"€,00",Quantity,Rioja DOP vino tinto
-560,ES,Spain,27/05/2019,02/06/2019,44,"€29,19",Euro / HL.,Toledo vino blanco sin DOP/IGP
-561,ES,Spain,27/05/2019,02/06/2019,44,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-562,ES,Spain,27/05/2019,02/06/2019,44,"€36,19",Euro / HL.,Toledo vino tinto sin DOP/IGP
-563,ES,Spain,27/05/2019,02/06/2019,44,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-564,ES,Spain,27/05/2019,02/06/2019,44,"€33,48",Euro / HL.,Valencia vino tinto sin DOP/IGP
-565,ES,Spain,27/05/2019,02/06/2019,44,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-566,ES,Spain,28/06/2021,04/07/2021,48,"€37,64",Euro / HL.,Albacete vino blanco sin DOP/IGP
-567,ES,Spain,28/06/2021,04/07/2021,48,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-568,ES,Spain,28/06/2021,04/07/2021,48,"€39,88",Euro / HL.,Albacete vino tinto sin DOP/IGP
-569,ES,Spain,28/06/2021,04/07/2021,48,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-570,ES,Spain,28/06/2021,04/07/2021,48,"€27,75",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-571,ES,Spain,28/06/2021,04/07/2021,48,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-572,ES,Spain,28/06/2021,04/07/2021,48,"€25,84",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-573,ES,Spain,28/06/2021,04/07/2021,48,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-574,ES,Spain,28/06/2021,04/07/2021,48,"€28,56",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-575,ES,Spain,28/06/2021,04/07/2021,48,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-576,ES,Spain,28/06/2021,04/07/2021,48,"€23,28",Euro / HL.,Toledo vino blanco sin DOP/IGP
-577,ES,Spain,28/06/2021,04/07/2021,48,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-578,ES,Spain,28/06/2021,04/07/2021,48,"€34,82",Euro / HL.,Toledo vino tinto sin DOP/IGP
-579,ES,Spain,28/06/2021,04/07/2021,48,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-580,ES,Spain,28/06/2021,04/07/2021,48,"€32,08",Euro / HL.,Valencia vino tinto sin DOP/IGP
-581,ES,Spain,28/06/2021,04/07/2021,48,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-582,ES,Spain,26/07/2021,01/08/2021,52,"€36,77",Euro / HL.,Albacete vino blanco sin DOP/IGP
-583,ES,Spain,26/07/2021,01/08/2021,52,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-584,ES,Spain,26/07/2021,01/08/2021,52,"€41,25",Euro / HL.,Albacete vino tinto sin DOP/IGP
-585,ES,Spain,26/07/2021,01/08/2021,52,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-586,ES,Spain,26/07/2021,01/08/2021,52,"€29,93",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-587,ES,Spain,26/07/2021,01/08/2021,52,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-588,ES,Spain,26/07/2021,01/08/2021,52,"€28,09",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-589,ES,Spain,26/07/2021,01/08/2021,52,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-590,ES,Spain,26/07/2021,01/08/2021,52,"€28,65",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-591,ES,Spain,26/07/2021,01/08/2021,52,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-592,ES,Spain,26/07/2021,01/08/2021,52,"€24,56",Euro / HL.,Toledo vino blanco sin DOP/IGP
-593,ES,Spain,26/07/2021,01/08/2021,52,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-594,ES,Spain,26/07/2021,01/08/2021,52,"€33,07",Euro / HL.,Toledo vino tinto sin DOP/IGP
-595,ES,Spain,26/07/2021,01/08/2021,52,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-596,ES,Spain,26/07/2021,01/08/2021,52,"€30,94",Euro / HL.,Valencia vino tinto sin DOP/IGP
-597,ES,Spain,26/07/2021,01/08/2021,52,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-598,ES,Spain,30/08/2021,05/09/2021,5,"€36,34",Euro / HL.,Albacete vino blanco sin DOP/IGP
-599,ES,Spain,30/08/2021,05/09/2021,5,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-600,ES,Spain,30/08/2021,05/09/2021,5,"€35,81",Euro / HL.,Albacete vino tinto sin DOP/IGP
-601,ES,Spain,30/08/2021,05/09/2021,5,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-602,ES,Spain,30/08/2021,05/09/2021,5,"€34,79",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-603,ES,Spain,30/08/2021,05/09/2021,5,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-604,ES,Spain,30/08/2021,05/09/2021,5,"€29,48",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-605,ES,Spain,30/08/2021,05/09/2021,5,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-606,ES,Spain,30/08/2021,05/09/2021,5,"€30,92",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-607,ES,Spain,30/08/2021,05/09/2021,5,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-608,ES,Spain,30/08/2021,05/09/2021,5,"€24,94",Euro / HL.,Toledo vino blanco sin DOP/IGP
-609,ES,Spain,30/08/2021,05/09/2021,5,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-610,ES,Spain,30/08/2021,05/09/2021,5,"€32,84",Euro / HL.,Toledo vino tinto sin DOP/IGP
-611,ES,Spain,30/08/2021,05/09/2021,5,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-612,ES,Spain,30/08/2021,05/09/2021,5,"€34,63",Euro / HL.,Valencia vino tinto sin DOP/IGP
-613,ES,Spain,30/08/2021,05/09/2021,5,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-614,ES,Spain,27/09/2021,03/10/2021,9,"€38,58",Euro / HL.,Albacete vino blanco sin DOP/IGP
-615,ES,Spain,27/09/2021,03/10/2021,9,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-616,ES,Spain,27/09/2021,03/10/2021,9,"€37,81",Euro / HL.,Albacete vino tinto sin DOP/IGP
-617,ES,Spain,27/09/2021,03/10/2021,9,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-618,ES,Spain,27/09/2021,03/10/2021,9,"€39,73",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-619,ES,Spain,27/09/2021,03/10/2021,9,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-620,ES,Spain,27/09/2021,03/10/2021,9,"€31,02",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-621,ES,Spain,27/09/2021,03/10/2021,9,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-622,ES,Spain,27/09/2021,03/10/2021,9,"€33,09",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-623,ES,Spain,27/09/2021,03/10/2021,9,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-624,ES,Spain,27/09/2021,03/10/2021,9,"€24,66",Euro / HL.,Toledo vino blanco sin DOP/IGP
-625,ES,Spain,27/09/2021,03/10/2021,9,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-626,ES,Spain,27/09/2021,03/10/2021,9,"€34,14",Euro / HL.,Toledo vino tinto sin DOP/IGP
-627,ES,Spain,27/09/2021,03/10/2021,9,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-628,ES,Spain,27/09/2021,03/10/2021,9,"€38,66",Euro / HL.,Valencia vino tinto sin DOP/IGP
-629,ES,Spain,27/09/2021,03/10/2021,9,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-630,ES,Spain,01/11/2021,07/11/2021,14,"€43,00",Euro / HL.,Albacete vino blanco sin DOP/IGP
-631,ES,Spain,01/11/2021,07/11/2021,14,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-632,ES,Spain,01/11/2021,07/11/2021,14,"€40,14",Euro / HL.,Albacete vino tinto sin DOP/IGP
-633,ES,Spain,01/11/2021,07/11/2021,14,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-634,ES,Spain,01/11/2021,07/11/2021,14,"€42,09",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-635,ES,Spain,01/11/2021,07/11/2021,14,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-636,ES,Spain,01/11/2021,07/11/2021,14,"€34,06",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-637,ES,Spain,01/11/2021,07/11/2021,14,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-638,ES,Spain,01/11/2021,07/11/2021,14,"€36,05",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-639,ES,Spain,01/11/2021,07/11/2021,14,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-640,ES,Spain,01/11/2021,07/11/2021,14,"€26,43",Euro / HL.,Toledo vino blanco sin DOP/IGP
-641,ES,Spain,01/11/2021,07/11/2021,14,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-642,ES,Spain,01/11/2021,07/11/2021,14,"€36,53",Euro / HL.,Toledo vino tinto sin DOP/IGP
-643,ES,Spain,01/11/2021,07/11/2021,14,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-644,ES,Spain,01/11/2021,07/11/2021,14,"€40,54",Euro / HL.,Valencia vino tinto sin DOP/IGP
-645,ES,Spain,01/11/2021,07/11/2021,14,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-646,ES,Spain,27/04/2020,03/05/2020,40,"€35,84",Euro / HL.,Albacete vino blanco sin DOP/IGP
-647,ES,Spain,27/04/2020,03/05/2020,40,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-648,ES,Spain,27/04/2020,03/05/2020,40,"€39,09",Euro / HL.,Albacete vino tinto sin DOP/IGP
-649,ES,Spain,27/04/2020,03/05/2020,40,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-650,ES,Spain,27/04/2020,03/05/2020,40,"€29,55",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-651,ES,Spain,27/04/2020,03/05/2020,40,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-652,ES,Spain,27/04/2020,03/05/2020,40,"€27,46",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-653,ES,Spain,27/04/2020,03/05/2020,40,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-654,ES,Spain,27/04/2020,03/05/2020,40,"€38,59",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-655,ES,Spain,27/04/2020,03/05/2020,40,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-656,ES,Spain,27/04/2020,03/05/2020,40,"€32,35",Euro / HL.,Toledo vino blanco sin DOP/IGP
-657,ES,Spain,27/04/2020,03/05/2020,40,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-658,ES,Spain,27/04/2020,03/05/2020,40,"€40,52",Euro / HL.,Toledo vino tinto sin DOP/IGP
-659,ES,Spain,27/04/2020,03/05/2020,40,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-660,ES,Spain,27/04/2020,03/05/2020,40,"€42,37",Euro / HL.,Valencia vino tinto sin DOP/IGP
-661,ES,Spain,27/04/2020,03/05/2020,40,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-662,ES,Spain,01/06/2020,07/06/2020,45,"€43,53",Euro / HL.,Albacete vino blanco sin DOP/IGP
-663,ES,Spain,01/06/2020,07/06/2020,45,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-664,ES,Spain,01/06/2020,07/06/2020,45,"€45,58",Euro / HL.,Albacete vino tinto sin DOP/IGP
-665,ES,Spain,01/06/2020,07/06/2020,45,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-666,ES,Spain,01/06/2020,07/06/2020,45,"€26,23",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-667,ES,Spain,01/06/2020,07/06/2020,45,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-668,ES,Spain,01/06/2020,07/06/2020,45,"€26,48",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-669,ES,Spain,01/06/2020,07/06/2020,45,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-670,ES,Spain,01/06/2020,07/06/2020,45,"€37,01",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-671,ES,Spain,01/06/2020,07/06/2020,45,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-672,ES,Spain,01/06/2020,07/06/2020,45,"€30,13",Euro / HL.,Toledo vino blanco sin DOP/IGP
-673,ES,Spain,01/06/2020,07/06/2020,45,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-674,ES,Spain,01/06/2020,07/06/2020,45,"€37,94",Euro / HL.,Toledo vino tinto sin DOP/IGP
-675,ES,Spain,01/06/2020,07/06/2020,45,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-676,ES,Spain,01/06/2020,07/06/2020,45,"€34,02",Euro / HL.,Valencia vino tinto sin DOP/IGP
-677,ES,Spain,01/06/2020,07/06/2020,45,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-678,ES,Spain,29/06/2020,05/07/2020,49,"€51,75",Euro / HL.,Albacete vino blanco sin DOP/IGP
-679,ES,Spain,29/06/2020,05/07/2020,49,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-680,ES,Spain,29/06/2020,05/07/2020,49,"€45,06",Euro / HL.,Albacete vino tinto sin DOP/IGP
-681,ES,Spain,29/06/2020,05/07/2020,49,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-682,ES,Spain,29/06/2020,05/07/2020,49,"€33,35",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-683,ES,Spain,29/06/2020,05/07/2020,49,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-684,ES,Spain,29/06/2020,05/07/2020,49,"€25,62",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-685,ES,Spain,29/06/2020,05/07/2020,49,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-686,ES,Spain,29/06/2020,05/07/2020,49,"€33,76",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-687,ES,Spain,29/06/2020,05/07/2020,49,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-688,ES,Spain,29/06/2020,05/07/2020,49,"€29,36",Euro / HL.,Toledo vino blanco sin DOP/IGP
-689,ES,Spain,29/06/2020,05/07/2020,49,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-690,ES,Spain,29/06/2020,05/07/2020,49,"€40,22",Euro / HL.,Toledo vino tinto sin DOP/IGP
-691,ES,Spain,29/06/2020,05/07/2020,49,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-692,ES,Spain,29/06/2020,05/07/2020,49,"€30,85",Euro / HL.,Valencia vino tinto sin DOP/IGP
-693,ES,Spain,29/06/2020,05/07/2020,49,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-694,ES,Spain,27/07/2020,02/08/2020,53,"€55,07",Euro / HL.,Albacete vino blanco sin DOP/IGP
-695,ES,Spain,27/07/2020,02/08/2020,53,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-696,ES,Spain,27/07/2020,02/08/2020,53,"€42,67",Euro / HL.,Albacete vino tinto sin DOP/IGP
-697,ES,Spain,27/07/2020,02/08/2020,53,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-698,ES,Spain,27/07/2020,02/08/2020,53,"€31,73",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-699,ES,Spain,27/07/2020,02/08/2020,53,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-700,ES,Spain,27/07/2020,02/08/2020,53,"€25,90",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-701,ES,Spain,27/07/2020,02/08/2020,53,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-702,ES,Spain,27/07/2020,02/08/2020,53,"€32,29",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-703,ES,Spain,27/07/2020,02/08/2020,53,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-704,ES,Spain,27/07/2020,02/08/2020,53,"€29,40",Euro / HL.,Toledo vino blanco sin DOP/IGP
-705,ES,Spain,27/07/2020,02/08/2020,53,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-706,ES,Spain,27/07/2020,02/08/2020,53,"€40,67",Euro / HL.,Toledo vino tinto sin DOP/IGP
-707,ES,Spain,27/07/2020,02/08/2020,53,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-708,ES,Spain,27/07/2020,02/08/2020,53,"€30,44",Euro / HL.,Valencia vino tinto sin DOP/IGP
-709,ES,Spain,27/07/2020,02/08/2020,53,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-710,ES,Spain,31/08/2020,06/09/2020,5,"€45,18",Euro / HL.,Albacete vino blanco sin DOP/IGP
-711,ES,Spain,31/08/2020,06/09/2020,5,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-712,ES,Spain,31/08/2020,06/09/2020,5,"€45,49",Euro / HL.,Albacete vino tinto sin DOP/IGP
-713,ES,Spain,31/08/2020,06/09/2020,5,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-714,ES,Spain,31/08/2020,06/09/2020,5,"€31,79",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-715,ES,Spain,31/08/2020,06/09/2020,5,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-716,ES,Spain,31/08/2020,06/09/2020,5,"€26,81",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-717,ES,Spain,31/08/2020,06/09/2020,5,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-718,ES,Spain,31/08/2020,06/09/2020,5,"€34,08",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-719,ES,Spain,31/08/2020,06/09/2020,5,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-720,ES,Spain,31/08/2020,06/09/2020,5,"€27,95",Euro / HL.,Toledo vino blanco sin DOP/IGP
-721,ES,Spain,31/08/2020,06/09/2020,5,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-722,ES,Spain,31/08/2020,06/09/2020,5,"€36,16",Euro / HL.,Toledo vino tinto sin DOP/IGP
-723,ES,Spain,31/08/2020,06/09/2020,5,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-724,ES,Spain,31/08/2020,06/09/2020,5,"€30,59",Euro / HL.,Valencia vino tinto sin DOP/IGP
-725,ES,Spain,31/08/2020,06/09/2020,5,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-726,ES,Spain,28/09/2020,04/10/2020,9,"€42,51",Euro / HL.,Albacete vino blanco sin DOP/IGP
-727,ES,Spain,28/09/2020,04/10/2020,9,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-728,ES,Spain,28/09/2020,04/10/2020,9,"€42,61",Euro / HL.,Albacete vino tinto sin DOP/IGP
-729,ES,Spain,28/09/2020,04/10/2020,9,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-730,ES,Spain,28/09/2020,04/10/2020,9,"€31,22",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-731,ES,Spain,28/09/2020,04/10/2020,9,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-732,ES,Spain,28/09/2020,04/10/2020,9,"€26,18",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-733,ES,Spain,28/09/2020,04/10/2020,9,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-734,ES,Spain,28/09/2020,04/10/2020,9,"€36,00",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-735,ES,Spain,28/09/2020,04/10/2020,9,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-736,ES,Spain,28/09/2020,04/10/2020,9,"€29,46",Euro / HL.,Toledo vino blanco sin DOP/IGP
-737,ES,Spain,28/09/2020,04/10/2020,9,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-738,ES,Spain,28/09/2020,04/10/2020,9,"€35,27",Euro / HL.,Toledo vino tinto sin DOP/IGP
-739,ES,Spain,28/09/2020,04/10/2020,9,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-740,ES,Spain,28/09/2020,04/10/2020,9,"€30,08",Euro / HL.,Valencia vino tinto sin DOP/IGP
-741,ES,Spain,28/09/2020,04/10/2020,9,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-742,ES,Spain,26/10/2020,01/11/2020,13,"€37,23",Euro / HL.,Albacete vino blanco sin DOP/IGP
-743,ES,Spain,26/10/2020,01/11/2020,13,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-744,ES,Spain,26/10/2020,01/11/2020,13,"€43,36",Euro / HL.,Albacete vino tinto sin DOP/IGP
-745,ES,Spain,26/10/2020,01/11/2020,13,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-746,ES,Spain,26/10/2020,01/11/2020,13,"€30,13",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-747,ES,Spain,26/10/2020,01/11/2020,13,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-748,ES,Spain,26/10/2020,01/11/2020,13,"€24,12",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-749,ES,Spain,26/10/2020,01/11/2020,13,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-750,ES,Spain,26/10/2020,01/11/2020,13,"€32,87",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-751,ES,Spain,26/10/2020,01/11/2020,13,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-752,ES,Spain,26/10/2020,01/11/2020,13,"€28,69",Euro / HL.,Toledo vino blanco sin DOP/IGP
-753,ES,Spain,26/10/2020,01/11/2020,13,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-754,ES,Spain,26/10/2020,01/11/2020,13,"€36,60",Euro / HL.,Toledo vino tinto sin DOP/IGP
-755,ES,Spain,26/10/2020,01/11/2020,13,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-756,ES,Spain,26/10/2020,01/11/2020,13,"€29,53",Euro / HL.,Valencia vino tinto sin DOP/IGP
-757,ES,Spain,26/10/2020,01/11/2020,13,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-758,ES,Spain,30/11/2020,06/12/2020,18,"€34,50",Euro / HL.,Albacete vino blanco sin DOP/IGP
-759,ES,Spain,30/11/2020,06/12/2020,18,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-760,ES,Spain,30/11/2020,06/12/2020,18,"€42,86",Euro / HL.,Albacete vino tinto sin DOP/IGP
-761,ES,Spain,30/11/2020,06/12/2020,18,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-762,ES,Spain,30/11/2020,06/12/2020,18,"€26,10",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-763,ES,Spain,30/11/2020,06/12/2020,18,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-764,ES,Spain,30/11/2020,06/12/2020,18,"€25,18",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-765,ES,Spain,30/11/2020,06/12/2020,18,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-766,ES,Spain,30/11/2020,06/12/2020,18,"€30,29",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-767,ES,Spain,30/11/2020,06/12/2020,18,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-768,ES,Spain,30/11/2020,06/12/2020,18,"€26,18",Euro / HL.,Toledo vino blanco sin DOP/IGP
-769,ES,Spain,30/11/2020,06/12/2020,18,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-770,ES,Spain,30/11/2020,06/12/2020,18,"€35,64",Euro / HL.,Toledo vino tinto sin DOP/IGP
-771,ES,Spain,30/11/2020,06/12/2020,18,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-772,ES,Spain,30/11/2020,06/12/2020,18,"€29,26",Euro / HL.,Valencia vino tinto sin DOP/IGP
-773,ES,Spain,30/11/2020,06/12/2020,18,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-774,ES,Spain,28/12/2020,03/01/2021,22,"€26,45",Euro / HL.,Albacete vino blanco sin DOP/IGP
-775,ES,Spain,28/12/2020,03/01/2021,22,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-776,ES,Spain,28/12/2020,03/01/2021,22,"€39,21",Euro / HL.,Albacete vino tinto sin DOP/IGP
-777,ES,Spain,28/12/2020,03/01/2021,22,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-778,ES,Spain,28/12/2020,03/01/2021,22,"€26,88",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-779,ES,Spain,28/12/2020,03/01/2021,22,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-780,ES,Spain,28/12/2020,03/01/2021,22,"€23,54",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-781,ES,Spain,28/12/2020,03/01/2021,22,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-782,ES,Spain,28/12/2020,03/01/2021,22,"€30,11",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-783,ES,Spain,28/12/2020,03/01/2021,22,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-784,ES,Spain,28/12/2020,03/01/2021,22,"€27,46",Euro / HL.,Toledo vino blanco sin DOP/IGP
-785,ES,Spain,28/12/2020,03/01/2021,22,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-786,ES,Spain,28/12/2020,03/01/2021,22,"€39,63",Euro / HL.,Toledo vino tinto sin DOP/IGP
-787,ES,Spain,28/12/2020,03/01/2021,22,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-788,ES,Spain,28/12/2020,03/01/2021,22,"€28,98",Euro / HL.,Valencia vino tinto sin DOP/IGP
-789,ES,Spain,28/12/2020,03/01/2021,22,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-790,ES,Spain,01/02/2021,07/02/2021,27,"€30,92",Euro / HL.,Albacete vino blanco sin DOP/IGP
-791,ES,Spain,01/02/2021,07/02/2021,27,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-792,ES,Spain,01/02/2021,07/02/2021,27,"€38,20",Euro / HL.,Albacete vino tinto sin DOP/IGP
-793,ES,Spain,01/02/2021,07/02/2021,27,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-794,ES,Spain,01/02/2021,07/02/2021,27,"€24,58",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-795,ES,Spain,01/02/2021,07/02/2021,27,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-796,ES,Spain,01/02/2021,07/02/2021,27,"€22,88",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-797,ES,Spain,01/02/2021,07/02/2021,27,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-798,ES,Spain,01/02/2021,07/02/2021,27,"€31,46",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-799,ES,Spain,01/02/2021,07/02/2021,27,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-800,ES,Spain,01/02/2021,07/02/2021,27,"€25,20",Euro / HL.,Toledo vino blanco sin DOP/IGP
-801,ES,Spain,01/02/2021,07/02/2021,27,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-802,ES,Spain,01/02/2021,07/02/2021,27,"€39,05",Euro / HL.,Toledo vino tinto sin DOP/IGP
-803,ES,Spain,01/02/2021,07/02/2021,27,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-804,ES,Spain,01/02/2021,07/02/2021,27,"€28,78",Euro / HL.,Valencia vino tinto sin DOP/IGP
-805,ES,Spain,01/02/2021,07/02/2021,27,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-806,ES,Spain,01/03/2021,07/03/2021,31,"€34,87",Euro / HL.,Albacete vino blanco sin DOP/IGP
-807,ES,Spain,01/03/2021,07/03/2021,31,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-808,ES,Spain,01/03/2021,07/03/2021,31,"€35,23",Euro / HL.,Albacete vino tinto sin DOP/IGP
-809,ES,Spain,01/03/2021,07/03/2021,31,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-810,ES,Spain,01/03/2021,07/03/2021,31,"€25,23",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-811,ES,Spain,01/03/2021,07/03/2021,31,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-812,ES,Spain,01/03/2021,07/03/2021,31,"€22,48",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-813,ES,Spain,01/03/2021,07/03/2021,31,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-814,ES,Spain,01/03/2021,07/03/2021,31,"€30,25",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-815,ES,Spain,01/03/2021,07/03/2021,31,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-816,ES,Spain,01/03/2021,07/03/2021,31,"€25,25",Euro / HL.,Toledo vino blanco sin DOP/IGP
-817,ES,Spain,01/03/2021,07/03/2021,31,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-818,ES,Spain,01/03/2021,07/03/2021,31,"€36,23",Euro / HL.,Toledo vino tinto sin DOP/IGP
-819,ES,Spain,01/03/2021,07/03/2021,31,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-820,ES,Spain,01/03/2021,07/03/2021,31,"€30,28",Euro / HL.,Valencia vino tinto sin DOP/IGP
-821,ES,Spain,01/03/2021,07/03/2021,31,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-822,ES,Spain,29/03/2021,04/04/2021,35,"€36,43",Euro / HL.,Albacete vino blanco sin DOP/IGP
-823,ES,Spain,29/03/2021,04/04/2021,35,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-824,ES,Spain,29/03/2021,04/04/2021,35,"€36,26",Euro / HL.,Albacete vino tinto sin DOP/IGP
-825,ES,Spain,29/03/2021,04/04/2021,35,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-826,ES,Spain,29/03/2021,04/04/2021,35,"€25,91",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-827,ES,Spain,29/03/2021,04/04/2021,35,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-828,ES,Spain,29/03/2021,04/04/2021,35,"€22,57",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-829,ES,Spain,29/03/2021,04/04/2021,35,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-830,ES,Spain,29/03/2021,04/04/2021,35,"€28,40",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-831,ES,Spain,29/03/2021,04/04/2021,35,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-832,ES,Spain,29/03/2021,04/04/2021,35,"€25,47",Euro / HL.,Toledo vino blanco sin DOP/IGP
-833,ES,Spain,29/03/2021,04/04/2021,35,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-834,ES,Spain,29/03/2021,04/04/2021,35,"€34,59",Euro / HL.,Toledo vino tinto sin DOP/IGP
-835,ES,Spain,29/03/2021,04/04/2021,35,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-836,ES,Spain,29/03/2021,04/04/2021,35,"€29,54",Euro / HL.,Valencia vino tinto sin DOP/IGP
-837,ES,Spain,29/03/2021,04/04/2021,35,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-838,ES,Spain,26/04/2021,02/05/2021,39,"€33,21",Euro / HL.,Albacete vino blanco sin DOP/IGP
-839,ES,Spain,26/04/2021,02/05/2021,39,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-840,ES,Spain,26/04/2021,02/05/2021,39,"€34,98",Euro / HL.,Albacete vino tinto sin DOP/IGP
-841,ES,Spain,26/04/2021,02/05/2021,39,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-842,ES,Spain,26/04/2021,02/05/2021,39,"€29,04",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-843,ES,Spain,26/04/2021,02/05/2021,39,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-844,ES,Spain,26/04/2021,02/05/2021,39,"€25,02",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-845,ES,Spain,26/04/2021,02/05/2021,39,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-846,ES,Spain,26/04/2021,02/05/2021,39,"€29,59",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-847,ES,Spain,26/04/2021,02/05/2021,39,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-848,ES,Spain,26/04/2021,02/05/2021,39,"€24,58",Euro / HL.,Toledo vino blanco sin DOP/IGP
-849,ES,Spain,26/04/2021,02/05/2021,39,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-850,ES,Spain,26/04/2021,02/05/2021,39,"€34,82",Euro / HL.,Toledo vino tinto sin DOP/IGP
-851,ES,Spain,26/04/2021,02/05/2021,39,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-852,ES,Spain,26/04/2021,02/05/2021,39,"€31,00",Euro / HL.,Valencia vino tinto sin DOP/IGP
-853,ES,Spain,26/04/2021,02/05/2021,39,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
-854,ES,Spain,31/05/2021,06/06/2021,44,"€36,74",Euro / HL.,Albacete vino blanco sin DOP/IGP
-855,ES,Spain,31/05/2021,06/06/2021,44,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
-856,ES,Spain,31/05/2021,06/06/2021,44,"€38,97",Euro / HL.,Albacete vino tinto sin DOP/IGP
-857,ES,Spain,31/05/2021,06/06/2021,44,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
-858,ES,Spain,31/05/2021,06/06/2021,44,"€28,27",Euro / HL.,Badajoz vino blanco sin DOP/IGP
-859,ES,Spain,31/05/2021,06/06/2021,44,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
-860,ES,Spain,31/05/2021,06/06/2021,44,"€25,26",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
-861,ES,Spain,31/05/2021,06/06/2021,44,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
-862,ES,Spain,31/05/2021,06/06/2021,44,"€29,02",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
-863,ES,Spain,31/05/2021,06/06/2021,44,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
-864,ES,Spain,31/05/2021,06/06/2021,44,"€23,73",Euro / HL.,Toledo vino blanco sin DOP/IGP
-865,ES,Spain,31/05/2021,06/06/2021,44,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
-866,ES,Spain,31/05/2021,06/06/2021,44,"€37,75",Euro / HL.,Toledo vino tinto sin DOP/IGP
-867,ES,Spain,31/05/2021,06/06/2021,44,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
-868,ES,Spain,31/05/2021,06/06/2021,44,"€31,28",Euro / HL.,Valencia vino tinto sin DOP/IGP
-869,ES,Spain,31/05/2021,06/06/2021,44,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+0,ES,Spain,26/04/2021,02/05/2021,39,"€33,21",Euro / HL.,Albacete vino blanco sin DOP/IGP
+1,ES,Spain,26/04/2021,02/05/2021,39,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+2,ES,Spain,26/04/2021,02/05/2021,39,"€34,98",Euro / HL.,Albacete vino tinto sin DOP/IGP
+3,ES,Spain,26/04/2021,02/05/2021,39,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+4,ES,Spain,26/04/2021,02/05/2021,39,"€29,04",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+5,ES,Spain,26/04/2021,02/05/2021,39,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+6,ES,Spain,26/04/2021,02/05/2021,39,"€25,02",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+7,ES,Spain,26/04/2021,02/05/2021,39,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+8,ES,Spain,26/04/2021,02/05/2021,39,"€29,59",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+9,ES,Spain,26/04/2021,02/05/2021,39,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+10,ES,Spain,26/04/2021,02/05/2021,39,"€24,58",Euro / HL.,Toledo vino blanco sin DOP/IGP
+11,ES,Spain,26/04/2021,02/05/2021,39,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+12,ES,Spain,26/04/2021,02/05/2021,39,"€34,82",Euro / HL.,Toledo vino tinto sin DOP/IGP
+13,ES,Spain,26/04/2021,02/05/2021,39,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+14,ES,Spain,26/04/2021,02/05/2021,39,"€31,00",Euro / HL.,Valencia vino tinto sin DOP/IGP
+15,ES,Spain,26/04/2021,02/05/2021,39,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+16,ES,Spain,31/05/2021,06/06/2021,44,"€36,74",Euro / HL.,Albacete vino blanco sin DOP/IGP
+17,ES,Spain,31/05/2021,06/06/2021,44,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+18,ES,Spain,31/05/2021,06/06/2021,44,"€38,97",Euro / HL.,Albacete vino tinto sin DOP/IGP
+19,ES,Spain,31/05/2021,06/06/2021,44,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+20,ES,Spain,31/05/2021,06/06/2021,44,"€28,27",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+21,ES,Spain,31/05/2021,06/06/2021,44,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+22,ES,Spain,31/05/2021,06/06/2021,44,"€25,26",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+23,ES,Spain,31/05/2021,06/06/2021,44,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+24,ES,Spain,31/05/2021,06/06/2021,44,"€29,02",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+25,ES,Spain,31/05/2021,06/06/2021,44,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+26,ES,Spain,31/05/2021,06/06/2021,44,"€23,73",Euro / HL.,Toledo vino blanco sin DOP/IGP
+27,ES,Spain,31/05/2021,06/06/2021,44,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+28,ES,Spain,31/05/2021,06/06/2021,44,"€37,75",Euro / HL.,Toledo vino tinto sin DOP/IGP
+29,ES,Spain,31/05/2021,06/06/2021,44,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+30,ES,Spain,31/05/2021,06/06/2021,44,"€31,28",Euro / HL.,Valencia vino tinto sin DOP/IGP
+31,ES,Spain,31/05/2021,06/06/2021,44,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+32,ES,Spain,28/06/2021,04/07/2021,48,"€37,64",Euro / HL.,Albacete vino blanco sin DOP/IGP
+33,ES,Spain,28/06/2021,04/07/2021,48,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+34,ES,Spain,28/06/2021,04/07/2021,48,"€39,88",Euro / HL.,Albacete vino tinto sin DOP/IGP
+35,ES,Spain,28/06/2021,04/07/2021,48,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+36,ES,Spain,28/06/2021,04/07/2021,48,"€27,75",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+37,ES,Spain,28/06/2021,04/07/2021,48,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+38,ES,Spain,28/06/2021,04/07/2021,48,"€25,84",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+39,ES,Spain,28/06/2021,04/07/2021,48,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+40,ES,Spain,28/06/2021,04/07/2021,48,"€28,56",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+41,ES,Spain,28/06/2021,04/07/2021,48,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+42,ES,Spain,28/06/2021,04/07/2021,48,"€23,28",Euro / HL.,Toledo vino blanco sin DOP/IGP
+43,ES,Spain,28/06/2021,04/07/2021,48,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+44,ES,Spain,28/06/2021,04/07/2021,48,"€34,82",Euro / HL.,Toledo vino tinto sin DOP/IGP
+45,ES,Spain,28/06/2021,04/07/2021,48,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+46,ES,Spain,28/06/2021,04/07/2021,48,"€32,08",Euro / HL.,Valencia vino tinto sin DOP/IGP
+47,ES,Spain,28/06/2021,04/07/2021,48,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+48,ES,Spain,26/07/2021,01/08/2021,52,"€36,77",Euro / HL.,Albacete vino blanco sin DOP/IGP
+49,ES,Spain,26/07/2021,01/08/2021,52,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+50,ES,Spain,26/07/2021,01/08/2021,52,"€41,25",Euro / HL.,Albacete vino tinto sin DOP/IGP
+51,ES,Spain,26/07/2021,01/08/2021,52,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+52,ES,Spain,26/07/2021,01/08/2021,52,"€29,93",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+53,ES,Spain,26/07/2021,01/08/2021,52,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+54,ES,Spain,26/07/2021,01/08/2021,52,"€28,09",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+55,ES,Spain,26/07/2021,01/08/2021,52,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+56,ES,Spain,26/07/2021,01/08/2021,52,"€28,65",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+57,ES,Spain,26/07/2021,01/08/2021,52,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+58,ES,Spain,26/07/2021,01/08/2021,52,"€24,56",Euro / HL.,Toledo vino blanco sin DOP/IGP
+59,ES,Spain,26/07/2021,01/08/2021,52,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+60,ES,Spain,26/07/2021,01/08/2021,52,"€33,07",Euro / HL.,Toledo vino tinto sin DOP/IGP
+61,ES,Spain,26/07/2021,01/08/2021,52,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+62,ES,Spain,26/07/2021,01/08/2021,52,"€30,94",Euro / HL.,Valencia vino tinto sin DOP/IGP
+63,ES,Spain,26/07/2021,01/08/2021,52,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+64,ES,Spain,30/08/2021,05/09/2021,5,"€36,34",Euro / HL.,Albacete vino blanco sin DOP/IGP
+65,ES,Spain,30/08/2021,05/09/2021,5,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+66,ES,Spain,30/08/2021,05/09/2021,5,"€35,81",Euro / HL.,Albacete vino tinto sin DOP/IGP
+67,ES,Spain,30/08/2021,05/09/2021,5,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+68,ES,Spain,30/08/2021,05/09/2021,5,"€34,79",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+69,ES,Spain,30/08/2021,05/09/2021,5,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+70,ES,Spain,30/08/2021,05/09/2021,5,"€29,48",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+71,ES,Spain,30/08/2021,05/09/2021,5,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+72,ES,Spain,30/08/2021,05/09/2021,5,"€30,92",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+73,ES,Spain,30/08/2021,05/09/2021,5,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+74,ES,Spain,30/08/2021,05/09/2021,5,"€24,94",Euro / HL.,Toledo vino blanco sin DOP/IGP
+75,ES,Spain,30/08/2021,05/09/2021,5,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+76,ES,Spain,30/08/2021,05/09/2021,5,"€32,84",Euro / HL.,Toledo vino tinto sin DOP/IGP
+77,ES,Spain,30/08/2021,05/09/2021,5,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+78,ES,Spain,30/08/2021,05/09/2021,5,"€34,63",Euro / HL.,Valencia vino tinto sin DOP/IGP
+79,ES,Spain,30/08/2021,05/09/2021,5,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+80,ES,Spain,27/09/2021,03/10/2021,9,"€38,58",Euro / HL.,Albacete vino blanco sin DOP/IGP
+81,ES,Spain,27/09/2021,03/10/2021,9,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+82,ES,Spain,27/09/2021,03/10/2021,9,"€37,81",Euro / HL.,Albacete vino tinto sin DOP/IGP
+83,ES,Spain,27/09/2021,03/10/2021,9,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+84,ES,Spain,27/09/2021,03/10/2021,9,"€39,73",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+85,ES,Spain,27/09/2021,03/10/2021,9,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+86,ES,Spain,27/09/2021,03/10/2021,9,"€31,02",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+87,ES,Spain,27/09/2021,03/10/2021,9,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+88,ES,Spain,27/09/2021,03/10/2021,9,"€33,09",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+89,ES,Spain,27/09/2021,03/10/2021,9,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+90,ES,Spain,27/09/2021,03/10/2021,9,"€24,66",Euro / HL.,Toledo vino blanco sin DOP/IGP
+91,ES,Spain,27/09/2021,03/10/2021,9,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+92,ES,Spain,27/09/2021,03/10/2021,9,"€34,14",Euro / HL.,Toledo vino tinto sin DOP/IGP
+93,ES,Spain,27/09/2021,03/10/2021,9,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+94,ES,Spain,27/09/2021,03/10/2021,9,"€38,66",Euro / HL.,Valencia vino tinto sin DOP/IGP
+95,ES,Spain,27/09/2021,03/10/2021,9,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+96,ES,Spain,01/11/2021,07/11/2021,14,"€43,00",Euro / HL.,Albacete vino blanco sin DOP/IGP
+97,ES,Spain,01/11/2021,07/11/2021,14,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+98,ES,Spain,01/11/2021,07/11/2021,14,"€40,14",Euro / HL.,Albacete vino tinto sin DOP/IGP
+99,ES,Spain,01/11/2021,07/11/2021,14,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+100,ES,Spain,01/11/2021,07/11/2021,14,"€42,09",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+101,ES,Spain,01/11/2021,07/11/2021,14,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+102,ES,Spain,01/11/2021,07/11/2021,14,"€34,06",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+103,ES,Spain,01/11/2021,07/11/2021,14,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+104,ES,Spain,01/11/2021,07/11/2021,14,"€36,05",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+105,ES,Spain,01/11/2021,07/11/2021,14,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+106,ES,Spain,01/11/2021,07/11/2021,14,"€26,43",Euro / HL.,Toledo vino blanco sin DOP/IGP
+107,ES,Spain,01/11/2021,07/11/2021,14,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+108,ES,Spain,01/11/2021,07/11/2021,14,"€36,53",Euro / HL.,Toledo vino tinto sin DOP/IGP
+109,ES,Spain,01/11/2021,07/11/2021,14,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+110,ES,Spain,01/11/2021,07/11/2021,14,"€40,54",Euro / HL.,Valencia vino tinto sin DOP/IGP
+111,ES,Spain,01/11/2021,07/11/2021,14,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+112,ES,Spain,27/07/2020,02/08/2020,53,"€55,07",Euro / HL.,Albacete vino blanco sin DOP/IGP
+113,ES,Spain,27/07/2020,02/08/2020,53,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+114,ES,Spain,27/07/2020,02/08/2020,53,"€42,67",Euro / HL.,Albacete vino tinto sin DOP/IGP
+115,ES,Spain,27/07/2020,02/08/2020,53,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+116,ES,Spain,27/07/2020,02/08/2020,53,"€31,73",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+117,ES,Spain,27/07/2020,02/08/2020,53,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+118,ES,Spain,27/07/2020,02/08/2020,53,"€25,90",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+119,ES,Spain,27/07/2020,02/08/2020,53,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+120,ES,Spain,27/07/2020,02/08/2020,53,"€32,29",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+121,ES,Spain,27/07/2020,02/08/2020,53,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+122,ES,Spain,27/07/2020,02/08/2020,53,"€29,40",Euro / HL.,Toledo vino blanco sin DOP/IGP
+123,ES,Spain,27/07/2020,02/08/2020,53,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+124,ES,Spain,27/07/2020,02/08/2020,53,"€40,67",Euro / HL.,Toledo vino tinto sin DOP/IGP
+125,ES,Spain,27/07/2020,02/08/2020,53,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+126,ES,Spain,27/07/2020,02/08/2020,53,"€30,44",Euro / HL.,Valencia vino tinto sin DOP/IGP
+127,ES,Spain,27/07/2020,02/08/2020,53,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+128,ES,Spain,31/08/2020,06/09/2020,5,"€45,18",Euro / HL.,Albacete vino blanco sin DOP/IGP
+129,ES,Spain,31/08/2020,06/09/2020,5,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+130,ES,Spain,31/08/2020,06/09/2020,5,"€45,49",Euro / HL.,Albacete vino tinto sin DOP/IGP
+131,ES,Spain,31/08/2020,06/09/2020,5,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+132,ES,Spain,31/08/2020,06/09/2020,5,"€31,79",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+133,ES,Spain,31/08/2020,06/09/2020,5,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+134,ES,Spain,31/08/2020,06/09/2020,5,"€26,81",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+135,ES,Spain,31/08/2020,06/09/2020,5,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+136,ES,Spain,31/08/2020,06/09/2020,5,"€34,08",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+137,ES,Spain,31/08/2020,06/09/2020,5,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+138,ES,Spain,31/08/2020,06/09/2020,5,"€27,95",Euro / HL.,Toledo vino blanco sin DOP/IGP
+139,ES,Spain,31/08/2020,06/09/2020,5,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+140,ES,Spain,31/08/2020,06/09/2020,5,"€36,16",Euro / HL.,Toledo vino tinto sin DOP/IGP
+141,ES,Spain,31/08/2020,06/09/2020,5,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+142,ES,Spain,31/08/2020,06/09/2020,5,"€30,59",Euro / HL.,Valencia vino tinto sin DOP/IGP
+143,ES,Spain,31/08/2020,06/09/2020,5,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+144,ES,Spain,28/09/2020,04/10/2020,9,"€42,51",Euro / HL.,Albacete vino blanco sin DOP/IGP
+145,ES,Spain,28/09/2020,04/10/2020,9,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+146,ES,Spain,28/09/2020,04/10/2020,9,"€42,61",Euro / HL.,Albacete vino tinto sin DOP/IGP
+147,ES,Spain,28/09/2020,04/10/2020,9,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+148,ES,Spain,28/09/2020,04/10/2020,9,"€31,22",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+149,ES,Spain,28/09/2020,04/10/2020,9,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+150,ES,Spain,28/09/2020,04/10/2020,9,"€26,18",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+151,ES,Spain,28/09/2020,04/10/2020,9,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+152,ES,Spain,28/09/2020,04/10/2020,9,"€36,00",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+153,ES,Spain,28/09/2020,04/10/2020,9,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+154,ES,Spain,28/09/2020,04/10/2020,9,"€29,46",Euro / HL.,Toledo vino blanco sin DOP/IGP
+155,ES,Spain,28/09/2020,04/10/2020,9,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+156,ES,Spain,28/09/2020,04/10/2020,9,"€35,27",Euro / HL.,Toledo vino tinto sin DOP/IGP
+157,ES,Spain,28/09/2020,04/10/2020,9,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+158,ES,Spain,28/09/2020,04/10/2020,9,"€30,08",Euro / HL.,Valencia vino tinto sin DOP/IGP
+159,ES,Spain,28/09/2020,04/10/2020,9,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+160,ES,Spain,26/10/2020,01/11/2020,13,"€37,23",Euro / HL.,Albacete vino blanco sin DOP/IGP
+161,ES,Spain,26/10/2020,01/11/2020,13,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+162,ES,Spain,26/10/2020,01/11/2020,13,"€43,36",Euro / HL.,Albacete vino tinto sin DOP/IGP
+163,ES,Spain,26/10/2020,01/11/2020,13,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+164,ES,Spain,26/10/2020,01/11/2020,13,"€30,13",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+165,ES,Spain,26/10/2020,01/11/2020,13,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+166,ES,Spain,26/10/2020,01/11/2020,13,"€24,12",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+167,ES,Spain,26/10/2020,01/11/2020,13,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+168,ES,Spain,26/10/2020,01/11/2020,13,"€32,87",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+169,ES,Spain,26/10/2020,01/11/2020,13,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+170,ES,Spain,26/10/2020,01/11/2020,13,"€28,69",Euro / HL.,Toledo vino blanco sin DOP/IGP
+171,ES,Spain,26/10/2020,01/11/2020,13,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+172,ES,Spain,26/10/2020,01/11/2020,13,"€36,60",Euro / HL.,Toledo vino tinto sin DOP/IGP
+173,ES,Spain,26/10/2020,01/11/2020,13,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+174,ES,Spain,26/10/2020,01/11/2020,13,"€29,53",Euro / HL.,Valencia vino tinto sin DOP/IGP
+175,ES,Spain,26/10/2020,01/11/2020,13,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+176,ES,Spain,30/11/2020,06/12/2020,18,"€34,50",Euro / HL.,Albacete vino blanco sin DOP/IGP
+177,ES,Spain,30/11/2020,06/12/2020,18,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+178,ES,Spain,30/11/2020,06/12/2020,18,"€42,86",Euro / HL.,Albacete vino tinto sin DOP/IGP
+179,ES,Spain,30/11/2020,06/12/2020,18,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+180,ES,Spain,30/11/2020,06/12/2020,18,"€26,10",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+181,ES,Spain,30/11/2020,06/12/2020,18,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+182,ES,Spain,30/11/2020,06/12/2020,18,"€25,18",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+183,ES,Spain,30/11/2020,06/12/2020,18,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+184,ES,Spain,30/11/2020,06/12/2020,18,"€30,29",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+185,ES,Spain,30/11/2020,06/12/2020,18,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+186,ES,Spain,30/11/2020,06/12/2020,18,"€26,18",Euro / HL.,Toledo vino blanco sin DOP/IGP
+187,ES,Spain,30/11/2020,06/12/2020,18,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+188,ES,Spain,30/11/2020,06/12/2020,18,"€35,64",Euro / HL.,Toledo vino tinto sin DOP/IGP
+189,ES,Spain,30/11/2020,06/12/2020,18,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+190,ES,Spain,30/11/2020,06/12/2020,18,"€29,26",Euro / HL.,Valencia vino tinto sin DOP/IGP
+191,ES,Spain,30/11/2020,06/12/2020,18,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+192,ES,Spain,28/12/2020,03/01/2021,22,"€26,45",Euro / HL.,Albacete vino blanco sin DOP/IGP
+193,ES,Spain,28/12/2020,03/01/2021,22,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+194,ES,Spain,28/12/2020,03/01/2021,22,"€39,21",Euro / HL.,Albacete vino tinto sin DOP/IGP
+195,ES,Spain,28/12/2020,03/01/2021,22,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+196,ES,Spain,28/12/2020,03/01/2021,22,"€26,88",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+197,ES,Spain,28/12/2020,03/01/2021,22,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+198,ES,Spain,28/12/2020,03/01/2021,22,"€23,54",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+199,ES,Spain,28/12/2020,03/01/2021,22,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+200,ES,Spain,28/12/2020,03/01/2021,22,"€30,11",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+201,ES,Spain,28/12/2020,03/01/2021,22,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+202,ES,Spain,28/12/2020,03/01/2021,22,"€27,46",Euro / HL.,Toledo vino blanco sin DOP/IGP
+203,ES,Spain,28/12/2020,03/01/2021,22,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+204,ES,Spain,28/12/2020,03/01/2021,22,"€39,63",Euro / HL.,Toledo vino tinto sin DOP/IGP
+205,ES,Spain,28/12/2020,03/01/2021,22,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+206,ES,Spain,28/12/2020,03/01/2021,22,"€28,98",Euro / HL.,Valencia vino tinto sin DOP/IGP
+207,ES,Spain,28/12/2020,03/01/2021,22,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+208,ES,Spain,01/02/2021,07/02/2021,27,"€30,92",Euro / HL.,Albacete vino blanco sin DOP/IGP
+209,ES,Spain,01/02/2021,07/02/2021,27,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+210,ES,Spain,01/02/2021,07/02/2021,27,"€38,20",Euro / HL.,Albacete vino tinto sin DOP/IGP
+211,ES,Spain,01/02/2021,07/02/2021,27,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+212,ES,Spain,01/02/2021,07/02/2021,27,"€24,58",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+213,ES,Spain,01/02/2021,07/02/2021,27,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+214,ES,Spain,01/02/2021,07/02/2021,27,"€22,88",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+215,ES,Spain,01/02/2021,07/02/2021,27,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+216,ES,Spain,01/02/2021,07/02/2021,27,"€31,46",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+217,ES,Spain,01/02/2021,07/02/2021,27,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+218,ES,Spain,01/02/2021,07/02/2021,27,"€25,20",Euro / HL.,Toledo vino blanco sin DOP/IGP
+219,ES,Spain,01/02/2021,07/02/2021,27,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+220,ES,Spain,01/02/2021,07/02/2021,27,"€39,05",Euro / HL.,Toledo vino tinto sin DOP/IGP
+221,ES,Spain,01/02/2021,07/02/2021,27,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+222,ES,Spain,01/02/2021,07/02/2021,27,"€28,78",Euro / HL.,Valencia vino tinto sin DOP/IGP
+223,ES,Spain,01/02/2021,07/02/2021,27,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+224,ES,Spain,01/03/2021,07/03/2021,31,"€34,87",Euro / HL.,Albacete vino blanco sin DOP/IGP
+225,ES,Spain,01/03/2021,07/03/2021,31,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+226,ES,Spain,01/03/2021,07/03/2021,31,"€35,23",Euro / HL.,Albacete vino tinto sin DOP/IGP
+227,ES,Spain,01/03/2021,07/03/2021,31,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+228,ES,Spain,01/03/2021,07/03/2021,31,"€25,23",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+229,ES,Spain,01/03/2021,07/03/2021,31,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+230,ES,Spain,01/03/2021,07/03/2021,31,"€22,48",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+231,ES,Spain,01/03/2021,07/03/2021,31,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+232,ES,Spain,01/03/2021,07/03/2021,31,"€30,25",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+233,ES,Spain,01/03/2021,07/03/2021,31,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+234,ES,Spain,01/03/2021,07/03/2021,31,"€25,25",Euro / HL.,Toledo vino blanco sin DOP/IGP
+235,ES,Spain,01/03/2021,07/03/2021,31,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+236,ES,Spain,01/03/2021,07/03/2021,31,"€36,23",Euro / HL.,Toledo vino tinto sin DOP/IGP
+237,ES,Spain,01/03/2021,07/03/2021,31,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+238,ES,Spain,01/03/2021,07/03/2021,31,"€30,28",Euro / HL.,Valencia vino tinto sin DOP/IGP
+239,ES,Spain,01/03/2021,07/03/2021,31,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+240,ES,Spain,29/03/2021,04/04/2021,35,"€36,43",Euro / HL.,Albacete vino blanco sin DOP/IGP
+241,ES,Spain,29/03/2021,04/04/2021,35,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+242,ES,Spain,29/03/2021,04/04/2021,35,"€36,26",Euro / HL.,Albacete vino tinto sin DOP/IGP
+243,ES,Spain,29/03/2021,04/04/2021,35,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+244,ES,Spain,29/03/2021,04/04/2021,35,"€25,91",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+245,ES,Spain,29/03/2021,04/04/2021,35,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+246,ES,Spain,29/03/2021,04/04/2021,35,"€22,57",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+247,ES,Spain,29/03/2021,04/04/2021,35,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+248,ES,Spain,29/03/2021,04/04/2021,35,"€28,40",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+249,ES,Spain,29/03/2021,04/04/2021,35,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+250,ES,Spain,29/03/2021,04/04/2021,35,"€25,47",Euro / HL.,Toledo vino blanco sin DOP/IGP
+251,ES,Spain,29/03/2021,04/04/2021,35,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+252,ES,Spain,29/03/2021,04/04/2021,35,"€34,59",Euro / HL.,Toledo vino tinto sin DOP/IGP
+253,ES,Spain,29/03/2021,04/04/2021,35,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+254,ES,Spain,29/03/2021,04/04/2021,35,"€29,54",Euro / HL.,Valencia vino tinto sin DOP/IGP
+255,ES,Spain,29/03/2021,04/04/2021,35,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+256,ES,Spain,28/01/2019,03/02/2019,27,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+257,ES,Spain,28/01/2019,03/02/2019,27,"€41,14",Euro / HL.,Toledo vino tinto sin DOP/IGP
+258,ES,Spain,28/01/2019,03/02/2019,27,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+259,ES,Spain,28/01/2019,03/02/2019,27,"€34,13",Euro / HL.,Valencia vino tinto sin DOP/IGP
+260,ES,Spain,28/01/2019,03/02/2019,27,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+261,ES,Spain,25/02/2019,03/03/2019,31,"€39,58",Euro / HL.,Albacete vino blanco sin DOP/IGP
+262,ES,Spain,25/02/2019,03/03/2019,31,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+263,ES,Spain,25/02/2019,03/03/2019,31,"€48,12",Euro / HL.,Albacete vino tinto sin DOP/IGP
+264,ES,Spain,25/02/2019,03/03/2019,31,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+265,ES,Spain,25/02/2019,03/03/2019,31,"€25,18",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+266,ES,Spain,25/02/2019,03/03/2019,31,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+267,ES,Spain,25/02/2019,03/03/2019,31,"€25,63",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+268,ES,Spain,25/02/2019,03/03/2019,31,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+269,ES,Spain,25/02/2019,03/03/2019,31,"€35,81",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+270,ES,Spain,25/02/2019,03/03/2019,31,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+271,ES,Spain,25/02/2019,03/03/2019,31,"€28,25",Euro / HL.,Toledo vino blanco sin DOP/IGP
+272,ES,Spain,25/02/2019,03/03/2019,31,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+273,ES,Spain,25/02/2019,03/03/2019,31,"€38,29",Euro / HL.,Toledo vino tinto sin DOP/IGP
+274,ES,Spain,25/02/2019,03/03/2019,31,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+275,ES,Spain,25/02/2019,03/03/2019,31,"€34,06",Euro / HL.,Valencia vino tinto sin DOP/IGP
+276,ES,Spain,25/02/2019,03/03/2019,31,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+277,ES,Spain,26/08/2019,01/09/2019,5,"€34,70",Euro / HL.,Albacete vino blanco sin DOP/IGP
+278,ES,Spain,26/08/2019,01/09/2019,5,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+279,ES,Spain,26/08/2019,01/09/2019,5,"€37,86",Euro / HL.,Albacete vino tinto sin DOP/IGP
+280,ES,Spain,26/08/2019,01/09/2019,5,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+281,ES,Spain,26/08/2019,01/09/2019,5,"€33,17",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+282,ES,Spain,26/08/2019,01/09/2019,5,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+283,ES,Spain,26/08/2019,01/09/2019,5,"€24,77",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+284,ES,Spain,26/08/2019,01/09/2019,5,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+285,ES,Spain,26/08/2019,01/09/2019,5,"€30,23",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+286,ES,Spain,26/08/2019,01/09/2019,5,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+287,ES,Spain,26/08/2019,01/09/2019,5,"€26,75",Euro / HL.,Toledo vino blanco sin DOP/IGP
+288,ES,Spain,26/08/2019,01/09/2019,5,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+289,ES,Spain,26/08/2019,01/09/2019,5,"€36,61",Euro / HL.,Toledo vino tinto sin DOP/IGP
+290,ES,Spain,26/08/2019,01/09/2019,5,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+291,ES,Spain,26/08/2019,01/09/2019,5,"€40,36",Euro / HL.,Valencia vino tinto sin DOP/IGP
+292,ES,Spain,26/08/2019,01/09/2019,5,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+293,ES,Spain,30/09/2019,06/10/2019,10,"€33,04",Euro / HL.,Albacete vino blanco sin DOP/IGP
+294,ES,Spain,30/09/2019,06/10/2019,10,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+295,ES,Spain,30/09/2019,06/10/2019,10,"€44,13",Euro / HL.,Albacete vino tinto sin DOP/IGP
+296,ES,Spain,30/09/2019,06/10/2019,10,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+297,ES,Spain,30/09/2019,06/10/2019,10,"€38,30",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+298,ES,Spain,30/09/2019,06/10/2019,10,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+299,ES,Spain,30/09/2019,06/10/2019,10,"€31,23",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+300,ES,Spain,30/09/2019,06/10/2019,10,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+301,ES,Spain,30/09/2019,06/10/2019,10,"€38,48",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+302,ES,Spain,30/09/2019,06/10/2019,10,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+303,ES,Spain,30/09/2019,06/10/2019,10,"€26,36",Euro / HL.,Toledo vino blanco sin DOP/IGP
+304,ES,Spain,30/09/2019,06/10/2019,10,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+305,ES,Spain,30/09/2019,06/10/2019,10,"€39,66",Euro / HL.,Toledo vino tinto sin DOP/IGP
+306,ES,Spain,30/09/2019,06/10/2019,10,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+307,ES,Spain,30/09/2019,06/10/2019,10,"€45,04",Euro / HL.,Valencia vino tinto sin DOP/IGP
+308,ES,Spain,30/09/2019,06/10/2019,10,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+309,ES,Spain,28/10/2019,03/11/2019,14,"€37,65",Euro / HL.,Albacete vino blanco sin DOP/IGP
+310,ES,Spain,28/10/2019,03/11/2019,14,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+311,ES,Spain,28/10/2019,03/11/2019,14,"€43,49",Euro / HL.,Albacete vino tinto sin DOP/IGP
+312,ES,Spain,28/10/2019,03/11/2019,14,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+313,ES,Spain,28/10/2019,03/11/2019,14,"€35,19",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+314,ES,Spain,28/10/2019,03/11/2019,14,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+315,ES,Spain,28/10/2019,03/11/2019,14,"€34,58",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+316,ES,Spain,28/10/2019,03/11/2019,14,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+317,ES,Spain,28/10/2019,03/11/2019,14,"€41,29",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+318,ES,Spain,28/10/2019,03/11/2019,14,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+319,ES,Spain,28/10/2019,03/11/2019,14,"€33,85",Euro / HL.,Toledo vino blanco sin DOP/IGP
+320,ES,Spain,28/10/2019,03/11/2019,14,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+321,ES,Spain,28/10/2019,03/11/2019,14,"€39,64",Euro / HL.,Toledo vino tinto sin DOP/IGP
+322,ES,Spain,28/10/2019,03/11/2019,14,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+323,ES,Spain,28/10/2019,03/11/2019,14,"€43,81",Euro / HL.,Valencia vino tinto sin DOP/IGP
+324,ES,Spain,28/10/2019,03/11/2019,14,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+325,ES,Spain,25/11/2019,01/12/2019,18,"€40,34",Euro / HL.,Albacete vino blanco sin DOP/IGP
+326,ES,Spain,25/11/2019,01/12/2019,18,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+327,ES,Spain,25/11/2019,01/12/2019,18,"€46,62",Euro / HL.,Albacete vino tinto sin DOP/IGP
+328,ES,Spain,25/11/2019,01/12/2019,18,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+329,ES,Spain,25/11/2019,01/12/2019,18,"€34,75",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+330,ES,Spain,25/11/2019,01/12/2019,18,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+331,ES,Spain,25/11/2019,01/12/2019,18,"€30,96",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+332,ES,Spain,25/11/2019,01/12/2019,18,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+333,ES,Spain,25/11/2019,01/12/2019,18,"€44,84",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+334,ES,Spain,25/11/2019,01/12/2019,18,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+335,ES,Spain,25/11/2019,01/12/2019,18,"€29,90",Euro / HL.,Toledo vino blanco sin DOP/IGP
+336,ES,Spain,25/11/2019,01/12/2019,18,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+337,ES,Spain,25/11/2019,01/12/2019,18,"€42,11",Euro / HL.,Toledo vino tinto sin DOP/IGP
+338,ES,Spain,25/11/2019,01/12/2019,18,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+339,ES,Spain,25/11/2019,01/12/2019,18,"€44,91",Euro / HL.,Valencia vino tinto sin DOP/IGP
+340,ES,Spain,25/11/2019,01/12/2019,18,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+341,ES,Spain,30/12/2019,05/01/2020,23,"€42,73",Euro / HL.,Albacete vino blanco sin DOP/IGP
+342,ES,Spain,30/12/2019,05/01/2020,23,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+343,ES,Spain,30/12/2019,05/01/2020,23,"€49,81",Euro / HL.,Albacete vino tinto sin DOP/IGP
+344,ES,Spain,30/12/2019,05/01/2020,23,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+345,ES,Spain,30/12/2019,05/01/2020,23,"€36,77",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+346,ES,Spain,30/12/2019,05/01/2020,23,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+347,ES,Spain,30/12/2019,05/01/2020,23,"€32,88",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+348,ES,Spain,30/12/2019,05/01/2020,23,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+349,ES,Spain,30/12/2019,05/01/2020,23,"€43,37",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+350,ES,Spain,30/12/2019,05/01/2020,23,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+351,ES,Spain,30/12/2019,05/01/2020,23,"€34,09",Euro / HL.,Toledo vino blanco sin DOP/IGP
+352,ES,Spain,30/12/2019,05/01/2020,23,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+353,ES,Spain,30/12/2019,05/01/2020,23,"€43,05",Euro / HL.,Toledo vino tinto sin DOP/IGP
+354,ES,Spain,30/12/2019,05/01/2020,23,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+355,ES,Spain,30/12/2019,05/01/2020,23,"€44,51",Euro / HL.,Valencia vino tinto sin DOP/IGP
+356,ES,Spain,30/12/2019,05/01/2020,23,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+357,ES,Spain,27/01/2020,02/02/2020,27,"€41,99",Euro / HL.,Albacete vino blanco sin DOP/IGP
+358,ES,Spain,27/01/2020,02/02/2020,27,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+359,ES,Spain,27/01/2020,02/02/2020,27,"€45,90",Euro / HL.,Albacete vino tinto sin DOP/IGP
+360,ES,Spain,27/01/2020,02/02/2020,27,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+361,ES,Spain,27/01/2020,02/02/2020,27,"€33,61",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+362,ES,Spain,27/01/2020,02/02/2020,27,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+363,ES,Spain,27/01/2020,02/02/2020,27,"€31,97",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+364,ES,Spain,27/01/2020,02/02/2020,27,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+365,ES,Spain,27/01/2020,02/02/2020,27,"€40,83",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+366,ES,Spain,27/01/2020,02/02/2020,27,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+367,ES,Spain,27/01/2020,02/02/2020,27,"€32,61",Euro / HL.,Toledo vino blanco sin DOP/IGP
+368,ES,Spain,27/01/2020,02/02/2020,27,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+369,ES,Spain,27/01/2020,02/02/2020,27,"€47,51",Euro / HL.,Toledo vino tinto sin DOP/IGP
+370,ES,Spain,27/01/2020,02/02/2020,27,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+371,ES,Spain,27/01/2020,02/02/2020,27,"€42,51",Euro / HL.,Valencia vino tinto sin DOP/IGP
+372,ES,Spain,27/01/2020,02/02/2020,27,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+373,ES,Spain,01/06/2020,07/06/2020,45,"€45,58",Euro / HL.,Albacete vino tinto sin DOP/IGP
+374,ES,Spain,01/06/2020,07/06/2020,45,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+375,ES,Spain,01/06/2020,07/06/2020,45,"€26,23",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+376,ES,Spain,01/06/2020,07/06/2020,45,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+377,ES,Spain,01/06/2020,07/06/2020,45,"€26,48",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+378,ES,Spain,01/06/2020,07/06/2020,45,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+379,ES,Spain,01/06/2020,07/06/2020,45,"€37,01",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+380,ES,Spain,01/06/2020,07/06/2020,45,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+381,ES,Spain,01/06/2020,07/06/2020,45,"€30,13",Euro / HL.,Toledo vino blanco sin DOP/IGP
+382,ES,Spain,01/06/2020,07/06/2020,45,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+383,ES,Spain,01/06/2020,07/06/2020,45,"€37,94",Euro / HL.,Toledo vino tinto sin DOP/IGP
+384,ES,Spain,01/06/2020,07/06/2020,45,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+385,ES,Spain,01/06/2020,07/06/2020,45,"€34,02",Euro / HL.,Valencia vino tinto sin DOP/IGP
+386,ES,Spain,01/06/2020,07/06/2020,45,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+387,ES,Spain,29/06/2020,05/07/2020,49,"€51,75",Euro / HL.,Albacete vino blanco sin DOP/IGP
+388,ES,Spain,29/06/2020,05/07/2020,49,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+389,ES,Spain,29/06/2020,05/07/2020,49,"€45,06",Euro / HL.,Albacete vino tinto sin DOP/IGP
+390,ES,Spain,29/06/2020,05/07/2020,49,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+391,ES,Spain,29/06/2020,05/07/2020,49,"€33,35",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+392,ES,Spain,29/06/2020,05/07/2020,49,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+393,ES,Spain,29/06/2020,05/07/2020,49,"€25,62",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+394,ES,Spain,29/06/2020,05/07/2020,49,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+395,ES,Spain,29/06/2020,05/07/2020,49,"€33,76",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+396,ES,Spain,29/06/2020,05/07/2020,49,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+397,ES,Spain,29/06/2020,05/07/2020,49,"€29,36",Euro / HL.,Toledo vino blanco sin DOP/IGP
+398,ES,Spain,29/06/2020,05/07/2020,49,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+399,ES,Spain,29/06/2020,05/07/2020,49,"€40,22",Euro / HL.,Toledo vino tinto sin DOP/IGP
+400,ES,Spain,29/06/2020,05/07/2020,49,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+401,ES,Spain,29/06/2020,05/07/2020,49,"€30,85",Euro / HL.,Valencia vino tinto sin DOP/IGP
+402,ES,Spain,29/06/2020,05/07/2020,49,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+403,ES,Spain,24/02/2020,01/03/2020,31,"€42,29",Euro / HL.,Albacete vino blanco sin DOP/IGP
+404,ES,Spain,24/02/2020,01/03/2020,31,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+405,ES,Spain,24/02/2020,01/03/2020,31,"€44,98",Euro / HL.,Albacete vino tinto sin DOP/IGP
+406,ES,Spain,24/02/2020,01/03/2020,31,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+407,ES,Spain,24/02/2020,01/03/2020,31,"€33,20",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+408,ES,Spain,24/02/2020,01/03/2020,31,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+409,ES,Spain,24/02/2020,01/03/2020,31,"€29,92",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+410,ES,Spain,24/02/2020,01/03/2020,31,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+411,ES,Spain,24/02/2020,01/03/2020,31,"€41,81",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+412,ES,Spain,24/02/2020,01/03/2020,31,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+413,ES,Spain,24/02/2020,01/03/2020,31,"€30,42",Euro / HL.,Toledo vino blanco sin DOP/IGP
+414,ES,Spain,24/02/2020,01/03/2020,31,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+415,ES,Spain,24/02/2020,01/03/2020,31,"€46,00",Euro / HL.,Toledo vino tinto sin DOP/IGP
+416,ES,Spain,24/02/2020,01/03/2020,31,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+417,ES,Spain,24/02/2020,01/03/2020,31,"€40,94",Euro / HL.,Valencia vino tinto sin DOP/IGP
+418,ES,Spain,24/02/2020,01/03/2020,31,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+419,ES,Spain,30/03/2020,05/04/2020,36,"€36,84",Euro / HL.,Albacete vino blanco sin DOP/IGP
+420,ES,Spain,30/03/2020,05/04/2020,36,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+421,ES,Spain,30/03/2020,05/04/2020,36,"€39,96",Euro / HL.,Albacete vino tinto sin DOP/IGP
+422,ES,Spain,30/03/2020,05/04/2020,36,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+423,ES,Spain,30/03/2020,05/04/2020,36,"€34,45",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+424,ES,Spain,30/03/2020,05/04/2020,36,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+425,ES,Spain,30/03/2020,05/04/2020,36,"€29,88",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+426,ES,Spain,30/03/2020,05/04/2020,36,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+427,ES,Spain,30/03/2020,05/04/2020,36,"€39,73",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+428,ES,Spain,30/03/2020,05/04/2020,36,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+429,ES,Spain,30/03/2020,05/04/2020,36,"€29,38",Euro / HL.,Toledo vino blanco sin DOP/IGP
+430,ES,Spain,30/03/2020,05/04/2020,36,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+431,ES,Spain,30/03/2020,05/04/2020,36,"€43,09",Euro / HL.,Toledo vino tinto sin DOP/IGP
+432,ES,Spain,30/03/2020,05/04/2020,36,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+433,ES,Spain,30/03/2020,05/04/2020,36,"€41,63",Euro / HL.,Valencia vino tinto sin DOP/IGP
+434,ES,Spain,30/03/2020,05/04/2020,36,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+435,ES,Spain,27/04/2020,03/05/2020,40,"€35,84",Euro / HL.,Albacete vino blanco sin DOP/IGP
+436,ES,Spain,27/04/2020,03/05/2020,40,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+437,ES,Spain,27/04/2020,03/05/2020,40,"€39,09",Euro / HL.,Albacete vino tinto sin DOP/IGP
+438,ES,Spain,27/04/2020,03/05/2020,40,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+439,ES,Spain,27/04/2020,03/05/2020,40,"€29,55",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+440,ES,Spain,27/04/2020,03/05/2020,40,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+441,ES,Spain,27/04/2020,03/05/2020,40,"€27,46",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+442,ES,Spain,27/04/2020,03/05/2020,40,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+443,ES,Spain,27/04/2020,03/05/2020,40,"€38,59",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+444,ES,Spain,27/04/2020,03/05/2020,40,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+445,ES,Spain,27/04/2020,03/05/2020,40,"€32,35",Euro / HL.,Toledo vino blanco sin DOP/IGP
+446,ES,Spain,27/04/2020,03/05/2020,40,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+447,ES,Spain,27/04/2020,03/05/2020,40,"€40,52",Euro / HL.,Toledo vino tinto sin DOP/IGP
+448,ES,Spain,27/04/2020,03/05/2020,40,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+449,ES,Spain,27/04/2020,03/05/2020,40,"€42,37",Euro / HL.,Valencia vino tinto sin DOP/IGP
+450,ES,Spain,27/04/2020,03/05/2020,40,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+451,ES,Spain,01/06/2020,07/06/2020,45,"€43,53",Euro / HL.,Albacete vino blanco sin DOP/IGP
+452,ES,Spain,01/06/2020,07/06/2020,45,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+453,ES,Spain,01/04/2019,07/04/2019,36,"€38,44",Euro / HL.,Albacete vino blanco sin DOP/IGP
+454,ES,Spain,01/04/2019,07/04/2019,36,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+455,ES,Spain,01/04/2019,07/04/2019,36,"€40,14",Euro / HL.,Albacete vino tinto sin DOP/IGP
+456,ES,Spain,01/04/2019,07/04/2019,36,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+457,ES,Spain,01/04/2019,07/04/2019,36,"€27,20",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+458,ES,Spain,01/04/2019,07/04/2019,36,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+459,ES,Spain,01/04/2019,07/04/2019,36,"€25,41",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+460,ES,Spain,01/04/2019,07/04/2019,36,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+461,ES,Spain,01/04/2019,07/04/2019,36,"€33,65",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+462,ES,Spain,01/04/2019,07/04/2019,36,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+463,ES,Spain,01/04/2019,07/04/2019,36,"€142,45",Euro / HL.,Rioja DOP vino tinto
+464,ES,Spain,01/04/2019,07/04/2019,36,"€,00",Quantity,Rioja DOP vino tinto
+465,ES,Spain,01/04/2019,07/04/2019,36,"€31,11",Euro / HL.,Toledo vino blanco sin DOP/IGP
+466,ES,Spain,01/04/2019,07/04/2019,36,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+467,ES,Spain,01/04/2019,07/04/2019,36,"€38,40",Euro / HL.,Toledo vino tinto sin DOP/IGP
+468,ES,Spain,01/04/2019,07/04/2019,36,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+469,ES,Spain,01/04/2019,07/04/2019,36,"€33,33",Euro / HL.,Valencia vino tinto sin DOP/IGP
+470,ES,Spain,01/04/2019,07/04/2019,36,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+471,ES,Spain,29/04/2019,05/05/2019,40,"€29,42",Euro / HL.,Albacete vino blanco sin DOP/IGP
+472,ES,Spain,29/04/2019,05/05/2019,40,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+473,ES,Spain,29/04/2019,05/05/2019,40,"€41,05",Euro / HL.,Albacete vino tinto sin DOP/IGP
+474,ES,Spain,29/04/2019,05/05/2019,40,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+475,ES,Spain,29/04/2019,05/05/2019,40,"€26,77",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+476,ES,Spain,29/04/2019,05/05/2019,40,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+477,ES,Spain,29/04/2019,05/05/2019,40,"€24,79",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+478,ES,Spain,29/04/2019,05/05/2019,40,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+479,ES,Spain,29/04/2019,05/05/2019,40,"€35,69",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+480,ES,Spain,29/04/2019,05/05/2019,40,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+481,ES,Spain,29/04/2019,05/05/2019,40,"€133,26",Euro / HL.,Rioja DOP vino tinto
+482,ES,Spain,29/04/2019,05/05/2019,40,"€,00",Quantity,Rioja DOP vino tinto
+483,ES,Spain,29/04/2019,05/05/2019,40,"€27,38",Euro / HL.,Toledo vino blanco sin DOP/IGP
+484,ES,Spain,29/04/2019,05/05/2019,40,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+485,ES,Spain,29/04/2019,05/05/2019,40,"€32,95",Euro / HL.,Toledo vino tinto sin DOP/IGP
+486,ES,Spain,29/04/2019,05/05/2019,40,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+487,ES,Spain,29/04/2019,05/05/2019,40,"€33,77",Euro / HL.,Valencia vino tinto sin DOP/IGP
+488,ES,Spain,29/04/2019,05/05/2019,40,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+489,ES,Spain,27/05/2019,02/06/2019,44,"€27,39",Euro / HL.,Albacete vino blanco sin DOP/IGP
+490,ES,Spain,27/05/2019,02/06/2019,44,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+491,ES,Spain,27/05/2019,02/06/2019,44,"€41,16",Euro / HL.,Albacete vino tinto sin DOP/IGP
+492,ES,Spain,27/05/2019,02/06/2019,44,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+493,ES,Spain,27/05/2019,02/06/2019,44,"€25,75",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+494,ES,Spain,27/05/2019,02/06/2019,44,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+495,ES,Spain,27/05/2019,02/06/2019,44,"€25,31",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+496,ES,Spain,27/05/2019,02/06/2019,44,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+497,ES,Spain,27/05/2019,02/06/2019,44,"€35,43",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+498,ES,Spain,27/05/2019,02/06/2019,44,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+499,ES,Spain,27/05/2019,02/06/2019,44,"€133,26",Euro / HL.,Rioja DOP vino tinto
+500,ES,Spain,27/05/2019,02/06/2019,44,"€,00",Quantity,Rioja DOP vino tinto
+501,ES,Spain,27/05/2019,02/06/2019,44,"€29,19",Euro / HL.,Toledo vino blanco sin DOP/IGP
+502,ES,Spain,27/05/2019,02/06/2019,44,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+503,ES,Spain,27/05/2019,02/06/2019,44,"€36,19",Euro / HL.,Toledo vino tinto sin DOP/IGP
+504,ES,Spain,27/05/2019,02/06/2019,44,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+505,ES,Spain,27/05/2019,02/06/2019,44,"€33,48",Euro / HL.,Valencia vino tinto sin DOP/IGP
+506,ES,Spain,27/05/2019,02/06/2019,44,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+507,ES,Spain,01/07/2019,07/07/2019,49,"€28,79",Euro / HL.,Albacete vino blanco sin DOP/IGP
+508,ES,Spain,01/07/2019,07/07/2019,49,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+509,ES,Spain,01/07/2019,07/07/2019,49,"€43,63",Euro / HL.,Albacete vino tinto sin DOP/IGP
+510,ES,Spain,01/07/2019,07/07/2019,49,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+511,ES,Spain,01/07/2019,07/07/2019,49,"€27,34",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+512,ES,Spain,01/07/2019,07/07/2019,49,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+513,ES,Spain,01/07/2019,07/07/2019,49,"€25,12",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+514,ES,Spain,01/07/2019,07/07/2019,49,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+515,ES,Spain,01/07/2019,07/07/2019,49,"€34,21",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+516,ES,Spain,01/07/2019,07/07/2019,49,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+517,ES,Spain,01/07/2019,07/07/2019,49,"€150,99",Euro / HL.,Rueda DOP vino blanco
+518,ES,Spain,01/07/2019,07/07/2019,49,"€,00",Quantity,Rueda DOP vino blanco
+519,ES,Spain,01/07/2019,07/07/2019,49,"€26,13",Euro / HL.,Toledo vino blanco sin DOP/IGP
+520,ES,Spain,01/07/2019,07/07/2019,49,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+521,ES,Spain,01/07/2019,07/07/2019,49,"€35,59",Euro / HL.,Toledo vino tinto sin DOP/IGP
+522,ES,Spain,01/07/2019,07/07/2019,49,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+523,ES,Spain,01/07/2019,07/07/2019,49,"€33,12",Euro / HL.,Valencia vino tinto sin DOP/IGP
+524,ES,Spain,01/07/2019,07/07/2019,49,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+525,ES,Spain,29/07/2019,04/08/2019,1,"€30,88",Euro / HL.,Albacete vino blanco sin DOP/IGP
+526,ES,Spain,29/07/2019,04/08/2019,1,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+527,ES,Spain,29/07/2019,04/08/2019,1,"€36,61",Euro / HL.,Albacete vino tinto sin DOP/IGP
+528,ES,Spain,29/07/2019,04/08/2019,1,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+529,ES,Spain,29/07/2019,04/08/2019,1,"€26,03",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+530,ES,Spain,29/07/2019,04/08/2019,1,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+531,ES,Spain,29/07/2019,04/08/2019,1,"€26,43",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+532,ES,Spain,29/07/2019,04/08/2019,1,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+533,ES,Spain,29/07/2019,04/08/2019,1,"€37,14",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+534,ES,Spain,29/07/2019,04/08/2019,1,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+535,ES,Spain,29/07/2019,04/08/2019,1,"€26,56",Euro / HL.,Toledo vino blanco sin DOP/IGP
+536,ES,Spain,29/07/2019,04/08/2019,1,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+537,ES,Spain,29/07/2019,04/08/2019,1,"€34,53",Euro / HL.,Toledo vino tinto sin DOP/IGP
+538,ES,Spain,29/07/2019,04/08/2019,1,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+539,ES,Spain,29/07/2019,04/08/2019,1,"€32,75",Euro / HL.,Valencia vino tinto sin DOP/IGP
+540,ES,Spain,29/07/2019,04/08/2019,1,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+541,ES,Spain,30/07/2018,05/08/2018,1,"€60,92",Euro / HL.,Albacete vino blanco sin DOP/IGP
+542,ES,Spain,30/07/2018,05/08/2018,1,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+543,ES,Spain,30/07/2018,05/08/2018,1,"€67,61",Euro / HL.,Albacete vino tinto sin DOP/IGP
+544,ES,Spain,30/07/2018,05/08/2018,1,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+545,ES,Spain,30/07/2018,05/08/2018,1,"€48,80",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+546,ES,Spain,30/07/2018,05/08/2018,1,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+547,ES,Spain,30/07/2018,05/08/2018,1,"€48,57",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+548,ES,Spain,30/07/2018,05/08/2018,1,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+549,ES,Spain,30/07/2018,05/08/2018,1,"€61,84",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+550,ES,Spain,30/07/2018,05/08/2018,1,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+551,ES,Spain,30/07/2018,05/08/2018,1,"€48,62",Euro / HL.,Toledo vino blanco sin DOP/IGP
+552,ES,Spain,30/07/2018,05/08/2018,1,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+553,ES,Spain,30/07/2018,05/08/2018,1,"€63,43",Euro / HL.,Toledo vino tinto sin DOP/IGP
+554,ES,Spain,30/07/2018,05/08/2018,1,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+555,ES,Spain,30/07/2018,05/08/2018,1,"€56,42",Euro / HL.,Valencia vino tinto sin DOP/IGP
+556,ES,Spain,30/07/2018,05/08/2018,1,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+557,ES,Spain,27/08/2018,02/09/2018,5,"€56,55",Euro / HL.,Albacete vino blanco sin DOP/IGP
+558,ES,Spain,27/08/2018,02/09/2018,5,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+559,ES,Spain,27/08/2018,02/09/2018,5,"€64,30",Euro / HL.,Albacete vino tinto sin DOP/IGP
+560,ES,Spain,27/08/2018,02/09/2018,5,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+561,ES,Spain,27/08/2018,02/09/2018,5,"€43,58",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+562,ES,Spain,27/08/2018,02/09/2018,5,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+563,ES,Spain,27/08/2018,02/09/2018,5,"€42,05",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+564,ES,Spain,27/08/2018,02/09/2018,5,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+565,ES,Spain,27/08/2018,02/09/2018,5,"€53,66",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+566,ES,Spain,27/08/2018,02/09/2018,5,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+567,ES,Spain,27/08/2018,02/09/2018,5,"€44,91",Euro / HL.,Toledo vino blanco sin DOP/IGP
+568,ES,Spain,27/08/2018,02/09/2018,5,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+569,ES,Spain,27/08/2018,02/09/2018,5,"€57,43",Euro / HL.,Toledo vino tinto sin DOP/IGP
+570,ES,Spain,27/08/2018,02/09/2018,5,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+571,ES,Spain,27/08/2018,02/09/2018,5,"€55,20",Euro / HL.,Valencia vino tinto sin DOP/IGP
+572,ES,Spain,27/08/2018,02/09/2018,5,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+573,ES,Spain,01/10/2018,07/10/2018,10,"€58,05",Euro / HL.,Albacete vino blanco sin DOP/IGP
+574,ES,Spain,01/10/2018,07/10/2018,10,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+575,ES,Spain,01/10/2018,07/10/2018,10,"€66,59",Euro / HL.,Albacete vino tinto sin DOP/IGP
+576,ES,Spain,01/10/2018,07/10/2018,10,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+577,ES,Spain,01/10/2018,07/10/2018,10,"€40,87",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+578,ES,Spain,01/10/2018,07/10/2018,10,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+579,ES,Spain,01/10/2018,07/10/2018,10,"€42,45",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+580,ES,Spain,01/10/2018,07/10/2018,10,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+581,ES,Spain,01/10/2018,07/10/2018,10,"€54,60",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+582,ES,Spain,01/10/2018,07/10/2018,10,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+583,ES,Spain,01/10/2018,07/10/2018,10,"€48,40",Euro / HL.,Toledo vino blanco sin DOP/IGP
+584,ES,Spain,01/10/2018,07/10/2018,10,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+585,ES,Spain,01/10/2018,07/10/2018,10,"€61,25",Euro / HL.,Toledo vino tinto sin DOP/IGP
+586,ES,Spain,01/10/2018,07/10/2018,10,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+587,ES,Spain,01/10/2018,07/10/2018,10,"€47,58",Euro / HL.,Valencia vino tinto sin DOP/IGP
+588,ES,Spain,01/10/2018,07/10/2018,10,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+589,ES,Spain,29/10/2018,04/11/2018,14,"€48,77",Euro / HL.,Albacete vino blanco sin DOP/IGP
+590,ES,Spain,29/10/2018,04/11/2018,14,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+591,ES,Spain,29/10/2018,04/11/2018,14,"€64,52",Euro / HL.,Albacete vino tinto sin DOP/IGP
+592,ES,Spain,29/10/2018,04/11/2018,14,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+593,ES,Spain,29/10/2018,04/11/2018,14,"€36,71",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+594,ES,Spain,29/10/2018,04/11/2018,14,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+595,ES,Spain,29/10/2018,04/11/2018,14,"€35,60",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+596,ES,Spain,29/10/2018,04/11/2018,14,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+597,ES,Spain,29/10/2018,04/11/2018,14,"€44,95",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+598,ES,Spain,29/10/2018,04/11/2018,14,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+599,ES,Spain,29/10/2018,04/11/2018,14,"€39,77",Euro / HL.,Toledo vino blanco sin DOP/IGP
+600,ES,Spain,29/10/2018,04/11/2018,14,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+601,ES,Spain,29/10/2018,04/11/2018,14,"€53,24",Euro / HL.,Toledo vino tinto sin DOP/IGP
+602,ES,Spain,29/10/2018,04/11/2018,14,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+603,ES,Spain,29/10/2018,04/11/2018,14,"€42,15",Euro / HL.,Valencia vino tinto sin DOP/IGP
+604,ES,Spain,29/10/2018,04/11/2018,14,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+605,ES,Spain,26/11/2018,02/12/2018,18,"€44,56",Euro / HL.,Albacete vino blanco sin DOP/IGP
+606,ES,Spain,26/11/2018,02/12/2018,18,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+607,ES,Spain,26/11/2018,02/12/2018,18,"€54,14",Euro / HL.,Albacete vino tinto sin DOP/IGP
+608,ES,Spain,26/11/2018,02/12/2018,18,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+609,ES,Spain,26/11/2018,02/12/2018,18,"€32,77",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+610,ES,Spain,26/11/2018,02/12/2018,18,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+611,ES,Spain,26/11/2018,02/12/2018,18,"€32,42",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+612,ES,Spain,26/11/2018,02/12/2018,18,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+613,ES,Spain,26/11/2018,02/12/2018,18,"€39,66",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+614,ES,Spain,26/11/2018,02/12/2018,18,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+615,ES,Spain,26/11/2018,02/12/2018,18,"€202,39",Euro / HL.,Rueda DOP vino blanco
+616,ES,Spain,26/11/2018,02/12/2018,18,"€,00",Quantity,Rueda DOP vino blanco
+617,ES,Spain,26/11/2018,02/12/2018,18,"€40,94",Euro / HL.,Toledo vino blanco sin DOP/IGP
+618,ES,Spain,26/11/2018,02/12/2018,18,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+619,ES,Spain,26/11/2018,02/12/2018,18,"€55,10",Euro / HL.,Toledo vino tinto sin DOP/IGP
+620,ES,Spain,26/11/2018,02/12/2018,18,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+621,ES,Spain,26/11/2018,02/12/2018,18,"€39,47",Euro / HL.,Valencia vino tinto sin DOP/IGP
+622,ES,Spain,26/11/2018,02/12/2018,18,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+623,ES,Spain,31/12/2018,06/01/2019,23,"€37,28",Euro / HL.,Albacete vino blanco sin DOP/IGP
+624,ES,Spain,31/12/2018,06/01/2019,23,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+625,ES,Spain,31/12/2018,06/01/2019,23,"€47,59",Euro / HL.,Albacete vino tinto sin DOP/IGP
+626,ES,Spain,31/12/2018,06/01/2019,23,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+627,ES,Spain,31/12/2018,06/01/2019,23,"€31,81",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+628,ES,Spain,31/12/2018,06/01/2019,23,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+629,ES,Spain,31/12/2018,06/01/2019,23,"€30,29",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+630,ES,Spain,31/12/2018,06/01/2019,23,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+631,ES,Spain,31/12/2018,06/01/2019,23,"€34,93",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+632,ES,Spain,31/12/2018,06/01/2019,23,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+633,ES,Spain,31/12/2018,06/01/2019,23,"€202,39",Euro / HL.,Rueda DOP vino blanco
+634,ES,Spain,31/12/2018,06/01/2019,23,"€,00",Quantity,Rueda DOP vino blanco
+635,ES,Spain,31/12/2018,06/01/2019,23,"€32,76",Euro / HL.,Toledo vino blanco sin DOP/IGP
+636,ES,Spain,31/12/2018,06/01/2019,23,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+637,ES,Spain,31/12/2018,06/01/2019,23,"€47,46",Euro / HL.,Toledo vino tinto sin DOP/IGP
+638,ES,Spain,31/12/2018,06/01/2019,23,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+639,ES,Spain,31/12/2018,06/01/2019,23,"€38,26",Euro / HL.,Valencia vino tinto sin DOP/IGP
+640,ES,Spain,31/12/2018,06/01/2019,23,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+641,ES,Spain,28/01/2019,03/02/2019,27,"€38,50",Euro / HL.,Albacete vino blanco sin DOP/IGP
+642,ES,Spain,28/01/2019,03/02/2019,27,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+643,ES,Spain,28/01/2019,03/02/2019,27,"€52,49",Euro / HL.,Albacete vino tinto sin DOP/IGP
+644,ES,Spain,28/01/2019,03/02/2019,27,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+645,ES,Spain,28/01/2019,03/02/2019,27,"€27,18",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+646,ES,Spain,28/01/2019,03/02/2019,27,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+647,ES,Spain,28/01/2019,03/02/2019,27,"€27,20",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+648,ES,Spain,28/01/2019,03/02/2019,27,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+649,ES,Spain,28/01/2019,03/02/2019,27,"€37,93",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+650,ES,Spain,28/01/2019,03/02/2019,27,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+651,ES,Spain,28/01/2019,03/02/2019,27,"€29,12",Euro / HL.,Toledo vino blanco sin DOP/IGP
+652,ES,Spain,28/08/2017,03/09/2017,5,"€35,73",Euro / HL.,Albacete vino blanco sin DOP/IGP
+653,ES,Spain,28/08/2017,03/09/2017,5,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+654,ES,Spain,28/08/2017,03/09/2017,5,"€40,87",Euro / HL.,Albacete vino tinto sin DOP/IGP
+655,ES,Spain,28/08/2017,03/09/2017,5,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+656,ES,Spain,28/08/2017,03/09/2017,5,"€40,12",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+657,ES,Spain,28/08/2017,03/09/2017,5,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+658,ES,Spain,28/08/2017,03/09/2017,5,"€33,32",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+659,ES,Spain,28/08/2017,03/09/2017,5,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+660,ES,Spain,28/08/2017,03/09/2017,5,"€42,85",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+661,ES,Spain,28/08/2017,03/09/2017,5,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+662,ES,Spain,28/08/2017,03/09/2017,5,"€32,79",Euro / HL.,Toledo vino blanco sin DOP/IGP
+663,ES,Spain,28/08/2017,03/09/2017,5,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+664,ES,Spain,28/08/2017,03/09/2017,5,"€41,80",Euro / HL.,Toledo vino tinto sin DOP/IGP
+665,ES,Spain,28/08/2017,03/09/2017,5,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+666,ES,Spain,28/08/2017,03/09/2017,5,"€54,03",Euro / HL.,Valencia vino tinto sin DOP/IGP
+667,ES,Spain,28/08/2017,03/09/2017,5,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+668,ES,Spain,25/09/2017,01/10/2017,9,"€39,87",Euro / HL.,Albacete vino blanco sin DOP/IGP
+669,ES,Spain,25/09/2017,01/10/2017,9,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+670,ES,Spain,25/09/2017,01/10/2017,9,"€45,18",Euro / HL.,Albacete vino tinto sin DOP/IGP
+671,ES,Spain,25/09/2017,01/10/2017,9,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+672,ES,Spain,25/09/2017,01/10/2017,9,"€43,87",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+673,ES,Spain,25/09/2017,01/10/2017,9,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+674,ES,Spain,25/09/2017,01/10/2017,9,"€39,67",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+675,ES,Spain,25/09/2017,01/10/2017,9,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+676,ES,Spain,25/09/2017,01/10/2017,9,"€44,43",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+677,ES,Spain,25/09/2017,01/10/2017,9,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+678,ES,Spain,25/09/2017,01/10/2017,9,"€138,61",Euro / HL.,Rueda DOP vino blanco
+679,ES,Spain,25/09/2017,01/10/2017,9,"€,00",Quantity,Rueda DOP vino blanco
+680,ES,Spain,25/09/2017,01/10/2017,9,"€42,77",Euro / HL.,Toledo vino blanco sin DOP/IGP
+681,ES,Spain,25/09/2017,01/10/2017,9,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+682,ES,Spain,25/09/2017,01/10/2017,9,"€46,26",Euro / HL.,Toledo vino tinto sin DOP/IGP
+683,ES,Spain,25/09/2017,01/10/2017,9,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+684,ES,Spain,25/09/2017,01/10/2017,9,"€58,72",Euro / HL.,Valencia vino tinto sin DOP/IGP
+685,ES,Spain,25/09/2017,01/10/2017,9,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+686,ES,Spain,30/10/2017,05/11/2017,14,"€39,42",Euro / HL.,Albacete vino blanco sin DOP/IGP
+687,ES,Spain,30/10/2017,05/11/2017,14,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+688,ES,Spain,30/10/2017,05/11/2017,14,"€54,93",Euro / HL.,Albacete vino tinto sin DOP/IGP
+689,ES,Spain,30/10/2017,05/11/2017,14,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+690,ES,Spain,30/10/2017,05/11/2017,14,"€47,55",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+691,ES,Spain,30/10/2017,05/11/2017,14,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+692,ES,Spain,30/10/2017,05/11/2017,14,"€45,54",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+693,ES,Spain,30/10/2017,05/11/2017,14,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+694,ES,Spain,30/10/2017,05/11/2017,14,"€54,36",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+695,ES,Spain,30/10/2017,05/11/2017,14,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+696,ES,Spain,30/10/2017,05/11/2017,14,"€148,76",Euro / HL.,Rueda DOP vino blanco
+697,ES,Spain,30/10/2017,05/11/2017,14,"€,00",Quantity,Rueda DOP vino blanco
+698,ES,Spain,30/10/2017,05/11/2017,14,"€46,97",Euro / HL.,Toledo vino blanco sin DOP/IGP
+699,ES,Spain,30/10/2017,05/11/2017,14,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+700,ES,Spain,30/10/2017,05/11/2017,14,"€49,21",Euro / HL.,Toledo vino tinto sin DOP/IGP
+701,ES,Spain,30/10/2017,05/11/2017,14,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+702,ES,Spain,30/10/2017,05/11/2017,14,"€62,93",Euro / HL.,Valencia vino tinto sin DOP/IGP
+703,ES,Spain,30/10/2017,05/11/2017,14,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+704,ES,Spain,27/11/2017,03/12/2017,18,"€38,63",Euro / HL.,Albacete vino blanco sin DOP/IGP
+705,ES,Spain,27/11/2017,03/12/2017,18,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+706,ES,Spain,27/11/2017,03/12/2017,18,"€53,69",Euro / HL.,Albacete vino tinto sin DOP/IGP
+707,ES,Spain,27/11/2017,03/12/2017,18,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+708,ES,Spain,27/11/2017,03/12/2017,18,"€53,86",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+709,ES,Spain,27/11/2017,03/12/2017,18,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+710,ES,Spain,27/11/2017,03/12/2017,18,"€51,99",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+711,ES,Spain,27/11/2017,03/12/2017,18,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+712,ES,Spain,27/11/2017,03/12/2017,18,"€61,37",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+713,ES,Spain,27/11/2017,03/12/2017,18,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+714,ES,Spain,27/11/2017,03/12/2017,18,"€197,41",Euro / HL.,Rueda DOP vino blanco
+715,ES,Spain,27/11/2017,03/12/2017,18,"€,00",Quantity,Rueda DOP vino blanco
+716,ES,Spain,27/11/2017,03/12/2017,18,"€46,46",Euro / HL.,Toledo vino blanco sin DOP/IGP
+717,ES,Spain,27/11/2017,03/12/2017,18,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+718,ES,Spain,27/11/2017,03/12/2017,18,"€58,87",Euro / HL.,Toledo vino tinto sin DOP/IGP
+719,ES,Spain,27/11/2017,03/12/2017,18,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+720,ES,Spain,27/11/2017,03/12/2017,18,"€64,27",Euro / HL.,Valencia vino tinto sin DOP/IGP
+721,ES,Spain,27/11/2017,03/12/2017,18,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+722,ES,Spain,01/01/2018,07/01/2018,23,"€41,18",Euro / HL.,Albacete vino blanco sin DOP/IGP
+723,ES,Spain,01/01/2018,07/01/2018,23,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+724,ES,Spain,01/01/2018,07/01/2018,23,"€53,63",Euro / HL.,Albacete vino tinto sin DOP/IGP
+725,ES,Spain,01/01/2018,07/01/2018,23,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+726,ES,Spain,01/01/2018,07/01/2018,23,"€54,78",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+727,ES,Spain,01/01/2018,07/01/2018,23,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+728,ES,Spain,01/01/2018,07/01/2018,23,"€53,88",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+729,ES,Spain,01/01/2018,07/01/2018,23,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+730,ES,Spain,01/01/2018,07/01/2018,23,"€63,96",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+731,ES,Spain,01/01/2018,07/01/2018,23,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+732,ES,Spain,01/01/2018,07/01/2018,23,"€48,93",Euro / HL.,Toledo vino blanco sin DOP/IGP
+733,ES,Spain,01/01/2018,07/01/2018,23,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+734,ES,Spain,01/01/2018,07/01/2018,23,"€67,25",Euro / HL.,Toledo vino tinto sin DOP/IGP
+735,ES,Spain,01/01/2018,07/01/2018,23,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+736,ES,Spain,01/01/2018,07/01/2018,23,"€64,27",Euro / HL.,Valencia vino tinto sin DOP/IGP
+737,ES,Spain,01/01/2018,07/01/2018,23,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+738,ES,Spain,29/01/2018,04/02/2018,27,"€48,07",Euro / HL.,Albacete vino blanco sin DOP/IGP
+739,ES,Spain,29/01/2018,04/02/2018,27,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+740,ES,Spain,29/01/2018,04/02/2018,27,"€64,63",Euro / HL.,Albacete vino tinto sin DOP/IGP
+741,ES,Spain,29/01/2018,04/02/2018,27,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+742,ES,Spain,29/01/2018,04/02/2018,27,"€57,80",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+743,ES,Spain,29/01/2018,04/02/2018,27,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+744,ES,Spain,29/01/2018,04/02/2018,27,"€55,76",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+745,ES,Spain,29/01/2018,04/02/2018,27,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+746,ES,Spain,29/01/2018,04/02/2018,27,"€61,72",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+747,ES,Spain,29/01/2018,04/02/2018,27,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+748,ES,Spain,29/01/2018,04/02/2018,27,"€237,95",Euro / HL.,Rueda DOP vino blanco
+749,ES,Spain,29/01/2018,04/02/2018,27,"€,00",Quantity,Rueda DOP vino blanco
+750,ES,Spain,29/01/2018,04/02/2018,27,"€51,04",Euro / HL.,Toledo vino blanco sin DOP/IGP
+751,ES,Spain,29/01/2018,04/02/2018,27,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+752,ES,Spain,29/01/2018,04/02/2018,27,"€65,44",Euro / HL.,Toledo vino tinto sin DOP/IGP
+753,ES,Spain,29/01/2018,04/02/2018,27,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+754,ES,Spain,29/01/2018,04/02/2018,27,"€64,27",Euro / HL.,Valencia vino tinto sin DOP/IGP
+755,ES,Spain,29/01/2018,04/02/2018,27,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+756,ES,Spain,26/02/2018,04/03/2018,31,"€58,55",Euro / HL.,Albacete vino blanco sin DOP/IGP
+757,ES,Spain,26/02/2018,04/03/2018,31,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+758,ES,Spain,26/02/2018,04/03/2018,31,"€65,96",Euro / HL.,Albacete vino tinto sin DOP/IGP
+759,ES,Spain,26/02/2018,04/03/2018,31,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+760,ES,Spain,26/02/2018,04/03/2018,31,"€51,56",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+761,ES,Spain,26/02/2018,04/03/2018,31,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+762,ES,Spain,26/02/2018,04/03/2018,31,"€61,36",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+763,ES,Spain,28/05/2018,03/06/2018,44,"€65,95",Euro / HL.,Albacete vino tinto sin DOP/IGP
+764,ES,Spain,28/05/2018,03/06/2018,44,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+765,ES,Spain,28/05/2018,03/06/2018,44,"€56,87",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+766,ES,Spain,28/05/2018,03/06/2018,44,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+767,ES,Spain,28/05/2018,03/06/2018,44,"€50,82",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+768,ES,Spain,28/05/2018,03/06/2018,44,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+769,ES,Spain,28/05/2018,03/06/2018,44,"€59,53",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+770,ES,Spain,28/05/2018,03/06/2018,44,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+771,ES,Spain,28/05/2018,03/06/2018,44,"€240,30",Euro / HL.,Rioja DOP vino tinto
+772,ES,Spain,28/05/2018,03/06/2018,44,"€,00",Quantity,Rioja DOP vino tinto
+773,ES,Spain,28/05/2018,03/06/2018,44,"€273,90",Euro / HL.,Rueda DOP vino blanco
+774,ES,Spain,28/05/2018,03/06/2018,44,"€,00",Quantity,Rueda DOP vino blanco
+775,ES,Spain,28/05/2018,03/06/2018,44,"€52,75",Euro / HL.,Toledo vino blanco sin DOP/IGP
+776,ES,Spain,28/05/2018,03/06/2018,44,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+777,ES,Spain,28/05/2018,03/06/2018,44,"€65,95",Euro / HL.,Toledo vino tinto sin DOP/IGP
+778,ES,Spain,28/05/2018,03/06/2018,44,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+779,ES,Spain,28/05/2018,03/06/2018,44,"€64,27",Euro / HL.,Valencia vino tinto sin DOP/IGP
+780,ES,Spain,28/05/2018,03/06/2018,44,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+781,ES,Spain,25/06/2018,01/07/2018,48,"€60,61",Euro / HL.,Albacete vino blanco sin DOP/IGP
+782,ES,Spain,25/06/2018,01/07/2018,48,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+783,ES,Spain,25/06/2018,01/07/2018,48,"€63,80",Euro / HL.,Albacete vino tinto sin DOP/IGP
+784,ES,Spain,25/06/2018,01/07/2018,48,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+785,ES,Spain,25/06/2018,01/07/2018,48,"€52,71",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+786,ES,Spain,25/06/2018,01/07/2018,48,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+787,ES,Spain,25/06/2018,01/07/2018,48,"€51,89",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+788,ES,Spain,25/06/2018,01/07/2018,48,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+789,ES,Spain,25/06/2018,01/07/2018,48,"€64,53",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+790,ES,Spain,25/06/2018,01/07/2018,48,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+791,ES,Spain,25/06/2018,01/07/2018,48,"€48,83",Euro / HL.,Toledo vino blanco sin DOP/IGP
+792,ES,Spain,25/06/2018,01/07/2018,48,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+793,ES,Spain,25/06/2018,01/07/2018,48,"€65,43",Euro / HL.,Toledo vino tinto sin DOP/IGP
+794,ES,Spain,25/06/2018,01/07/2018,48,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+795,ES,Spain,25/06/2018,01/07/2018,48,"€62,76",Euro / HL.,Valencia vino tinto sin DOP/IGP
+796,ES,Spain,25/06/2018,01/07/2018,48,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+797,ES,Spain,26/02/2018,04/03/2018,31,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+798,ES,Spain,26/02/2018,04/03/2018,31,"€249,58",Euro / HL.,Rioja DOP vino tinto
+799,ES,Spain,26/02/2018,04/03/2018,31,"€,00",Quantity,Rioja DOP vino tinto
+800,ES,Spain,26/02/2018,04/03/2018,31,"€268,40",Euro / HL.,Rueda DOP vino blanco
+801,ES,Spain,26/02/2018,04/03/2018,31,"€,00",Quantity,Rueda DOP vino blanco
+802,ES,Spain,26/02/2018,04/03/2018,31,"€52,45",Euro / HL.,Toledo vino blanco sin DOP/IGP
+803,ES,Spain,26/02/2018,04/03/2018,31,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+804,ES,Spain,26/02/2018,04/03/2018,31,"€66,08",Euro / HL.,Toledo vino tinto sin DOP/IGP
+805,ES,Spain,26/02/2018,04/03/2018,31,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+806,ES,Spain,26/02/2018,04/03/2018,31,"€64,27",Euro / HL.,Valencia vino tinto sin DOP/IGP
+807,ES,Spain,26/02/2018,04/03/2018,31,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+808,ES,Spain,26/03/2018,01/04/2018,35,"€54,90",Euro / HL.,Albacete vino blanco sin DOP/IGP
+809,ES,Spain,26/03/2018,01/04/2018,35,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+810,ES,Spain,26/03/2018,01/04/2018,35,"€64,01",Euro / HL.,Albacete vino tinto sin DOP/IGP
+811,ES,Spain,26/03/2018,01/04/2018,35,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+812,ES,Spain,26/03/2018,01/04/2018,35,"€55,96",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+813,ES,Spain,26/03/2018,01/04/2018,35,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+814,ES,Spain,26/03/2018,01/04/2018,35,"€54,01",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+815,ES,Spain,26/03/2018,01/04/2018,35,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+816,ES,Spain,26/03/2018,01/04/2018,35,"€64,69",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+817,ES,Spain,26/03/2018,01/04/2018,35,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+818,ES,Spain,26/03/2018,01/04/2018,35,"€243,44",Euro / HL.,Rioja DOP vino tinto
+819,ES,Spain,26/03/2018,01/04/2018,35,"€,00",Quantity,Rioja DOP vino tinto
+820,ES,Spain,26/03/2018,01/04/2018,35,"€269,23",Euro / HL.,Rueda DOP vino blanco
+821,ES,Spain,26/03/2018,01/04/2018,35,"€,00",Quantity,Rueda DOP vino blanco
+822,ES,Spain,26/03/2018,01/04/2018,35,"€51,44",Euro / HL.,Toledo vino blanco sin DOP/IGP
+823,ES,Spain,26/03/2018,01/04/2018,35,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+824,ES,Spain,26/03/2018,01/04/2018,35,"€64,74",Euro / HL.,Toledo vino tinto sin DOP/IGP
+825,ES,Spain,26/03/2018,01/04/2018,35,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+826,ES,Spain,26/03/2018,01/04/2018,35,"€64,27",Euro / HL.,Valencia vino tinto sin DOP/IGP
+827,ES,Spain,26/03/2018,01/04/2018,35,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+828,ES,Spain,30/04/2018,06/05/2018,40,"€57,64",Euro / HL.,Albacete vino blanco sin DOP/IGP
+829,ES,Spain,30/04/2018,06/05/2018,40,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+830,ES,Spain,30/04/2018,06/05/2018,40,"€64,32",Euro / HL.,Albacete vino tinto sin DOP/IGP
+831,ES,Spain,30/04/2018,06/05/2018,40,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+832,ES,Spain,30/04/2018,06/05/2018,40,"€56,73",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+833,ES,Spain,30/04/2018,06/05/2018,40,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+834,ES,Spain,30/04/2018,06/05/2018,40,"€51,72",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+835,ES,Spain,30/04/2018,06/05/2018,40,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+836,ES,Spain,30/04/2018,06/05/2018,40,"€60,60",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+837,ES,Spain,30/04/2018,06/05/2018,40,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+838,ES,Spain,30/04/2018,06/05/2018,40,"€241,21",Euro / HL.,Rioja DOP vino tinto
+839,ES,Spain,30/04/2018,06/05/2018,40,"€,00",Quantity,Rioja DOP vino tinto
+840,ES,Spain,30/04/2018,06/05/2018,40,"€284,01",Euro / HL.,Rueda DOP vino blanco
+841,ES,Spain,30/04/2018,06/05/2018,40,"€,00",Quantity,Rueda DOP vino blanco
+842,ES,Spain,30/04/2018,06/05/2018,40,"€53,57",Euro / HL.,Toledo vino blanco sin DOP/IGP
+843,ES,Spain,30/04/2018,06/05/2018,40,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+844,ES,Spain,30/04/2018,06/05/2018,40,"€62,25",Euro / HL.,Toledo vino tinto sin DOP/IGP
+845,ES,Spain,30/04/2018,06/05/2018,40,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+846,ES,Spain,30/04/2018,06/05/2018,40,"€64,27",Euro / HL.,Valencia vino tinto sin DOP/IGP
+847,ES,Spain,30/04/2018,06/05/2018,40,"€,00",Quantity,Valencia vino tinto sin DOP/IGP
+848,ES,Spain,28/05/2018,03/06/2018,44,"€59,65",Euro / HL.,Albacete vino blanco sin DOP/IGP
+849,ES,Spain,28/05/2018,03/06/2018,44,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+850,ES,Spain,31/07/2017,06/08/2017,1,"€31,43",Euro / HL.,Albacete vino blanco sin DOP/IGP
+851,ES,Spain,31/07/2017,06/08/2017,1,"€,00",Quantity,Albacete vino blanco sin DOP/IGP
+852,ES,Spain,31/07/2017,06/08/2017,1,"€39,39",Euro / HL.,Albacete vino tinto sin DOP/IGP
+853,ES,Spain,31/07/2017,06/08/2017,1,"€,00",Quantity,Albacete vino tinto sin DOP/IGP
+854,ES,Spain,31/07/2017,06/08/2017,1,"€32,38",Euro / HL.,Badajoz vino blanco sin DOP/IGP
+855,ES,Spain,31/07/2017,06/08/2017,1,"€,00",Quantity,Badajoz vino blanco sin DOP/IGP
+856,ES,Spain,31/07/2017,06/08/2017,1,"€35,15",Euro / HL.,Ciudad Real vino blanco sin DOP/IGP
+857,ES,Spain,31/07/2017,06/08/2017,1,"€,00",Quantity,Ciudad Real vino blanco sin DOP/IGP
+858,ES,Spain,31/07/2017,06/08/2017,1,"€46,75",Euro / HL.,Ciudad Real vino tinto sin DOP/IGP
+859,ES,Spain,31/07/2017,06/08/2017,1,"€,00",Quantity,Ciudad Real vino tinto sin DOP/IGP
+860,ES,Spain,31/07/2017,06/08/2017,1,"€154,43",Euro / HL.,Rioja DOP vino tinto
+861,ES,Spain,31/07/2017,06/08/2017,1,"€,00",Quantity,Rioja DOP vino tinto
+862,ES,Spain,31/07/2017,06/08/2017,1,"€145,75",Euro / HL.,Rueda DOP vino blanco
+863,ES,Spain,31/07/2017,06/08/2017,1,"€,00",Quantity,Rueda DOP vino blanco
+864,ES,Spain,31/07/2017,06/08/2017,1,"€35,21",Euro / HL.,Toledo vino blanco sin DOP/IGP
+865,ES,Spain,31/07/2017,06/08/2017,1,"€,00",Quantity,Toledo vino blanco sin DOP/IGP
+866,ES,Spain,31/07/2017,06/08/2017,1,"€44,59",Euro / HL.,Toledo vino tinto sin DOP/IGP
+867,ES,Spain,31/07/2017,06/08/2017,1,"€,00",Quantity,Toledo vino tinto sin DOP/IGP
+868,ES,Spain,31/07/2017,06/08/2017,1,"€44,56",Euro / HL.,Valencia vino tinto sin DOP/IGP
+869,ES,Spain,31/07/2017,06/08/2017,1,"€,00",Quantity,Valencia vino tinto sin DOP/IGP

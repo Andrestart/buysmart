@@ -31,11 +31,10 @@ ENGINE = InnoDB;
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `buysmart`.`graphs` (
   `idgraphs` INT NOT NULL AUTO_INCREMENT,
-  `graphtype` VARCHAR(45) NULL,
+  `graphtype` VARCHAR(300) NULL,
   `graph` BLOB NULL,
   `product_idproduct` INT NOT NULL,
   PRIMARY KEY (`idgraphs`),
-  UNIQUE INDEX `graphtype_UNIQUE` (`graphtype` ASC) VISIBLE,
   INDEX `fk_graphs_product_idx` (`product_idproduct` ASC) VISIBLE,
   CONSTRAINT `fk_graphs_product`
     FOREIGN KEY (`product_idproduct`)
@@ -53,10 +52,9 @@ CREATE TABLE IF NOT EXISTS `buysmart`.`dia` (
   `namescrap` VARCHAR(800) NULL,
   `supermarket` VARCHAR(45) NULL,
   `link` VARCHAR(800) NULL,
-  `price` DECIMAL(50) NULL,
+  `price` DECIMAL(50,2) NULL,
   `product_idproduct` INT NOT NULL,
   PRIMARY KEY (`idscrapdia`),
-  UNIQUE INDEX `supermarket_UNIQUE` (`supermarket` ASC) VISIBLE,
   INDEX `fk_dia_product1_idx` (`product_idproduct` ASC) VISIBLE,
   CONSTRAINT `fk_dia_product1`
     FOREIGN KEY (`product_idproduct`)
@@ -74,10 +72,9 @@ CREATE TABLE IF NOT EXISTS `buysmart`.`carrefour` (
   `namescrap` VARCHAR(800) NULL,
   `supermarket` VARCHAR(45) NULL,
   `link` VARCHAR(800) NOT NULL,
-  `price` DECIMAL(50) NULL,
+  `price` DECIMAL(50,2) NULL,
   `product_idproduct` INT NOT NULL,
   PRIMARY KEY (`idscrapcarrefour`, `link`),
-  UNIQUE INDEX `supermarket_UNIQUE` (`supermarket` ASC) VISIBLE,
   INDEX `fk_carrefour_product1_idx` (`product_idproduct` ASC) VISIBLE,
   CONSTRAINT `fk_carrefour_product1`
     FOREIGN KEY (`product_idproduct`)
@@ -95,10 +92,9 @@ CREATE TABLE IF NOT EXISTS `buysmart`.`eroski` (
   `namescrap` VARCHAR(800) NULL,
   `supermarket` VARCHAR(45) NULL,
   `link` VARCHAR(800) NOT NULL,
-  `price` DECIMAL(50) NULL,
+  `price` DECIMAL(50,2) NULL,
   `product_idproduct` INT NOT NULL,
   PRIMARY KEY (`idscraperoski`, `link`),
-  UNIQUE INDEX `supermarket_UNIQUE` (`supermarket` ASC) VISIBLE,
   INDEX `fk_eroski_product1_idx` (`product_idproduct` ASC) VISIBLE,
   CONSTRAINT `fk_eroski_product1`
     FOREIGN KEY (`product_idproduct`)
