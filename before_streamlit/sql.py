@@ -65,23 +65,46 @@ def insertproducts():
     return print("All products have been inserted to the database")
     
 def insertscrap():
-    scrap = pd.read_csv(f'../mydata/scraps_{supermarket}/scrap.csv')
-    try:
-        c.engine.execute(f"""TRUNCATE `{supermarket}`;""")
-    except:
-        pass
-    for i, row in scrap.iterrows():
-        idprod =  giveid(row['product'])
+    if supermarket=='all':
+        supers = ['dia','carrefour','eroski']
+        for superm in supers:
+            scrap = pd.read_csv(f'../mydata/scraps_{superm}/scrap.csv')
+            try:
+                c.engine.execute(f"""TRUNCATE `{superm}`;""")
+            except:
+                pass
+            for i, row in scrap.iterrows():
+                idprod =  giveid(row['product'])
+                try:
+                    c.engine.execute(f"""
+            INSERT INTO `{superm}` (`namescrap`, `supermarket`, `link`, `price`, `product_idproduct`) VALUES
+            ("{row['name']}", "{row['supermarket']}","{row['link']}",{row['price']},{idprod})
+            ;
+            """)
+                    print(f"I have inserted {row['name']}")
+                except:
+                    print(f"I can't add {row['name']}")
+        print(f"\n\n\n{superm.capitalize()} scrapping has been correctly added to the database\n\n\n")
+
+
+    else:
+        scrap = pd.read_csv(f'../mydata/scraps_{supermarket}/scrap.csv')
         try:
-            c.engine.execute(f"""
-    INSERT INTO `{supermarket}` (`namescrap`, `supermarket`, `link`, `price`, `product_idproduct`) VALUES
-    ("{row['name']}", "{row['supermarket']}","{row['link']}",{row['price']},{idprod})
-    ;
-    """)
-            print(f"I have inserted {row['name']}")
+            c.engine.execute(f"""TRUNCATE `{supermarket}`;""")
         except:
-            print(f"I can't add {row['name']}")
-    print(f"{supermarket.capitalize()} scrapping has been correctly added to the database")
+            pass
+        for i, row in scrap.iterrows():
+                idprod =  giveid(row['product'])
+                try:
+                    c.engine.execute(f"""
+            INSERT INTO `{supermarket}` (`namescrap`, `supermarket`, `link`, `price`, `product_idproduct`) VALUES
+            ("{row['name']}", "{row['supermarket']}","{row['link']}",{row['price']},{idprod})
+            ;
+            """)
+                    print(f"I have inserted {row['name']}")
+                except:
+                    print(f"I can't add {row['name']}")
+        print(f"\n\n\n{supermarket.capitalize()} scrapping has been correctly added to the database\n\n\n")
     return print("All scrapped information has been inserted to the database")
 
 

@@ -77,7 +77,6 @@ price,product,supermarket,link,name
 3.5,azucar,dia,https://www.dia.es/compra-online/search?text=azucar&x=0&y=0,DIA azúcar blanco en sobres 50 uds caja 300 gr
 1.98,azucar,dia,https://www.dia.es/compra-online/search?text=azucar&x=0&y=0,DIA azúcar moreno paquete 500 gr
 4.17,azucar,dia,https://www.dia.es/compra-online/search?text=azucar&x=0&y=0,DIA azúcar glacé paquete 300 gr
-8.47,azucar,dia,https://www.dia.es/compra-online/search?text=azucar&x=0&y=0,AZUCARERA sirope de agave bote 360 gr
 1.49,berenjena,dia,https://www.dia.es/compra-online/search?text=berenjena&x=0&y=0,Berenjena unidad (420 gr aprox.)
 4.64,berenjena,dia,https://www.dia.es/compra-online/search?text=berenjena&x=0&y=0,CALZADO berenjena aliñada LATA 420GR
 1.59,berenjena,dia,https://www.dia.es/compra-online/search?text=berenjena&x=0&y=0,Calabacín unidad (900 gr aprox.)
@@ -219,7 +218,6 @@ price,product,supermarket,link,name
 2.98,harina de trigo,dia,https://www.dia.es/compra-online/search?text=harina de trigo&x=0&y=0,PAULANER cerveza de trigo alemana botella 50 cl
 2.89,harina de trigo,dia,https://www.dia.es/compra-online/search?text=harina de trigo&x=0&y=0,DIA VITAL tostas de trigo integral paquete 225 gr
 3.41,harina de trigo,dia,https://www.dia.es/compra-online/search?text=harina de trigo&x=0&y=0,DIA tortillas trigo bolsa 8 unidades 320 gr
-2.98,harina de trigo,dia,https://www.dia.es/compra-online/search?text=harina de trigo&x=0&y=0,DIA cereales de trigo inflado con miel paquete 500 gr
 0.52,harina de trigo candeal,dia,https://www.dia.es/compra-online/search?text=harina de trigo candeal&x=0&y=0,DIA harina de trigo paquete 1 Kg
 0.99,harina de trigo candeal,dia,https://www.dia.es/compra-online/search?text=harina de trigo candeal&x=0&y=0,GALLO harina de trigo paquete 1 Kg
 1.19,harina de trigo candeal,dia,https://www.dia.es/compra-online/search?text=harina de trigo candeal&x=0&y=0,GALLO harina de trigo repostería 1 Kg
@@ -229,11 +227,11 @@ price,product,supermarket,link,name
 4.48,harina de trigo candeal,dia,https://www.dia.es/compra-online/search?text=harina de trigo candeal&x=0&y=0,MAIZENA harina de maíz paquete 400 gr
 2.09,harina de trigo candeal,dia,https://www.dia.es/compra-online/search?text=harina de trigo candeal&x=0&y=0,PAN harina 100por ciento de maíz amarillo paquete 1 Kg
 8.33,harina de trigo candeal,dia,https://www.dia.es/compra-online/search?text=harina de trigo candeal&x=0&y=0,DIA cortezas de trigo bolsa 90 gr
+15.32,harina de trigo candeal,dia,https://www.dia.es/compra-online/search?text=harina de trigo candeal&x=0&y=0,DIA cortezas de trigo bolsa 90 gr
 15.32,harina de trigo candeal,dia,https://www.dia.es/compra-online/search?text=harina de trigo candeal&x=0&y=0,SNATTS palitos trigo con pipas paquete 62 grs
 16.38,harina de trigo candeal,dia,https://www.dia.es/compra-online/search?text=harina de trigo candeal&x=0&y=0,SNATTS palitos de trigo con queso bolsa 56 gr
 2.98,harina de trigo candeal,dia,https://www.dia.es/compra-online/search?text=harina de trigo candeal&x=0&y=0,PAULANER cerveza de trigo alemana botella 50 cl
 2.89,harina de trigo candeal,dia,https://www.dia.es/compra-online/search?text=harina de trigo candeal&x=0&y=0,DIA VITAL tostas de trigo integral paquete 225 gr
-3.41,harina de trigo candeal,dia,https://www.dia.es/compra-online/search?text=harina de trigo candeal&x=0&y=0,DIA tortillas trigo bolsa 8 unidades 320 gr
 2.98,judia,dia,https://www.dia.es/compra-online/search?text=judia&x=0&y=0,Judía verde malla 500 gr
 3.7,judia,dia,https://www.dia.es/compra-online/search?text=judia&x=0&y=0,Judía redonda bandeja 500 gr
 2.05,judia,dia,https://www.dia.es/compra-online/search?text=judia&x=0&y=0,DIA VEGECAMPO alubias pintas paquete 1 Kg

@@ -153,6 +153,8 @@ def getmydata():
             gooddata.append(np.nan)
         elif row['product']=='leche entera en polvo':
             gooddata.append(np.nan)
+        elif row['product']=='leche entera organica':
+            gooddata.append(np.nan)
         elif row['product']=='leche semidesnatada en polvo':
             gooddata.append(np.nan)
         elif row['product']=='aceite de orujo de oliva (hasta 1%)':
@@ -170,6 +172,10 @@ def getmydata():
         elif row['product']=='salsa de soja':
             gooddata.append(np.nan)
         elif row['product']=='harina de pipas de girasol':
+            gooddata.append(np.nan)
+        elif row['product']=='clementina':
+            gooddata.append(np.nan)
+        elif row['product']=='cebada':
             gooddata.append(np.nan)
         else:
             gooddata.append(row['product'])

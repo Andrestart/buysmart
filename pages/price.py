@@ -14,22 +14,16 @@ def app():
 
     idprod = list(c.engine.execute(f"SELECT `idproduct` FROM `product` WHERE `nameproduct` ='{prod}';"))[0][0]
 
-    # try:
     dia = pd.DataFrame(list(c.engine.execute(f"""SELECT  `namescrap` as `Name`, `supermarket` as `Super`, `price` FROM `dia` WHERE `product_idproduct` = {idprod}""")))
     dia.columns = ['Name', 'Super', 'Price']
-    print(dia)
-    # except:
-    #     dia = f"No data for {prod}"
-    #     print(f"No data for {prod} in Dia")
-    eroski = pd.DataFrame(list(c.engine.execute(f"""SELECT `supermarket` as Super,`price` as Price, `namescrap` as Product FROM `eroski` WHERE `product_idproduct` = {idprod}""")))    
+
+    eroski = pd.DataFrame(list(c.engine.execute(f"""SELECT `namescrap` as `Name`, `supermarket` as `Super`, `price` FROM `eroski` WHERE `product_idproduct` = {idprod}""")))    
+    eroski.columns = ['Name', 'Super', 'Price']
+    
     carrefour = pd.DataFrame(list(c.engine.execute(f"""SELECT `namescrap` as `Name`, `supermarket` as `Super`, `price` FROM `carrefour` WHERE `product_idproduct` = {idprod}""")))
-    print(carrefour)
-    # dframe = pd.DataFrame(dia)
-    # dframe = pd.concat([pd.DataFrame(dia), pd.DataFrame(eroski),pd.DataFrame(carrefour)], axis=1)
-    # dframe = pd.concat([dia, carrefour], axis=1)
-    # print(dframe)
-    dia.to_csv("diaaa.csv",index=False)
-    final = pd.read_csv('diaaa.csv')
-    final = final.round(2)
-    print(final.dtypes)
-    st.table(final.style.format({'Price':'{:.2f}'}))
+    carrefour.columns = ['Name', 'Super', 'Price']
+    
+    allperproduct = pd.concat([dia,carrefour,eroski],axis=0)
+    allperproduct.to_csv("mydata/cleandata/allperproduct.csv",index=False)
+    fin =  pd.read_csv("mydata/cleandata/allperproduct.csv")
+    st.table(fin.style.format({'Price':'{:.2f}'}))
