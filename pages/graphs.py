@@ -12,6 +12,8 @@ import src.manage_data as dat
 
 def app():
     prod = st.selectbox("Select the product you are looking for", dat.product())
+    if prod == "Choose":
+        st.stop()
 
     idprod = list(c.engine.execute(f"SELECT `idproduct` FROM `product` WHERE `nameproduct` ='{prod}';"))[0][0]
 

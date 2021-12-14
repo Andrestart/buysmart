@@ -11,7 +11,8 @@ import src.manage_data as dat
 
 def app():
     prod = st.selectbox("Select the product you are looking for", dat.product())
-
+    if prod == "Choose":
+        st.stop()
     idprod = list(c.engine.execute(f"SELECT `idproduct` FROM `product` WHERE `nameproduct` ='{prod}';"))[0][0]
 
     dia = pd.DataFrame(list(c.engine.execute(f"""SELECT  `namescrap` as `Name`, `supermarket` as `Super`, `price`, `link` FROM `dia` WHERE `product_idproduct` = {idprod}""")))
@@ -19,27 +20,18 @@ def app():
         dia.columns = ['Name', 'Super', 'Price', 'Link']
     except:
         pass
-    # dia['forlink'] = "['Click here to get it']("
-    # dia['Link'] = dia['forlink']+dia['Link']+')'
-    # dia.drop('forlink',axis=1, inplace=True)
 
     eroski = pd.DataFrame(list(c.engine.execute(f"""SELECT `namescrap` as `Name`, `supermarket` as `Super`, `price`, `link` FROM `eroski` WHERE `product_idproduct` = {idprod}""")))    
     try:
         eroski.columns = ['Name', 'Super', 'Price', 'Link']
     except:
         pass
-    # eroski['forlink'] = "['Click here to get it']("
-    # eroski['Link'] = eroski['forlink']+eroski['Link']+')'
-    # eroski.drop('forlink',axis=1, inplace=True)
 
     carrefour = pd.DataFrame(list(c.engine.execute(f"""SELECT `namescrap` as `Name`, `supermarket` as `Super`, `price`, `link` FROM `carrefour` WHERE `product_idproduct` = {idprod}""")))
     try:
         carrefour.columns = ['Name', 'Super', 'Price', 'Link']
     except:
         pass
-    # carrefour['forlink'] = "[Click here to get it]("
-    # carrefour['Link'] = st.write(carrefour['forlink']+carrefour['Link']+')')
-    # carrefour.drop('forlink',axis=1, inplace=True)
 
     if len (eroski) == 0 and len(dia) == 0:
         allperproduct = carrefour
@@ -60,11 +52,16 @@ def app():
     allperproduct.to_csv("mydata/cleandata/allperproduct.csv",index=False)
     wholetable =  pd.read_csv("mydata/cleandata/allperproduct.csv", index_col=False)
     
-    minperproduct = p.filter(wholetable, prod).sort_values(by='Price').reset_index().head()
-    minperproduct.drop(['index','product'],axis=1,inplace=True)
-    minperproduct.to_csv("mydata/cleandata/minperproduct.csv",index=False)
-
-    st.write("HOLAAA")
-    st.table(minperproduct.style.format({'Price':'{:.2f}'}))
+    minperproduct = p.filter(wholetable, prod).sort_values(by='Price')
+   
+    st.write("""*These are the cheapest products*""")
+    
+    minper = minperproduct.drop_duplicates(subset=['Name','Super']).reset_index()
+    minper = minper[:5]
+    minper.drop(['index','product'],axis=1,inplace=True)
+    if len(minper) == 0:
+        st.write("\n\n Sorry, the product is not available in the supermarkets right now, but you can take a look at the products below that contain that word.")
+    else:
+        st.table(minper.style.format({'Price':'{:.2f}'}))
     st.write("\n\n\n\n\n If these products are not the ones you are looking for, you can check the whole table and its results below\n")
     st.table(wholetable.style.format({'Price':'{:.2f}'}))

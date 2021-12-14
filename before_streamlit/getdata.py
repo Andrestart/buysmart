@@ -177,6 +177,8 @@ def getmydata():
             gooddata.append(np.nan)
         elif row['product']=='cebada':
             gooddata.append(np.nan)
+        elif row['product']=='nectarina':
+            gooddata.append(np.nan)
         else:
             gooddata.append(row['product'])
     data['product'] = gooddata

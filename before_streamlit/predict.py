@@ -29,6 +29,10 @@ def prophet():
         model.fit(item)
         future = model.make_future_dataframe(periods=200, freq='W')
         forecast = model.predict(future)
+        if not os.path.exists(f"../mydata/per_item/forecasts/"):
+            os.makedirs(f"../mydata/per_item/forecasts/")
+        forecast.to_csv(f"../mydata/per_item/forecasts/{i}.csv",index=False)
+
         fig3in1 = model.plot_components(forecast).savefig(f"../mydata/per_item/graphs/{i}/{i}_3in1.png")
         figchange = model.plot(forecast)
         a = add_changepoints_to_plot(figchange.gca(), model, forecast)
