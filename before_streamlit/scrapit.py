@@ -156,73 +156,77 @@ def scrapall():
     driver = "../driver/chromedriver.exe"
     driver = webdriver.Chrome(driver, options=opciones)
 
-    # prices = []
-    # prod = []
-    # sup = []
-    # links = []
-    # names = []
-    # newprice = []
-    # frame = {}
-    # for f in foods:
-    #     supermarket = 'carrefour'
-    #     print(f"SCRAPPING {f} from {supermarket}...(1/3)")
-    #     for i in range(2,4):
-    #         url = f"https://www.carrefour.es/?q={f}&page={i}"
-    #         driver.get(url)
-    #         time.sleep(0.3)
-    #         try: #cookies
-    #             driver.find_element_by_css_selector('#onetrust-accept-btn-handler').click()
-    #             time.sleep(0.7)
-    #         except:
-    #             pass
-    #         for o in range(1,50): #price, scroll, product, supermarket, link and name
-    #             try:
-    #                 prices.append(driver.find_element_by_css_selector(f'#ebx-grid > article:nth-child({o}) > div > span').text.split("€")[0])
-    #                 driver.execute_script("window.scrollTo(0, window.scrollY + 300)")
-    #                 prod.append(f)
-    #                 sup.append(supermarket)
-    #                 links.append(url)
-    #                 names.append(driver.find_element_by_css_selector(f'#ebx-grid > article:nth-child({o}) > div > a.ebx-result-link.ebx-result__title-link.track-click > h1').text)
-    #             except:
-    #                 prices.append(np.nan)
-    #                 prod.append(f)
-    #                 sup.append(supermarket)
-    #                 links.append(np.nan)
-    #                 names.append(np.nan)
-    # print("prices",len(prices))
-    # print("prod", len(prod))
-    # print("links", len(links))
-    # print("sup", len(sup))
-    # print(f"names", len(names))
+    #### SCRAP CARREFOUR####
+    prices = []
+    prod = []
+    sup = []
+    links = []
+    names = []
+    newprice = []
+    frame = {}
+    for f in foods:
+        supermarket = 'carrefour'
+        print(f"SCRAPPING {f} from {supermarket}...(1/3)")
+        for i in range(2,4):
+            url = f"https://www.carrefour.es/?q={f}&page={i}"
+            driver.get(url)
+            time.sleep(0.3)
+            try: #cookies
+                driver.find_element_by_css_selector('#onetrust-accept-btn-handler').click()
+                time.sleep(0.7)
+            except:
+                pass
+            for o in range(1,50): #price, scroll, product, supermarket, link and name
+                try:
+                    prices.append(driver.find_element_by_css_selector(f'#ebx-grid > article:nth-child({o}) > div > span').text.split("€")[0])
+                    driver.execute_script("window.scrollTo(0, window.scrollY + 300)")
+                    prod.append(f)
+                    sup.append(supermarket)
+                    links.append(url)
+                    names.append(driver.find_element_by_css_selector(f'#ebx-grid > article:nth-child({o}) > div > a.ebx-result-link.ebx-result__title-link.track-click > h1').text)
+                except:
+                    prices.append(np.nan)
+                    prod.append(f)
+                    sup.append(supermarket)
+                    links.append(np.nan)
+                    names.append(np.nan)
+    
+    print("prices",len(prices))
+    print("prod", len(prod))
+    print("links", len(links))
+    print("sup", len(sup))
+    print(f"names", len(names))
 
 
-    # frame['price'] = prices
-    # frame['product'] = prod
-    # frame['supermarket'] = sup
-    # frame['link'] = links
-    # frame['name'] = names
+    frame['price'] = prices
+    frame['product'] = prod
+    frame['supermarket'] = sup
+    frame['link'] = links
+    frame['name'] = names
 
-    # scrap = pd.DataFrame(frame)
-    # for i, row in scrap.iterrows():
-    #     if row['price'] == '':
-    #         newprice.append(np.nan)
-    #     else:
-    #         newprice.append(row['price'])
+    scrap = pd.DataFrame(frame)
+    for i, row in scrap.iterrows():
+        if row['price'] == '':
+            newprice.append(np.nan)
+        else:
+            newprice.append(row['price'])
 
-    # scrap['price'] = newprice
-    # scrap.dropna(how='any',inplace=True)
-    # scrap['price'] = [float((i.replace(",",".").replace("€","").strip())) for i in scrap['price']]
-    # scrap['name'] = [(i.replace("%","por ciento").strip()) for i in scrap['name']]
-
-
-    # if not os.path.exists(f"../mydata/scraps_{supermarket}"):
-    #     os.makedirs(f"../mydata/scraps_{supermarket}")
-    # now = str(datetime.now())[:19].replace(":","_")
-    # scrap.to_csv(f'../mydata/scraps_{supermarket}/{now}.csv', index=False)
-    # scrap.to_csv(f'../mydata/scraps_{supermarket}/scrap.csv', index=False)
-    # print(f"I have saved the scrap from {supermarket}")
+    scrap['price'] = newprice
+    scrap.dropna(how='any',inplace=True)
+    scrap['price'] = [float((i.replace(",",".").replace("€","").strip())) for i in scrap['price']]
+    scrap['name'] = [(i.replace("%","por ciento").strip()) for i in scrap['name']]
 
 
+    if not os.path.exists(f"../mydata/scraps_{supermarket}"):
+        os.makedirs(f"../mydata/scraps_{supermarket}")
+    now = str(datetime.now())[:19].replace(":","_")
+    scrap.to_csv(f'../mydata/scraps_{supermarket}/{now}.csv', index=False)
+    scrap.to_csv(f'../mydata/scraps_{supermarket}/scrap.csv', index=False)
+    print(f"I have saved the scrap from {supermarket}")
+
+    
+    
+    #### SCRAP DIA####
     prices = []
     prod = []
     sup = []
@@ -286,7 +290,8 @@ def scrapall():
     scrap.to_csv(f'../mydata/scraps_{supermarket}/scrap.csv', index=False)
     print(f"I have saved the scrap from {supermarket}")
 
-
+    
+    #### SCRAP EROSKI####
     prices = []
     prod = []
     sup = []
@@ -320,7 +325,32 @@ def scrapall():
             prod.append(f)
             sup.append(supermarket)
             links.append(url)
-    
+
+    frame['price'] = prices
+    frame['product'] = prod
+    frame['supermarket'] = sup
+    frame['link'] = links
+    frame['name'] = names
+
+    scrap = pd.DataFrame(frame)
+    for i, row in scrap.iterrows():
+        if row['price'] == '':
+            newprice.append(np.nan)
+        else:
+            newprice.append(row['price'])
+
+    scrap['price'] = newprice
+    scrap.dropna(how='any',inplace=True)
+    scrap['price'] = [float((i.replace(",",".").replace("€","").strip())) for i in scrap['price']]
+    scrap['name'] = [(i.replace("%","por ciento").strip()) for i in scrap['name']]
+
+
+    if not os.path.exists(f"../mydata/scraps_{supermarket}"):
+        os.makedirs(f"../mydata/scraps_{supermarket}")
+    now = str(datetime.now())[:19].replace(":","_")
+    scrap.to_csv(f'../mydata/scraps_{supermarket}/{now}.csv', index=False)
+    scrap.to_csv(f'../mydata/scraps_{supermarket}/scrap.csv', index=False)
     print(f"I have saved the scrap from {supermarket}")
+
     return print(f"""All scrappings have been correctly saved. NOW it's time to change your environment to predict the prices. Use one that contains fbprophet and run 'predict.py'""")
 scrapall()

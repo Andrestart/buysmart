@@ -1,15 +1,17 @@
 import pandas as pd
 prohibido = {}
-data = pd.read_csv("../mydata/cleandata/data.csv")
-data.index=data.date
-data.drop('date',axis=1,inplace=True)
 
-foods = sorted(list(set(data['product'])))
+def filter (frame, prod):
+    df = frame[frame['product'] == f'{prod}']
+    for i,row in df.iterrows():
+        if any(e in row['Name'].lower() for e in prohibido[f'{prod}']):
+            df.drop(i, inplace=True)
+    return df
 
 prohibido = {'aceite de girasol':['atún','melva','anchoas','caballa','mayonesa','sardinillas','sardinas','paté','patatas','caballa','salsa','chipirones','caballa','melva','tomates','anchoa','potón','chipirones'],
 'aceite de oliva':[],
-'ajo':['polvo','perejil','panecillo','pan', 'salsa','tiras','ojos','papel'],
-'albaricoque':['mermelada','yogur','barritas','facial','bebida'],
+'ajo':['polvo','perejil','salsa','crema','picado','sazonar','picado','troceado','polvo','perejil','panecillo','pan', 'salsa','tiras','ojos','papel'],
+'albaricoque':['confitura','orejón','champú','orejones','mermelada','yogur','barritas','facial','bebida'],
 'arroz':[],
 'azucar':[],
 'berenjena':['calabacín', 'calabaza'],
@@ -39,17 +41,17 @@ prohibido = {'aceite de girasol':['atún','melva','anchoas','caballa','mayonesa'
 'melon':['toallitas','aroma','bebuda','pelo'],
 'naranja':['kas','lata','fanta','refresco'],
 'nectarina':[],
-'pepino':['jabón', ],
-'pera':,
-'pimiento':,
-'pipas de girasol':,
-'puerro':,
-'queso edam':,
-'queso emmental':,
-'sandia':,
-'suero de leche':,
-'ternera':,
-'tomate':,
-'uva':,
-'vino':,
-'zanahoria':''}
+'pepino':['jabón'],
+'pera':[],
+'pimiento':[],
+'pipas de girasol':[],
+'puerro':[],
+'queso edam':[],
+'queso emmental':[],
+'sandia':[],
+'suero de leche':[],
+'ternera':['perros','menestra'],
+'tomate':[],
+'uva':[],
+'vino':[],
+'zanahoria':[]}
