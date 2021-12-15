@@ -5,6 +5,8 @@ from multipage import MultiPage
 from pages import home
 from pages import graphs
 from pages import price
+from pages import pred
+
 # from pages import mapas
 
 app = MultiPage()
@@ -13,7 +15,6 @@ app = MultiPage()
 app.add_page("Index", home.app)
 app.add_page("Prediction graphs", graphs.app)
 app.add_page("Price", price.app)
-# app.add_page("Mapas",mapas.app)
 
 
 app.run()

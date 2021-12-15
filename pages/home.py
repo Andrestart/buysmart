@@ -6,8 +6,8 @@ import pandas as pd
 
 def app():
     st.write("""
-    # *Welcome to BUY SMART*\n\n *Managing prices in the PAST, the PRESENT and the FUTURE. Pay less for your food.*
+    # *Welcome to BUY SMART*\n\n *Managing prices data in the PAST, the PRESENT and the FUTURE. Pay less for your food.*
     """)
-
-    portada = Image.open('images/cover.jpg')
+    st.sidebar.image("images/Andres Perez logo2.png", use_column_width=True)
+    portada = Image.open('images/cover2.jpg')
     st.image(portada, use_column_width=True)

@@ -180,16 +180,19 @@ def scrapall():
                 try:
                     prices.append(driver.find_element_by_css_selector(f'#ebx-grid > article:nth-child({o}) > div > span').text.split("€")[0])
                     driver.execute_script("window.scrollTo(0, window.scrollY + 300)")
-                    prod.append(f)
-                    sup.append(supermarket)
-                    links.append(url)
-                    names.append(driver.find_element_by_css_selector(f'#ebx-grid > article:nth-child({o}) > div > a.ebx-result-link.ebx-result__title-link.track-click > h1').text)
                 except:
                     prices.append(np.nan)
-                    prod.append(f)
-                    sup.append(supermarket)
-                    links.append(np.nan)
+                try:
+                    names.append(driver.find_element_by_css_selector(f'#ebx-grid > article:nth-child({o}) > div > a.ebx-result-link.ebx-result__title-link.track-click > h1').text)
+                    driver.execute_script("window.scrollTo(0, window.scrollY + 300)")
+                except:
                     names.append(np.nan)
+                try:
+                    links.append(url)
+                except:
+                    links.append(np.nan)
+                prod.append(f)
+                sup.append(supermarket)
     
     print("prices",len(prices))
     print("prod", len(prod))

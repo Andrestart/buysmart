@@ -11,6 +11,8 @@ import src.manage_data as dat
 
 
 def app():
+    st.sidebar.image("images/Andres Perez logo2.png", use_column_width=True)
+
     prod = st.selectbox("Select the product you are looking for", dat.product())
     if prod == "Choose":
         st.stop()
