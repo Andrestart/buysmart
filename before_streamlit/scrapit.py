@@ -12,6 +12,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 opciones=Options()
+opciones.add_experimental_option('excludeSwitches', ['enable-logging'])
 opciones.add_experimental_option('excludeSwitches', ['enable-automation'])
 opciones.add_experimental_option('useAutomationExtension', False)
 opciones.headless=False 
