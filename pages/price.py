@@ -12,6 +12,10 @@ import plotly.express as px
 from datetime import datetime
 
 def app():
+
+    st.write("""
+    # Cheapest items today and their predictions
+    """)
     st.sidebar.image("images/Andres Perez logo2.png", use_column_width=True)
     
     ##SELECTBOX
@@ -103,4 +107,5 @@ def app():
   
     #WHOLE TABLE
     st.write("\n\n\n\n\n If these products are not the ones you are looking for, you can check the whole table and its results below\n")
-    st.table(wholetable.style.format({'Price':'{:.2f}'}))
+    wholetablesorted = wholetable.sort_values(by='Price')
+    st.table(wholetablesorted.style.format({'Price':'{:.2f}'}))

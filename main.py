@@ -13,9 +13,9 @@ app = MultiPage()
 
 
 app.add_page("Index", home.app)
-app.add_page("Project Structure", structure.app)
+app.add_page("Project structure", structure.app)
 app.add_page("Prediction graphs", graphs.app)
-app.add_page("Price", price.app)
+app.add_page("What's cheaper?", price.app)
 
 
 app.run()
