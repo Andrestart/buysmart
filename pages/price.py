@@ -92,17 +92,15 @@ def app():
         predictions.to_csv("mydata/cleandata/stdata/pred.csv")
         pred = pd.read_csv("mydata/cleandata/stdata/pred.csv")
         #PREDICTIONS GRAPH
-        fig = px.bar(pred, x='date', y='Price',title=minper.Name[0])
-        fig.update_yaxes(range=[min(pred['Price']),max(pred['Price'])]) 
+        fig = px.line(pred, x='date', y='Price',title=minper.Name[0])
+        fig.update_yaxes(range=[0.99*min(pred['Price']),1.02*max(pred['Price'])]) 
         st.plotly_chart(fig)
     except:
         st.write("""Impossible to predict with no data.""")
 
     scat = px.scatter(wholetable, x='Super', y='Price', color='Super', title=prod.capitalize())
     st.plotly_chart(scat)
-    #PREDICTIONS TABLE
-    # st.table(pred.style.format({'Price':'{:.2f}','index':'{:.2f}'}))
-
+  
     #WHOLE TABLE
     st.write("\n\n\n\n\n If these products are not the ones you are looking for, you can check the whole table and its results below\n")
     st.table(wholetable.style.format({'Price':'{:.2f}'}))

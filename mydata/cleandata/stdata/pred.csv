@@ -1,42 +1,187 @@
 date,Name,Price,Super
-2021-12-12,"Arroz extra EROSKI basic, paquete 1 kg",0.79,eroski
-2021-12-19,"Arroz extra EROSKI basic, paquete 1 kg",0.7904337726323678,eroski
-2021-12-26,"Arroz extra EROSKI basic, paquete 1 kg",0.7908675452647352,eroski
-2022-01-02,"Arroz extra EROSKI basic, paquete 1 kg",0.7913013178971028,eroski
-2022-01-09,"Arroz extra EROSKI basic, paquete 1 kg",0.7917350905294704,eroski
-2022-01-16,"Arroz extra EROSKI basic, paquete 1 kg",0.7921688631618381,eroski
-2022-01-23,"Arroz extra EROSKI basic, paquete 1 kg",0.7926026357942059,eroski
-2022-01-30,"Arroz extra EROSKI basic, paquete 1 kg",0.7930364084265735,eroski
-2022-02-06,"Arroz extra EROSKI basic, paquete 1 kg",0.7934701810589411,eroski
-2022-02-13,"Arroz extra EROSKI basic, paquete 1 kg",0.7939039536913088,eroski
-2022-02-20,"Arroz extra EROSKI basic, paquete 1 kg",0.7943377263236765,eroski
-2022-02-27,"Arroz extra EROSKI basic, paquete 1 kg",0.7947714989560443,eroski
-2022-03-06,"Arroz extra EROSKI basic, paquete 1 kg",0.7952052715884118,eroski
-2022-03-13,"Arroz extra EROSKI basic, paquete 1 kg",0.7956390442207794,eroski
-2022-03-20,"Arroz extra EROSKI basic, paquete 1 kg",0.796072816853147,eroski
-2022-03-27,"Arroz extra EROSKI basic, paquete 1 kg",0.7965065894855148,eroski
-2022-04-03,"Arroz extra EROSKI basic, paquete 1 kg",0.7969403621178821,eroski
-2022-04-10,"Arroz extra EROSKI basic, paquete 1 kg",0.7973741347502499,eroski
-2022-04-17,"Arroz extra EROSKI basic, paquete 1 kg",0.7978079073826176,eroski
-2022-04-24,"Arroz extra EROSKI basic, paquete 1 kg",0.7982416800149853,eroski
-2022-05-01,"Arroz extra EROSKI basic, paquete 1 kg",0.7986754526473531,eroski
-2022-05-08,"Arroz extra EROSKI basic, paquete 1 kg",0.7991092252797206,eroski
-2022-05-15,"Arroz extra EROSKI basic, paquete 1 kg",0.7995429979120882,eroski
-2022-05-22,"Arroz extra EROSKI basic, paquete 1 kg",0.7999767705444559,eroski
-2022-05-29,"Arroz extra EROSKI basic, paquete 1 kg",0.8004105431768236,eroski
-2022-06-05,"Arroz extra EROSKI basic, paquete 1 kg",0.800844315809191,eroski
-2022-06-12,"Arroz extra EROSKI basic, paquete 1 kg",0.8012780884415588,eroski
-2022-06-19,"Arroz extra EROSKI basic, paquete 1 kg",0.8017118610739264,eroski
-2022-06-26,"Arroz extra EROSKI basic, paquete 1 kg",0.8021456337062941,eroski
-2022-07-03,"Arroz extra EROSKI basic, paquete 1 kg",0.8025794063386616,eroski
-2022-07-10,"Arroz extra EROSKI basic, paquete 1 kg",0.8030131789710293,eroski
-2022-07-17,"Arroz extra EROSKI basic, paquete 1 kg",0.8034469516033971,eroski
-2022-07-24,"Arroz extra EROSKI basic, paquete 1 kg",0.8038807242357648,eroski
-2022-07-31,"Arroz extra EROSKI basic, paquete 1 kg",0.8043144968681322,eroski
-2022-08-07,"Arroz extra EROSKI basic, paquete 1 kg",0.8047482695004999,eroski
-2022-08-14,"Arroz extra EROSKI basic, paquete 1 kg",0.8051820421328676,eroski
-2022-08-21,"Arroz extra EROSKI basic, paquete 1 kg",0.8056158147652351,eroski
-2022-08-28,"Arroz extra EROSKI basic, paquete 1 kg",0.8060495873976027,eroski
-2022-09-04,"Arroz extra EROSKI basic, paquete 1 kg",0.8064833600299705,eroski
-2022-09-11,"Arroz extra EROSKI basic, paquete 1 kg",0.8069171326623382,eroski
-2022-09-18,"Arroz extra EROSKI basic, paquete 1 kg",0.8073509052947059,eroski
+2021-12-12,"Azúcar moreno AZUCARERA, brik 800 g",0.72,eroski
+2021-12-19,"Azúcar moreno AZUCARERA, brik 800 g",0.7803257040072054,eroski
+2021-12-26,"Azúcar moreno AZUCARERA, brik 800 g",0.7700867057556704,eroski
+2022-01-02,"Azúcar moreno AZUCARERA, brik 800 g",0.685801530648677,eroski
+2022-01-09,"Azúcar moreno AZUCARERA, brik 800 g",0.608755481320278,eroski
+2022-01-16,"Azúcar moreno AZUCARERA, brik 800 g",0.6101739566960213,eroski
+2022-01-23,"Azúcar moreno AZUCARERA, brik 800 g",0.6721466561590945,eroski
+2022-01-30,"Azúcar moreno AZUCARERA, brik 800 g",0.7126906423983247,eroski
+2022-02-06,"Azúcar moreno AZUCARERA, brik 800 g",0.6820570890956497,eroski
+2022-02-13,"Azúcar moreno AZUCARERA, brik 800 g",0.6191570338018252,eroski
+2022-02-20,"Azúcar moreno AZUCARERA, brik 800 g",0.6072569948487591,eroski
+2022-02-27,"Azúcar moreno AZUCARERA, brik 800 g",0.6824857377688568,eroski
+2022-03-06,"Azúcar moreno AZUCARERA, brik 800 g",0.7958245199128589,eroski
+2022-03-13,"Azúcar moreno AZUCARERA, brik 800 g",0.8635393183082785,eroski
+2022-03-20,"Azúcar moreno AZUCARERA, brik 800 g",0.8455567606566883,eroski
+2022-03-27,"Azúcar moreno AZUCARERA, brik 800 g",0.7718474573208631,eroski
+2022-04-03,"Azúcar moreno AZUCARERA, brik 800 g",0.7024405402306124,eroski
+2022-04-10,"Azúcar moreno AZUCARERA, brik 800 g",0.6735467621134762,eroski
+2022-04-17,"Azúcar moreno AZUCARERA, brik 800 g",0.6809931219653386,eroski
+2022-04-24,"Azúcar moreno AZUCARERA, brik 800 g",0.7010210510974462,eroski
+2022-05-01,"Azúcar moreno AZUCARERA, brik 800 g",0.7147025600928723,eroski
+2022-05-08,"Azúcar moreno AZUCARERA, brik 800 g",0.7153524511902589,eroski
+2022-05-15,"Azúcar moreno AZUCARERA, brik 800 g",0.7061293716419155,eroski
+2022-05-22,"Azúcar moreno AZUCARERA, brik 800 g",0.6986804964664363,eroski
+2022-05-29,"Azúcar moreno AZUCARERA, brik 800 g",0.708629531689625,eroski
+2022-06-05,"Azúcar moreno AZUCARERA, brik 800 g",0.741654114647123,eroski
+2022-06-12,"Azúcar moreno AZUCARERA, brik 800 g",0.7810131259543743,eroski
+2022-06-19,"Azúcar moreno AZUCARERA, brik 800 g",0.7953203286286683,eroski
+2022-06-26,"Azúcar moreno AZUCARERA, brik 800 g",0.765520792946271,eroski
+2022-07-03,"Azúcar moreno AZUCARERA, brik 800 g",0.7048271718680335,eroski
+2022-07-10,"Azúcar moreno AZUCARERA, brik 800 g",0.6496503338501098,eroski
+2022-07-17,"Azúcar moreno AZUCARERA, brik 800 g",0.6311101153022123,eroski
+2022-07-24,"Azúcar moreno AZUCARERA, brik 800 g",0.6563610974269174,eroski
+2022-07-31,"Azúcar moreno AZUCARERA, brik 800 g",0.7126889321563606,eroski
+2022-08-07,"Azúcar moreno AZUCARERA, brik 800 g",0.7792037829696373,eroski
+2022-08-14,"Azúcar moreno AZUCARERA, brik 800 g",0.8297789808806219,eroski
+2022-08-21,"Azúcar moreno AZUCARERA, brik 800 g",0.8351159362535564,eroski
+2022-08-28,"Azúcar moreno AZUCARERA, brik 800 g",0.780780141090993,eroski
+2022-09-04,"Azúcar moreno AZUCARERA, brik 800 g",0.691584546535702,eroski
+2022-09-11,"Azúcar moreno AZUCARERA, brik 800 g",0.626719182610974,eroski
+2022-09-18,"Azúcar moreno AZUCARERA, brik 800 g",0.6315871399651024,eroski
+2022-09-25,"Azúcar moreno AZUCARERA, brik 800 g",0.6881061699008003,eroski
+2022-10-02,"Azúcar moreno AZUCARERA, brik 800 g",0.7246554250829246,eroski
+2022-10-09,"Azúcar moreno AZUCARERA, brik 800 g",0.6898701743257496,eroski
+2022-10-16,"Azúcar moreno AZUCARERA, brik 800 g",0.6161091854270938,eroski
+2022-10-23,"Azúcar moreno AZUCARERA, brik 800 g",0.5954308119619459,eroski
+2022-10-30,"Azúcar moreno AZUCARERA, brik 800 g",0.6822357513250664,eroski
+2022-11-06,"Azúcar moreno AZUCARERA, brik 800 g",0.8253633986088138,eroski
+2022-11-13,"Azúcar moreno AZUCARERA, brik 800 g",0.9104772945203946,eroski
+2022-11-20,"Azúcar moreno AZUCARERA, brik 800 g",0.8746495777966143,eroski
+2022-11-27,"Azúcar moreno AZUCARERA, brik 800 g",0.7705346120367703,eroski
+2022-12-04,"Azúcar moreno AZUCARERA, brik 800 g",0.708392964354271,eroski
+2022-12-11,"Azúcar moreno AZUCARERA, brik 800 g",0.7385716414242584,eroski
+2022-12-18,"Azúcar moreno AZUCARERA, brik 800 g",0.8034386881265476,eroski
+2022-12-25,"Azúcar moreno AZUCARERA, brik 800 g",0.8092309755408731,eroski
+2023-01-01,"Azúcar moreno AZUCARERA, brik 800 g",0.7337234299305633,eroski
+2023-01-08,"Azúcar moreno AZUCARERA, brik 800 g",0.6483890807915461,eroski
+2023-01-15,"Azúcar moreno AZUCARERA, brik 800 g",0.6341983042369769,eroski
+2023-01-22,"Azúcar moreno AZUCARERA, brik 800 g",0.69065482354764,eroski
+2023-01-29,"Azúcar moreno AZUCARERA, brik 800 g",0.7408695983007485,eroski
+2023-02-05,"Azúcar moreno AZUCARERA, brik 800 g",0.7226307261903901,eroski
+2023-02-12,"Azúcar moreno AZUCARERA, brik 800 g",0.65944685802052,eroski
+2023-02-19,"Azúcar moreno AZUCARERA, brik 800 g",0.6334007062023158,eroski
+2023-02-26,"Azúcar moreno AZUCARERA, brik 800 g",0.6944382707074213,eroski
+2023-03-05,"Azúcar moreno AZUCARERA, brik 800 g",0.8072365161012389,eroski
+2023-03-12,"Azúcar moreno AZUCARERA, brik 800 g",0.8880868031240331,eroski
+2023-03-19,"Azúcar moreno AZUCARERA, brik 800 g",0.884991621595669,eroski
+2023-03-26,"Azúcar moreno AZUCARERA, brik 800 g",0.8168842728841241,eroski
+2023-04-02,"Azúcar moreno AZUCARERA, brik 800 g",0.7428659341941938,eroski
+2023-04-09,"Azúcar moreno AZUCARERA, brik 800 g",0.7060179290551353,eroski
+2023-04-16,"Azúcar moreno AZUCARERA, brik 800 g",0.708547227471077,eroski
+2023-04-23,"Azúcar moreno AZUCARERA, brik 800 g",0.7280569165870856,eroski
+2023-04-30,"Azúcar moreno AZUCARERA, brik 800 g",0.7436955496977236,eroski
+2023-05-07,"Azúcar moreno AZUCARERA, brik 800 g",0.7466931553465445,eroski
+2023-05-14,"Azúcar moreno AZUCARERA, brik 800 g",0.7386122529940252,eroski
+2023-05-21,"Azúcar moreno AZUCARERA, brik 800 g",0.7296826725647263,eroski
+2023-05-28,"Azúcar moreno AZUCARERA, brik 800 g",0.7355929099507027,eroski
+2023-06-04,"Azúcar moreno AZUCARERA, brik 800 g",0.7650292354229637,eroski
+2023-06-11,"Azúcar moreno AZUCARERA, brik 800 g",0.8054312357719359,eroski
+2023-06-18,"Azúcar moreno AZUCARERA, brik 800 g",0.8263544514922081,eroski
+2023-06-25,"Azúcar moreno AZUCARERA, brik 800 g",0.8044569386161923,eroski
+2023-07-02,"Azúcar moreno AZUCARERA, brik 800 g",0.74694010831932,eroski
+2023-07-09,"Azúcar moreno AZUCARERA, brik 800 g",0.687968167124124,eroski
+2023-07-16,"Azúcar moreno AZUCARERA, brik 800 g",0.6616083728665869,eroski
+2023-07-23,"Azúcar moreno AZUCARERA, brik 800 g",0.6795749625386058,eroski
+2023-07-30,"Azúcar moreno AZUCARERA, brik 800 g",0.7317507420826945,eroski
+2023-08-06,"Azúcar moreno AZUCARERA, brik 800 g",0.798186892259415,eroski
+2023-08-13,"Azúcar moreno AZUCARERA, brik 800 g",0.8537887676627216,eroski
+2023-08-20,"Azúcar moreno AZUCARERA, brik 800 g",0.8690579996061937,eroski
+2023-08-27,"Azúcar moreno AZUCARERA, brik 800 g",0.8248911078440592,eroski
+2023-09-03,"Azúcar moreno AZUCARERA, brik 800 g",0.7381419805312818,eroski
+2023-09-10,"Azúcar moreno AZUCARERA, brik 800 g",0.6643756035616725,eroski
+2023-09-17,"Azúcar moreno AZUCARERA, brik 800 g",0.655956869141087,eroski
+2023-09-24,"Azúcar moreno AZUCARERA, brik 800 g",0.7076904659473884,eroski
+2023-10-01,"Azúcar moreno AZUCARERA, brik 800 g",0.7533194317694694,eroski
+2023-10-08,"Azúcar moreno AZUCARERA, brik 800 g",0.7316060323831083,eroski
+2023-10-15,"Azúcar moreno AZUCARERA, brik 800 g",0.6587018801133537,eroski
+2023-10-22,"Azúcar moreno AZUCARERA, brik 800 g",0.6220845928777119,eroski
+2023-10-29,"Azúcar moreno AZUCARERA, brik 800 g",0.6902665794542725,eroski
+2023-11-05,"Azúcar moreno AZUCARERA, brik 800 g",0.8312872760051581,eroski
+2023-11-12,"Azúcar moreno AZUCARERA, brik 800 g",0.9343274001737016,eroski
+2023-11-19,"Azúcar moreno AZUCARERA, brik 800 g",0.9195012065649072,eroski
+2023-11-26,"Azúcar moreno AZUCARERA, brik 800 g",0.8196008199716632,eroski
+2023-12-03,"Azúcar moreno AZUCARERA, brik 800 g",0.7432091338333265,eroski
+2023-12-10,"Azúcar moreno AZUCARERA, brik 800 g",0.7583570838408883,eroski
+2023-12-17,"Azúcar moreno AZUCARERA, brik 800 g",0.8244478303124952,eroski
+2023-12-24,"Azúcar moreno AZUCARERA, brik 800 g",0.8454972717094292,eroski
+2023-12-31,"Azúcar moreno AZUCARERA, brik 800 g",0.7813050970989349,eroski
+2024-01-07,"Azúcar moreno AZUCARERA, brik 800 g",0.6905413609922822,eroski
+2024-01-14,"Azúcar moreno AZUCARERA, brik 800 g",0.6607077723927672,eroski
+2024-01-21,"Azúcar moreno AZUCARERA, brik 800 g",0.7089173546337131,eroski
+2024-01-28,"Azúcar moreno AZUCARERA, brik 800 g",0.7666040007805468,eroski
+2024-02-04,"Azúcar moreno AZUCARERA, brik 800 g",0.7615943965662442,eroski
+2024-02-11,"Azúcar moreno AZUCARERA, brik 800 g",0.7010198742904175,eroski
+2024-02-18,"Azúcar moreno AZUCARERA, brik 800 g",0.6625781191760374,eroski
+2024-02-25,"Azúcar moreno AZUCARERA, brik 800 g",0.7081828837460489,eroski
+2024-03-03,"Azúcar moreno AZUCARERA, brik 800 g",0.8175303260542675,eroski
+2024-03-10,"Azúcar moreno AZUCARERA, brik 800 g",0.9097461679081792,eroski
+2024-03-17,"Azúcar moreno AZUCARERA, brik 800 g",0.9222408196251254,eroski
+2024-03-24,"Azúcar moreno AZUCARERA, brik 800 g",0.8617878785312888,eroski
+2024-03-31,"Azúcar moreno AZUCARERA, brik 800 g",0.7845984755636753,eroski
+2024-04-07,"Azúcar moreno AZUCARERA, brik 800 g",0.7398107432499141,eroski
+2024-04-14,"Azúcar moreno AZUCARERA, brik 800 g",0.736631380676748,eroski
+2024-04-21,"Azúcar moreno AZUCARERA, brik 800 g",0.7549335779502497,eroski
+2024-04-28,"Azúcar moreno AZUCARERA, brik 800 g",0.7722600891361735,eroski
+2024-05-05,"Azúcar moreno AZUCARERA, brik 800 g",0.7776582788051555,eroski
+2024-05-12,"Azúcar moreno AZUCARERA, brik 800 g",0.7710497167498938,eroski
+2024-05-19,"Azúcar moreno AZUCARERA, brik 800 g",0.7611744809357542,eroski
+2024-05-26,"Azúcar moreno AZUCARERA, brik 800 g",0.7633681655949358,eroski
+2024-06-02,"Azúcar moreno AZUCARERA, brik 800 g",0.7888093604713993,eroski
+2024-06-09,"Azúcar moreno AZUCARERA, brik 800 g",0.8292096325706505,eroski
+2024-06-16,"Azúcar moreno AZUCARERA, brik 800 g",0.8559333044671897,eroski
+2024-06-23,"Azúcar moreno AZUCARERA, brik 800 g",0.8421781581110804,eroski
+2024-06-30,"Azúcar moreno AZUCARERA, brik 800 g",0.789009300490528,eroski
+2024-07-07,"Azúcar moreno AZUCARERA, brik 800 g",0.7273933191870089,eroski
+2024-07-14,"Azúcar moreno AZUCARERA, brik 800 g",0.6935806860601453,eroski
+2024-07-21,"Azúcar moreno AZUCARERA, brik 800 g",0.7039007836301341,eroski
+2024-07-28,"Azúcar moreno AZUCARERA, brik 800 g",0.7512779863810031,eroski
+2024-08-04,"Azúcar moreno AZUCARERA, brik 800 g",0.8168421266283842,eroski
+2024-08-11,"Azúcar moreno AZUCARERA, brik 800 g",0.8764916888245163,eroski
+2024-08-18,"Azúcar moreno AZUCARERA, brik 800 g",0.9010039250969019,eroski
+2024-08-25,"Azúcar moreno AZUCARERA, brik 800 g",0.867525670746605,eroski
+2024-09-01,"Azúcar moreno AZUCARERA, brik 800 g",0.7851150000980079,eroski
+2024-09-08,"Azúcar moreno AZUCARERA, brik 800 g",0.704284063306719,eroski
+2024-09-15,"Azúcar moreno AZUCARERA, brik 800 g",0.6824311859474577,eroski
+2024-09-22,"Azúcar moreno AZUCARERA, brik 800 g",0.7270710374038253,eroski
+2024-09-29,"Azúcar moreno AZUCARERA, brik 800 g",0.7796049902727402,eroski
+2024-10-06,"Azúcar moreno AZUCARERA, brik 800 g",0.77149052014266,eroski
+2024-10-13,"Azúcar moreno AZUCARERA, brik 800 g",0.7025031866330546,eroski
+2024-10-20,"Azúcar moreno AZUCARERA, brik 800 g",0.6523811643401176,eroski
+2024-10-27,"Azúcar moreno AZUCARERA, brik 800 g",0.7008599573207165,eroski
+2024-11-03,"Azúcar moreno AZUCARERA, brik 800 g",0.8359092563864662,eroski
+2024-11-10,"Azúcar moreno AZUCARERA, brik 800 g",0.9540799023850278,eroski
+2024-11-17,"Azúcar moreno AZUCARERA, brik 800 g",0.961411895404103,eroski
+2024-11-24,"Azúcar moreno AZUCARERA, brik 800 g",0.8695411524918788,eroski
+2024-12-01,"Azúcar moreno AZUCARERA, brik 800 g",0.7812743999290044,eroski
+2024-12-08,"Azúcar moreno AZUCARERA, brik 800 g",0.7799334555661791,eroski
+2024-12-15,"Azúcar moreno AZUCARERA, brik 800 g",0.8438484222113545,eroski
+2024-12-22,"Azúcar moreno AZUCARERA, brik 800 g",0.8787436921364788,eroski
+2024-12-29,"Azúcar moreno AZUCARERA, brik 800 g",0.8279534196507671,eroski
+2025-01-05,"Azúcar moreno AZUCARERA, brik 800 g",0.734853126791656,eroski
+2025-01-12,"Azúcar moreno AZUCARERA, brik 800 g",0.6899669376095847,eroski
+2025-01-19,"Azúcar moreno AZUCARERA, brik 800 g",0.7274912649097024,eroski
+2025-01-26,"Azúcar moreno AZUCARERA, brik 800 g",0.790096577173986,eroski
+2025-02-02,"Azúcar moreno AZUCARERA, brik 800 g",0.7985726337793413,eroski
+2025-02-09,"Azúcar moreno AZUCARERA, brik 800 g",0.7433482103740296,eroski
+2025-02-16,"Azúcar moreno AZUCARERA, brik 800 g",0.6946838993223055,eroski
+2025-02-23,"Azúcar moreno AZUCARERA, brik 800 g",0.724138942623625,eroski
+2025-03-02,"Azúcar moreno AZUCARERA, brik 800 g",0.8272182937578914,eroski
+2025-03-09,"Azúcar moreno AZUCARERA, brik 800 g",0.9286554793172636,eroski
+2025-03-16,"Azúcar moreno AZUCARERA, brik 800 g",0.9570227137302675,eroski
+2025-03-23,"Azúcar moreno AZUCARERA, brik 800 g",0.9061870299165706,eroski
+2025-03-30,"Azúcar moreno AZUCARERA, brik 800 g",0.8274849204004855,eroski
+2025-04-06,"Azúcar moreno AZUCARERA, brik 800 g",0.775011315741571,eroski
+2025-04-13,"Azúcar moreno AZUCARERA, brik 800 g",0.7653999142355512,eroski
+2025-04-20,"Azúcar moreno AZUCARERA, brik 800 g",0.7817436954888741,eroski
+2025-04-27,"Azúcar moreno AZUCARERA, brik 800 g",0.8004168450205015,eroski
+2025-05-04,"Azúcar moreno AZUCARERA, brik 800 g",0.8082185832382295,eroski
+2025-05-11,"Azúcar moreno AZUCARERA, brik 800 g",0.8033622058016198,eroski
+2025-05-18,"Azúcar moreno AZUCARERA, brik 800 g",0.7930590784839683,eroski
+2025-05-25,"Azúcar moreno AZUCARERA, brik 800 g",0.7919403805442476,eroski
+2025-06-01,"Azúcar moreno AZUCARERA, brik 800 g",0.813128689700896,eroski
+2025-06-08,"Azúcar moreno AZUCARERA, brik 800 g",0.8525491801483683,eroski
+2025-06-15,"Azúcar moreno AZUCARERA, brik 800 g",0.8841397566168294,eroski
+2025-06-22,"Azúcar moreno AZUCARERA, brik 800 g",0.8785545329326994,eroski
+2025-06-29,"Azúcar moreno AZUCARERA, brik 800 g",0.8307956386671799,eroski

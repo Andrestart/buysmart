@@ -19,7 +19,7 @@ opciones.add_argument('--start-maximized')
 opciones.add_argument('--incognito')     
 
 def scrap():
-    supermarket = input("Type the supermarket to scrap from ('dia', 'carrefour' or 'eroski') or 'every super' to scrap them all >>>>>  \n")
+    supermarket = input("Type the supermarket to scrap from ('dia', 'carrefour' or 'eroski') >>>>>  \n")
     warnings.filterwarnings("ignore")
 
     data = pd.read_csv("../mydata/cleandata/data.csv")
@@ -49,21 +49,23 @@ def scrap():
                     time.sleep(0.7)
                 except:
                     pass
-                    for o in range(1,50): #price, scroll, product, supermarket, link and name
-                        try:
-
-                            prices.append(driver.find_element_by_css_selector(f'#ebx-grid > article:nth-child({o}) > div > span').text.split("€")[0])
-                            driver.execute_script("window.scrollTo(0, window.scrollY + 300)")
-                            prod.append(f)
-                            sup.append(supermarket)
-                            links.append(url)
-                            names.append(driver.find_element_by_css_selector(f'#ebx-grid > article:nth-child({o}) > div > a.ebx-result-link.ebx-result__title-link.track-click > h1').text)
-                        except:
-                            prices.append(np.nan)
-                            prod.append(f)
-                            sup.append(supermarket)
-                            links.append(np.nan)
-                            names.append(np.nan)
+                for o in range(1,50): #price, scroll, product, supermarket, link and name
+                    try:
+                        prices.append(driver.find_element_by_css_selector(f'#ebx-grid > article:nth-child({o}) > div > span').text.split("€")[0])
+                        driver.execute_script("window.scrollTo(0, window.scrollY + 300)")
+                    except:
+                        prices.append(np.nan)
+                    try:
+                        names.append(driver.find_element_by_css_selector(f'#ebx-grid > article:nth-child({o}) > div > a.ebx-result-link.ebx-result__title-link.track-click > h1').text)
+                        driver.execute_script("window.scrollTo(0, window.scrollY + 300)")
+                    except:
+                        names.append(np.nan)
+                    try:
+                        links.append(url)
+                    except:
+                        links.append(np.nan)
+                    prod.append(f)
+                    sup.append(supermarket)
 
         elif supermarket == 'dia':
             url = f"https://www.dia.es/compra-online/search?text={f}&x=0&y=0"
@@ -78,16 +80,19 @@ def scrap():
             for i in range(1,15):
                 try:
                     prices.append(driver.find_element_by_css_selector(f'#productgridcontainer > div.product-list--row > div:nth-child({i}) > div > a > div.column-right > div > p.pricePerKilogram').text.split("€")[0].strip())
-                    names.append(driver.find_element_by_css_selector(f'#productgridcontainer > div.product-list--row > div:nth-child({i}) > div > a > div.column-right > span').text)
-                    prod.append(f)
-                    sup.append(supermarket)
-                    links.append(url)
                 except:
                     prices.append(np.nan)
-                    prod.append(f)
-                    sup.append(supermarket)
-                    links.append(np.nan)
+                try:
+                    names.append(driver.find_element_by_css_selector(f'#productgridcontainer > div.product-list--row > div:nth-child({i}) > div > a > div.column-right > span').text)
+                except:
                     names.append(np.nan)
+                try:
+                    links.append(url)
+                except:
+                    links.append(np.nan)
+
+                prod.append(f)
+                sup.append(supermarket)
 
         elif supermarket == 'eroski':
             url = f"https://supermercado.eroski.es/es/search/results/?q={f}&suggestionsFilter=false"
@@ -103,10 +108,7 @@ def scrap():
                 try:
                     prices.append(driver.find_element_by_css_selector(f'div.product-item-lineal:nth-child({i}) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > div:nth-child(4) > div:nth-child(2) > p:nth-child(1) > span:nth-child(2)').text)
                 except:
-                    try:
-                        prices.append(driver.find_element_by_css_selector(f'div.product-item-lineal:nth-child({i+1}) > div:nth-child(1) > div:nth-child(3) > div:nth-child(3) > div:nth-child(2) > span:nth-child(2) > span:nth-child(2)').text)
-                    except:
-                        prices.append(np.nan)
+                    prices.append(np.nan)
                 try:
                     names.append(driver.find_element_by_css_selector(f'#productListZone > div:nth-child({i+1}) > div > div.product-description > div.description-text > h2:nth-child(3) > a').text)
                 except:
@@ -144,6 +146,8 @@ def scrap():
     scrap.to_csv(f'../mydata/scraps_{supermarket}/{now}.csv', index=False)
     scrap.to_csv(f'../mydata/scraps_{supermarket}/scrap.csv', index=False)
     return print(f"""{supermarket.capitalize()} has been correctly scrapped. NOW it's time to change your environment to predict the prices. Use one that contains fbprophet and run 'predict.py'""")
+
+###SCRAP ALL###
 
 def scrapall():
     warnings.filterwarnings("ignore")
@@ -251,16 +255,20 @@ def scrapall():
         for i in range(1,15):
             try:
                 prices.append(driver.find_element_by_css_selector(f'#productgridcontainer > div.product-list--row > div:nth-child({i}) > div > a > div.column-right > div > p.pricePerKilogram').text.split("€")[0].strip())
-                names.append(driver.find_element_by_css_selector(f'#productgridcontainer > div.product-list--row > div:nth-child({i}) > div > a > div.column-right > span').text)
-                prod.append(f)
-                sup.append(supermarket)
-                links.append(url)
             except:
                 prices.append(np.nan)
-                prod.append(f)
-                sup.append(supermarket)
-                links.append(np.nan)
+            try:
+                names.append(driver.find_element_by_css_selector(f'#productgridcontainer > div.product-list--row > div:nth-child({i}) > div > a > div.column-right > span').text)
+            except:
                 names.append(np.nan)
+            try:
+                links.append(url)
+            except:
+                links.append(np.nan)
+
+            prod.append(f)
+            sup.append(supermarket)
+    
     print("prices",len(prices))
     print("prod", len(prod))
     print("links", len(links))
@@ -317,10 +325,7 @@ def scrapall():
             try:
                 prices.append(driver.find_element_by_css_selector(f'div.product-item-lineal:nth-child({i}) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > div:nth-child(4) > div:nth-child(2) > p:nth-child(1) > span:nth-child(2)').text)
             except:
-                try:
-                    prices.append(driver.find_element_by_css_selector(f'div.product-item-lineal:nth-child({i+1}) > div:nth-child(1) > div:nth-child(3) > div:nth-child(3) > div:nth-child(2) > span:nth-child(2) > span:nth-child(2)').text)
-                except:
-                    prices.append(np.nan)
+                prices.append(np.nan)
             try:
                 names.append(driver.find_element_by_css_selector(f'#productListZone > div:nth-child({i+1}) > div > div.product-description > div.description-text > h2:nth-child(3) > a').text)
             except:
@@ -328,6 +333,7 @@ def scrapall():
             prod.append(f)
             sup.append(supermarket)
             links.append(url)
+
 
     frame['price'] = prices
     frame['product'] = prod
@@ -356,4 +362,11 @@ def scrapall():
     print(f"I have saved the scrap from {supermarket}")
 
     return print(f"""All scrappings have been correctly saved. NOW it's time to change your environment to predict the prices. Use one that contains fbprophet and run 'predict.py'""")
-scrapall()
+
+superm=input("\n\nType 'one' if you want to scrap only one super market or 'all' to scrap them all\n\n")
+if superm == 'all':
+    scrapall()
+elif superm == 'one':
+    scrap()
+else:
+    print("\n\nPlease type 'one' or 'all' to choose what to scrap\n\n")

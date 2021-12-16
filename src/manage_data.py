@@ -24,18 +24,18 @@ def pred(prod):
 
     #LASTPRICE#
     tillnow = prod[prod['date'] < now]
-    lastprice = tillnow.tail(1)[['date','trend']]
+    lastprice = tillnow.tail(1)[['date','yhat']]
 
     ###5 PREDICTIONS######
     pred = prod[prod['date'] > now]
-    pred = pd.DataFrame(pred.iloc[0:40,:])[['date','trend']]
+    pred = pd.DataFrame(pred.iloc[0:300,:])[['date','yhat']]
 
     #JOIN LAST PRICE AND PREDICTIONS
     joined = pd.concat([lastprice,pred],axis=0)
-    joined['trend'].iloc[0]
+    joined['yhat'].iloc[0]
 
     #INSERT %CHANGE
-    joined['change(%)'] = (joined['trend']-joined['trend'].iloc[0])/joined['trend'].iloc[0]+1
+    joined['change(%)'] = (joined['yhat']-joined['yhat'].iloc[0])/joined['yhat'].iloc[0]+1
 
     #####################################################
     ################## TODAY  ###########################
