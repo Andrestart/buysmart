@@ -95,6 +95,7 @@ def app():
         predictions = dat.pred(prod)
         predictions.to_csv("mydata/cleandata/stdata/pred.csv")
         pred = pd.read_csv("mydata/cleandata/stdata/pred.csv")
+       
         #PREDICTIONS GRAPH
         fig = px.line(pred, x='date', y='Price',title=minper.Name[0])
         fig.update_yaxes(range=[0.99*min(pred['Price']),1.02*max(pred['Price'])]) 
@@ -102,7 +103,7 @@ def app():
     except:
         st.write("""Impossible to predict with no data.""")
 
-    scat = px.scatter(wholetable, x='Super', y='Price', color='Super', title=prod.capitalize())
+    scat = px.scatter(minperproduct, x='Super', y='Price', color='Super', title=prod.capitalize())
     st.plotly_chart(scat)
   
     #WHOLE TABLE

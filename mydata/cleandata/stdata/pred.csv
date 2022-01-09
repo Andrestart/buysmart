@@ -1,152 +1,196 @@
 date,Name,Price,Super
-2021-12-12,"Arroz extra EROSKI basic, paquete 1 kg",0.79,eroski
-2021-12-19,"Arroz extra EROSKI basic, paquete 1 kg",0.7834990929404668,eroski
-2021-12-26,"Arroz extra EROSKI basic, paquete 1 kg",0.77738461599002,eroski
-2022-01-02,"Arroz extra EROSKI basic, paquete 1 kg",0.7834097458276704,eroski
-2022-01-09,"Arroz extra EROSKI basic, paquete 1 kg",0.7987469799200433,eroski
-2022-01-16,"Arroz extra EROSKI basic, paquete 1 kg",0.808598572436656,eroski
-2022-01-23,"Arroz extra EROSKI basic, paquete 1 kg",0.8044936462175134,eroski
-2022-01-30,"Arroz extra EROSKI basic, paquete 1 kg",0.7945578979974425,eroski
-2022-02-06,"Arroz extra EROSKI basic, paquete 1 kg",0.7926951048732371,eroski
-2022-02-13,"Arroz extra EROSKI basic, paquete 1 kg",0.8009685459150164,eroski
-2022-02-20,"Arroz extra EROSKI basic, paquete 1 kg",0.8079112796762175,eroski
-2022-02-27,"Arroz extra EROSKI basic, paquete 1 kg",0.8044563121058531,eroski
-2022-03-06,"Arroz extra EROSKI basic, paquete 1 kg",0.7963403888690995,eroski
-2022-03-13,"Arroz extra EROSKI basic, paquete 1 kg",0.796772625414178,eroski
-2022-03-20,"Arroz extra EROSKI basic, paquete 1 kg",0.8090712756483348,eroski
-2022-03-27,"Arroz extra EROSKI basic, paquete 1 kg",0.8219704775441393,eroski
-2022-04-03,"Arroz extra EROSKI basic, paquete 1 kg",0.8236545846361578,eroski
-2022-04-10,"Arroz extra EROSKI basic, paquete 1 kg",0.8162377276999918,eroski
-2022-04-17,"Arroz extra EROSKI basic, paquete 1 kg",0.8120957197618444,eroski
-2022-04-24,"Arroz extra EROSKI basic, paquete 1 kg",0.8173157259567391,eroski
-2022-05-01,"Arroz extra EROSKI basic, paquete 1 kg",0.8241723407031816,eroski
-2022-05-08,"Arroz extra EROSKI basic, paquete 1 kg",0.8222558770627264,eroski
-2022-05-15,"Arroz extra EROSKI basic, paquete 1 kg",0.8130399228450746,eroski
-2022-05-22,"Arroz extra EROSKI basic, paquete 1 kg",0.8081768948718204,eroski
-2022-05-29,"Arroz extra EROSKI basic, paquete 1 kg",0.8137142815040461,eroski
-2022-06-05,"Arroz extra EROSKI basic, paquete 1 kg",0.8216951271620618,eroski
-2022-06-12,"Arroz extra EROSKI basic, paquete 1 kg",0.8212048280135956,eroski
-2022-06-19,"Arroz extra EROSKI basic, paquete 1 kg",0.8146158329113576,eroski
-2022-06-26,"Arroz extra EROSKI basic, paquete 1 kg",0.8165126062526851,eroski
-2022-07-03,"Arroz extra EROSKI basic, paquete 1 kg",0.8347789432803255,eroski
-2022-07-10,"Arroz extra EROSKI basic, paquete 1 kg",0.8577874881474754,eroski
-2022-07-17,"Arroz extra EROSKI basic, paquete 1 kg",0.8658515528689484,eroski
-2022-07-24,"Arroz extra EROSKI basic, paquete 1 kg",0.8546425399805953,eroski
-2022-07-31,"Arroz extra EROSKI basic, paquete 1 kg",0.8416064052139701,eroski
-2022-08-07,"Arroz extra EROSKI basic, paquete 1 kg",0.8461393993976847,eroski
-2022-08-14,"Arroz extra EROSKI basic, paquete 1 kg",0.8669465448745981,eroski
-2022-08-21,"Arroz extra EROSKI basic, paquete 1 kg",0.8843831911761862,eroski
-2022-08-28,"Arroz extra EROSKI basic, paquete 1 kg",0.8850084925083792,eroski
-2022-09-04,"Arroz extra EROSKI basic, paquete 1 kg",0.8777095531479105,eroski
-2022-09-11,"Arroz extra EROSKI basic, paquete 1 kg",0.8809261202389367,eroski
-2022-09-18,"Arroz extra EROSKI basic, paquete 1 kg",0.8967879215515423,eroski
-2022-09-25,"Arroz extra EROSKI basic, paquete 1 kg",0.9051532186876545,eroski
-2022-10-02,"Arroz extra EROSKI basic, paquete 1 kg",0.8865086534198009,eroski
-2022-10-09,"Arroz extra EROSKI basic, paquete 1 kg",0.8467004929779325,eroski
-2022-10-16,"Arroz extra EROSKI basic, paquete 1 kg",0.8131771614660352,eroski
-2022-10-23,"Arroz extra EROSKI basic, paquete 1 kg",0.8063313202455759,eroski
-2022-10-30,"Arroz extra EROSKI basic, paquete 1 kg",0.8192199174265463,eroski
-2022-11-06,"Arroz extra EROSKI basic, paquete 1 kg",0.8283756211100626,eroski
-2022-11-13,"Arroz extra EROSKI basic, paquete 1 kg",0.8212149379706694,eroski
-2022-11-20,"Arroz extra EROSKI basic, paquete 1 kg",0.8073327521337111,eroski
-2022-11-27,"Arroz extra EROSKI basic, paquete 1 kg",0.8027004228189398,eroski
-2022-12-04,"Arroz extra EROSKI basic, paquete 1 kg",0.8089495618883331,eroski
-2022-12-11,"Arroz extra EROSKI basic, paquete 1 kg",0.8135550702062421,eroski
-2022-12-18,"Arroz extra EROSKI basic, paquete 1 kg",0.8083953853774057,eroski
-2022-12-25,"Arroz extra EROSKI basic, paquete 1 kg",0.8011265480935936,eroski
-2023-01-01,"Arroz extra EROSKI basic, paquete 1 kg",0.8046662112984301,eroski
-2023-01-08,"Arroz extra EROSKI basic, paquete 1 kg",0.819285843209871,eroski
-2023-01-15,"Arroz extra EROSKI basic, paquete 1 kg",0.8311685735730603,eroski
-2023-01-22,"Arroz extra EROSKI basic, paquete 1 kg",0.8294097032440306,eroski
-2023-01-29,"Arroz extra EROSKI basic, paquete 1 kg",0.8193985563696723,eroski
-2023-02-05,"Arroz extra EROSKI basic, paquete 1 kg",0.8154461575155802,eroski
-2023-02-12,"Arroz extra EROSKI basic, paquete 1 kg",0.8225095822937203,eroski
-2023-02-19,"Arroz extra EROSKI basic, paquete 1 kg",0.8306765050224073,eroski
-2023-02-26,"Arroz extra EROSKI basic, paquete 1 kg",0.829108561662225,eroski
-2023-03-05,"Arroz extra EROSKI basic, paquete 1 kg",0.8208377773729157,eroski
-2023-03-12,"Arroz extra EROSKI basic, paquete 1 kg",0.8190298149493809,eroski
-2023-03-19,"Arroz extra EROSKI basic, paquete 1 kg",0.8297197007176076,eroski
-2023-03-26,"Arroz extra EROSKI basic, paquete 1 kg",0.8436193713395196,eroski
-2023-04-02,"Arroz extra EROSKI basic, paquete 1 kg",0.8476291721706974,eroski
-2023-04-09,"Arroz extra EROSKI basic, paquete 1 kg",0.8410278185203349,eroski
-2023-04-16,"Arroz extra EROSKI basic, paquete 1 kg",0.8354654496720579,eroski
-2023-04-23,"Arroz extra EROSKI basic, paquete 1 kg",0.8392363664951082,eroski
-2023-04-30,"Arroz extra EROSKI basic, paquete 1 kg",0.846725399138618,eroski
-2023-05-07,"Arroz extra EROSKI basic, paquete 1 kg",0.8467105276604282,eroski
-2023-05-14,"Arroz extra EROSKI basic, paquete 1 kg",0.838062320824946,eroski
-2023-05-21,"Arroz extra EROSKI basic, paquete 1 kg",0.8316019588782804,eroski
-2023-05-28,"Arroz extra EROSKI basic, paquete 1 kg",0.8355033427192885,eroski
-2023-06-04,"Arroz extra EROSKI basic, paquete 1 kg",0.8440172401646379,eroski
-2023-06-11,"Arroz extra EROSKI basic, paquete 1 kg",0.8453746538720067,eroski
-2023-06-18,"Arroz extra EROSKI basic, paquete 1 kg",0.8389642340841659,eroski
-2023-06-25,"Arroz extra EROSKI basic, paquete 1 kg",0.8382931138629877,eroski
-2023-07-02,"Arroz extra EROSKI basic, paquete 1 kg",0.8539305567016406,eroski
-2023-07-09,"Arroz extra EROSKI basic, paquete 1 kg",0.877621199414556,eroski
-2023-07-16,"Arroz extra EROSKI basic, paquete 1 kg",0.8893638655456231,eroski
-2023-07-23,"Arroz extra EROSKI basic, paquete 1 kg",0.8808040884904097,eroski
-2023-07-30,"Arroz extra EROSKI basic, paquete 1 kg",0.8663516587562704,eroski
-2023-08-06,"Arroz extra EROSKI basic, paquete 1 kg",0.8670918544704503,eroski
-2023-08-13,"Arroz extra EROSKI basic, paquete 1 kg",0.886165831285193,eroski
-2023-08-20,"Arroz extra EROSKI basic, paquete 1 kg",0.9057218405746951,eroski
-2023-08-27,"Arroz extra EROSKI basic, paquete 1 kg",0.9093418689084549,eroski
-2023-09-03,"Arroz extra EROSKI basic, paquete 1 kg",0.9020236025311734,eroski
-2023-09-10,"Arroz extra EROSKI basic, paquete 1 kg",0.9024700307365291,eroski
-2023-09-17,"Arroz extra EROSKI basic, paquete 1 kg",0.9170829749460203,eroski
-2023-09-24,"Arroz extra EROSKI basic, paquete 1 kg",0.9286560477736644,eroski
-2023-10-01,"Arroz extra EROSKI basic, paquete 1 kg",0.9152940731210637,eroski
-2023-10-08,"Arroz extra EROSKI basic, paquete 1 kg",0.8775685775242597,eroski
-2023-10-15,"Arroz extra EROSKI basic, paquete 1 kg",0.8408095182141424,eroski
-2023-10-22,"Arroz extra EROSKI basic, paquete 1 kg",0.8288774806724598,eroski
-2023-10-29,"Arroz extra EROSKI basic, paquete 1 kg",0.8398420751780787,eroski
-2023-11-05,"Arroz extra EROSKI basic, paquete 1 kg",0.8512170299608888,eroski
-2023-11-12,"Arroz extra EROSKI basic, paquete 1 kg",0.8468248715447895,eroski
-2023-11-19,"Arroz extra EROSKI basic, paquete 1 kg",0.832821452963199,eroski
-2023-11-26,"Arroz extra EROSKI basic, paquete 1 kg",0.8258501111020538,eroski
-2023-12-03,"Arroz extra EROSKI basic, paquete 1 kg",0.8308630449447381,eroski
-2023-12-10,"Arroz extra EROSKI basic, paquete 1 kg",0.8367486304441031,eroski
-2023-12-17,"Arroz extra EROSKI basic, paquete 1 kg",0.8332077174066607,eroski
-2023-12-24,"Arroz extra EROSKI basic, paquete 1 kg",0.825252843924202,eroski
-2023-12-31,"Arroz extra EROSKI basic, paquete 1 kg",0.8263202203423431,eroski
-2024-01-07,"Arroz extra EROSKI basic, paquete 1 kg",0.8397283500336756,eroski
-2024-01-14,"Arroz extra EROSKI basic, paquete 1 kg",0.8532526701280083,eroski
-2024-01-21,"Arroz extra EROSKI basic, paquete 1 kg",0.8540349739778301,eroski
-2024-01-28,"Arroz extra EROSKI basic, paquete 1 kg",0.8444620352478299,eroski
-2024-02-04,"Arroz extra EROSKI basic, paquete 1 kg",0.8385951559448702,eroski
-2024-02-11,"Arroz extra EROSKI basic, paquete 1 kg",0.8440885287819823,eroski
-2024-02-18,"Arroz extra EROSKI basic, paquete 1 kg",0.8530875765282884,eroski
-2024-02-25,"Arroz extra EROSKI basic, paquete 1 kg",0.8535151486633136,eroski
-2024-03-03,"Arroz extra EROSKI basic, paquete 1 kg",0.8455635395014712,eroski
-2024-03-10,"Arroz extra EROSKI basic, paquete 1 kg",0.8417334875883979,eroski
-2024-03-17,"Arroz extra EROSKI basic, paquete 1 kg",0.8504822896580212,eroski
-2024-03-24,"Arroz extra EROSKI basic, paquete 1 kg",0.8649140165481665,eroski
-2024-03-31,"Arroz extra EROSKI basic, paquete 1 kg",0.8712267609148513,eroski
-2024-04-07,"Arroz extra EROSKI basic, paquete 1 kg",0.8658619522024976,eroski
-2024-04-14,"Arroz extra EROSKI basic, paquete 1 kg",0.859176797195084,eroski
-2024-04-21,"Arroz extra EROSKI basic, paquete 1 kg",0.8612932127510188,eroski
-2024-04-28,"Arroz extra EROSKI basic, paquete 1 kg",0.8690071684671218,eroski
-2024-05-05,"Arroz extra EROSKI basic, paquete 1 kg",0.8708519267962327,eroski
-2024-05-12,"Arroz extra EROSKI basic, paquete 1 kg",0.8631626936425713,eroski
-2024-05-19,"Arroz extra EROSKI basic, paquete 1 kg",0.8554016228108375,eroski
-2024-05-26,"Arroz extra EROSKI basic, paquete 1 kg",0.8574591190054179,eroski
-2024-06-02,"Arroz extra EROSKI basic, paquete 1 kg",0.8660763642735463,eroski
-2024-06-09,"Arroz extra EROSKI basic, paquete 1 kg",0.8692517178131445,eroski
-2024-06-16,"Arroz extra EROSKI basic, paquete 1 kg",0.8635035313896205,eroski
-2024-06-23,"Arroz extra EROSKI basic, paquete 1 kg",0.860651910885854,eroski
-2024-06-30,"Arroz extra EROSKI basic, paquete 1 kg",0.873376307969655,eroski
-2024-07-07,"Arroz extra EROSKI basic, paquete 1 kg",0.8970388383976164,eroski
-2024-07-14,"Arroz extra EROSKI basic, paquete 1 kg",0.9121585895463901,eroski
-2024-07-21,"Arroz extra EROSKI basic, paquete 1 kg",0.9067568338744335,eroski
-2024-07-28,"Arroz extra EROSKI basic, paquete 1 kg",0.8916367061030291,eroski
-2024-08-04,"Arroz extra EROSKI basic, paquete 1 kg",0.8886938537684635,eroski
-2024-08-11,"Arroz extra EROSKI basic, paquete 1 kg",0.9053957937363385,eroski
-2024-08-18,"Arroz extra EROSKI basic, paquete 1 kg",0.926485376626573,eroski
-2024-08-25,"Arroz extra EROSKI basic, paquete 1 kg",0.9332832945386674,eroski
-2024-09-01,"Arroz extra EROSKI basic, paquete 1 kg",0.9266231154150076,eroski
-2024-09-08,"Arroz extra EROSKI basic, paquete 1 kg",0.9245393332962536,eroski
-2024-09-15,"Arroz extra EROSKI basic, paquete 1 kg",0.9372967439293138,eroski
-2024-09-22,"Arroz extra EROSKI basic, paquete 1 kg",0.9512954360848558,eroski
-2024-09-29,"Arroz extra EROSKI basic, paquete 1 kg",0.9432268145179126,eroski
-2024-10-06,"Arroz extra EROSKI basic, paquete 1 kg",0.9084721132309549,eroski
-2024-10-13,"Arroz extra EROSKI basic, paquete 1 kg",0.8693124557572335,eroski
-2024-10-20,"Arroz extra EROSKI basic, paquete 1 kg",0.8522157067556155,eroski
-2024-10-27,"Arroz extra EROSKI basic, paquete 1 kg",0.8604562887470554,eroski
+2022-01-02,Ajo sprint 500 g,4.7,carrefour
+2022-01-16,Ajo sprint 500 g,4.926856399206647,carrefour
+2022-01-23,Ajo sprint 500 g,4.987254123522701,carrefour
+2022-01-30,Ajo sprint 500 g,4.9639303548068066,carrefour
+2022-02-06,Ajo sprint 500 g,4.939065888644367,carrefour
+2022-02-13,Ajo sprint 500 g,5.002158697695616,carrefour
+2022-02-20,Ajo sprint 500 g,5.133598439728071,carrefour
+2022-02-27,Ajo sprint 500 g,5.206142980671143,carrefour
+2022-03-06,Ajo sprint 500 g,5.120877251625515,carrefour
+2022-03-13,Ajo sprint 500 g,4.932138435138634,carrefour
+2022-03-20,Ajo sprint 500 g,4.8106780694495175,carrefour
+2022-03-27,Ajo sprint 500 g,4.868913809945123,carrefour
+2022-04-03,Ajo sprint 500 g,5.034993690773187,carrefour
+2022-04-10,Ajo sprint 500 g,5.12115977385675,carrefour
+2022-04-17,Ajo sprint 500 g,5.021608968682636,carrefour
+2022-04-24,Ajo sprint 500 g,4.82851791873926,carrefour
+2022-05-01,Ajo sprint 500 g,4.739703811578698,carrefour
+2022-05-08,Ajo sprint 500 g,4.8560348576786945,carrefour
+2022-05-15,Ajo sprint 500 g,5.082725797497437,carrefour
+2022-05-22,Ajo sprint 500 g,5.231567688652923,carrefour
+2022-05-29,Ajo sprint 500 g,5.2064784755051,carrefour
+2022-06-05,Ajo sprint 500 g,5.078062862221304,carrefour
+2022-06-12,Ajo sprint 500 g,4.9855268264282815,carrefour
+2022-06-19,Ajo sprint 500 g,4.987122895267408,carrefour
+2022-06-26,Ajo sprint 500 g,5.016030399174761,carrefour
+2022-07-03,Ajo sprint 500 g,4.968583165391383,carrefour
+2022-07-10,Ajo sprint 500 g,4.814860372868211,carrefour
+2022-07-17,Ajo sprint 500 g,4.620070677972382,carrefour
+2022-07-24,Ajo sprint 500 g,4.4754202887948145,carrefour
+2022-07-31,Ajo sprint 500 g,4.423780736112463,carrefour
+2022-08-07,Ajo sprint 500 g,4.446591258776325,carrefour
+2022-08-14,Ajo sprint 500 g,4.501182874006116,carrefour
+2022-08-21,Ajo sprint 500 g,4.556973313730668,carrefour
+2022-08-28,Ajo sprint 500 g,4.60284524466638,carrefour
+2022-09-04,Ajo sprint 500 g,4.637063884872563,carrefour
+2022-09-11,Ajo sprint 500 g,4.65860234817572,carrefour
+2022-09-18,Ajo sprint 500 g,4.663571938166093,carrefour
+2022-09-25,Ajo sprint 500 g,4.644770621415988,carrefour
+2022-10-02,Ajo sprint 500 g,4.598498997496075,carrefour
+2022-10-09,Ajo sprint 500 g,4.538355441154549,carrefour
+2022-10-16,Ajo sprint 500 g,4.499489086285796,carrefour
+2022-10-23,Ajo sprint 500 g,4.517276832540678,carrefour
+2022-10-30,Ajo sprint 500 g,4.593657265538697,carrefour
+2022-11-06,Ajo sprint 500 g,4.688354353385073,carrefour
+2022-11-13,Ajo sprint 500 g,4.751623781963824,carrefour
+2022-11-20,Ajo sprint 500 g,4.766290594979258,carrefour
+2022-11-27,Ajo sprint 500 g,4.751626057069479,carrefour
+2022-12-04,Ajo sprint 500 g,4.7269590845245295,carrefour
+2022-12-11,Ajo sprint 500 g,4.685511429033969,carrefour
+2022-12-18,Ajo sprint 500 g,4.61706678821751,carrefour
+2022-12-25,Ajo sprint 500 g,4.549678096473892,carrefour
+2023-01-01,Ajo sprint 500 g,4.544503131187195,carrefour
+2023-01-08,Ajo sprint 500 g,4.6317789858905165,carrefour
+2023-01-15,Ajo sprint 500 g,4.760618099428276,carrefour
+2023-01-22,Ajo sprint 500 g,4.837245789956759,carrefour
+2023-01-29,Ajo sprint 500 g,4.82510493505748,carrefour
+2023-02-05,Ajo sprint 500 g,4.792336891274452,carrefour
+2023-02-12,Ajo sprint 500 g,4.83708468294079,carrefour
+2023-02-19,Ajo sprint 500 g,4.963808020609485,carrefour
+2023-02-26,Ajo sprint 500 g,5.057174475076417,carrefour
+2023-03-05,Ajo sprint 500 g,5.001173731942653,carrefour
+2023-03-12,Ajo sprint 500 g,4.819848052055991,carrefour
+2023-03-19,Ajo sprint 500 g,4.673929472561538,carrefour
+2023-03-26,Ajo sprint 500 g,4.699704124249978,carrefour
+2023-04-02,Ajo sprint 500 g,4.8593210520576715,carrefour
+2023-04-09,Ajo sprint 500 g,4.972454999577162,carrefour
+2023-04-16,Ajo sprint 500 g,4.905007336122864,carrefour
+2023-04-23,Ajo sprint 500 g,4.7145566910126355,carrefour
+2023-04-30,Ajo sprint 500 g,4.594513371981985,carrefour
+2023-05-07,Ajo sprint 500 g,4.675796703074679,carrefour
+2023-05-14,Ajo sprint 500 g,4.896417355541095,carrefour
+2023-05-21,Ajo sprint 500 g,5.070897079096867,carrefour
+2023-05-28,Ajo sprint 500 g,5.076042137287661,carrefour
+2023-06-04,Ajo sprint 500 g,4.9556753094991475,carrefour
+2023-06-11,Ajo sprint 500 g,4.848655431757271,carrefour
+2023-06-18,Ajo sprint 500 g,4.83532709775753,carrefour
+2023-06-25,Ajo sprint 500 g,4.867615900622361,carrefour
+2023-07-02,Ajo sprint 500 g,4.8390773411164485,carrefour
+2023-07-09,Ajo sprint 500 g,4.701720664619368,carrefour
+2023-07-16,Ajo sprint 500 g,4.507115361589677,carrefour
+2023-07-23,Ajo sprint 500 g,4.348386674352593,carrefour
+2023-07-30,Ajo sprint 500 g,4.28006325575931,carrefour
+2023-08-06,Ajo sprint 500 g,4.292626602581954,carrefour
+2023-08-13,Ajo sprint 500 g,4.344400470028515,carrefour
+2023-08-20,Ajo sprint 500 g,4.401256195135377,carrefour
+2023-08-27,Ajo sprint 500 g,4.44914509284273,carrefour
+2023-09-03,Ajo sprint 500 g,4.4854748545605885,carrefour
+2023-09-10,Ajo sprint 500 g,4.5094528769261695,carrefour
+2023-09-17,Ajo sprint 500 g,4.517845089296536,carrefour
+2023-09-24,Ajo sprint 500 g,4.503826969596305,carrefour
+2023-10-01,Ajo sprint 500 g,4.462135562006403,carrefour
+2023-10-08,Ajo sprint 500 g,4.402390187430657,carrefour
+2023-10-15,Ajo sprint 500 g,4.356674392941693,carrefour
+2023-10-22,Ajo sprint 500 g,4.362881825893964,carrefour
+2023-10-29,Ajo sprint 500 g,4.430757792527434,carrefour
+2023-11-05,Ajo sprint 500 g,4.526205765018383,carrefour
+2023-11-12,Ajo sprint 500 g,4.597643344081579,carrefour
+2023-11-19,Ajo sprint 500 g,4.6202833471894325,carrefour
+2023-11-26,Ajo sprint 500 g,4.608870480990469,carrefour
+2023-12-03,Ajo sprint 500 g,4.585739480639558,carrefour
+2023-12-10,Ajo sprint 500 g,4.548560616349079,carrefour
+2023-12-17,Ajo sprint 500 g,4.484330178421622,carrefour
+2023-12-24,Ajo sprint 500 g,4.412604796428175,carrefour
+2023-12-31,Ajo sprint 500 g,4.39220006221646,carrefour
+2024-01-07,Ajo sprint 500 g,4.4642689496374715,carrefour
+2024-01-14,Ajo sprint 500 g,4.592546962412801,carrefour
+2024-01-21,Ajo sprint 500 g,4.684086042878576,carrefour
+2024-01-28,Ajo sprint 500 g,4.685522572689231,carrefour
+2024-02-04,Ajo sprint 500 g,4.648360499637948,carrefour
+2024-02-11,Ajo sprint 500 g,4.674994126129656,carrefour
+2024-02-18,Ajo sprint 500 g,4.792966176428289,carrefour
+2024-02-25,Ajo sprint 500 g,4.903023374306025,carrefour
+2024-03-03,Ajo sprint 500 g,4.877055923655261,carrefour
+2024-03-10,Ajo sprint 500 g,4.708753277584326,carrefour
+2024-03-17,Ajo sprint 500 g,4.543178691132995,carrefour
+2024-03-24,Ajo sprint 500 g,4.535194403098271,carrefour
+2024-03-31,Ajo sprint 500 g,4.682029701723044,carrefour
+2024-04-07,Ajo sprint 500 g,4.8174154988738085,carrefour
+2024-04-14,Ajo sprint 500 g,4.784075212665287,carrefour
+2024-04-21,Ajo sprint 500 g,4.603029910858018,carrefour
+2024-04-28,Ajo sprint 500 g,4.456321745453588,carrefour
+2024-05-05,Ajo sprint 500 g,4.5003665590721695,carrefour
+2024-05-12,Ajo sprint 500 g,4.7084426246124025,carrefour
+2024-05-19,Ajo sprint 500 g,4.904323990108377,carrefour
+2024-05-26,Ajo sprint 500 g,4.941326787993944,carrefour
+2024-06-02,Ajo sprint 500 g,4.833900054169452,carrefour
+2024-06-09,Ajo sprint 500 g,4.715159751176985,carrefour
+2024-06-16,Ajo sprint 500 g,4.685153625078855,carrefour
+2024-06-23,Ajo sprint 500 g,4.717078590559032,carrefour
+2024-06-30,Ajo sprint 500 g,4.705805013159604,carrefour
+2024-07-07,Ajo sprint 500 g,4.586641403257067,carrefour
+2024-07-14,Ajo sprint 500 g,4.395427244839529,carrefour
+2024-07-21,Ajo sprint 500 g,4.2244234987517695,carrefour
+2024-07-28,Ajo sprint 500 g,4.139009091459007,carrefour
+2024-08-04,Ajo sprint 500 g,4.139880710877713,carrefour
+2024-08-11,Ajo sprint 500 g,4.187720542434484,carrefour
+2024-08-18,Ajo sprint 500 g,4.245224530456662,carrefour
+2024-08-25,Ajo sprint 500 g,4.295074140854248,carrefour
+2024-09-01,Ajo sprint 500 g,4.333498660802747,carrefour
+2024-09-08,Ajo sprint 500 g,4.359817735832976,carrefour
+2024-09-15,Ajo sprint 500 g,4.371403599407727,carrefour
+2024-09-22,Ajo sprint 500 g,4.361961178641171,carrefour
+2024-09-29,Ajo sprint 500 g,4.325128675505876,carrefour
+2024-10-06,Ajo sprint 500 g,4.266849321438723,carrefour
+2024-10-13,Ajo sprint 500 g,4.2155947026005895,carrefour
+2024-10-20,Ajo sprint 500 g,4.210583744972311,carrefour
+2024-10-27,Ajo sprint 500 g,4.26879052751147,carrefour
+2024-11-03,Ajo sprint 500 g,4.363209400330645,carrefour
+2024-11-10,Ajo sprint 500 g,4.44198583282053,carrefour
+2024-11-17,Ajo sprint 500 g,4.473170306241445,carrefour
+2024-11-24,Ajo sprint 500 g,4.465824907329751,carrefour
+2024-12-01,Ajo sprint 500 g,4.444112953238782,carrefour
+2024-12-08,Ajo sprint 500 g,4.41064844016936,carrefour
+2024-12-15,Ajo sprint 500 g,4.351225677095622,carrefour
+2024-12-22,Ajo sprint 500 g,4.277210612040948,carrefour
+2024-12-29,Ajo sprint 500 g,4.243078325059308,carrefour
+2025-01-05,Ajo sprint 500 g,4.298730061298625,carrefour
+2025-01-12,Ajo sprint 500 g,4.4231909652523544,carrefour
+2025-01-19,Ajo sprint 500 g,4.527733442834722,carrefour
+2025-01-26,Ajo sprint 500 g,4.544547036301901,carrefour
+2025-02-02,Ajo sprint 500 g,4.50664061020329,carrefour
+2025-02-09,Ajo sprint 500 g,4.51620527735898,carrefour
+2025-02-16,Ajo sprint 500 g,4.621969631670741,carrefour
+2025-02-23,Ajo sprint 500 g,4.744171908817069,carrefour
+2025-03-02,Ajo sprint 500 g,4.747938261579381,carrefour
+2025-03-09,Ajo sprint 500 g,4.597708420892981,carrefour
+2025-03-16,Ajo sprint 500 g,4.41792518476016,carrefour
+2025-03-23,Ajo sprint 500 g,4.376116422387914,carrefour
+2025-03-30,Ajo sprint 500 g,4.504349217131395,carrefour
+2025-04-06,Ajo sprint 500 g,4.656459855075854,carrefour
+2025-04-13,Ajo sprint 500 g,4.6579489121650575,carrefour
+2025-04-20,Ajo sprint 500 g,4.492676490988663,carrefour
+2025-04-27,Ajo sprint 500 g,4.32476317269122,carrefour
+2025-05-04,Ajo sprint 500 g,4.330610968609822,carrefour
+2025-05-11,Ajo sprint 500 g,4.51998213605822,carrefour
+2025-05-18,Ajo sprint 500 g,4.7321977873855205,carrefour
+2025-05-25,Ajo sprint 500 g,4.80165672771184,carrefour
+2025-06-01,Ajo sprint 500 g,4.711874782629142,carrefour
+2025-06-08,Ajo sprint 500 g,4.5848790178144485,carrefour
+2025-06-15,Ajo sprint 500 g,4.537183922725338,carrefour
+2025-06-22,Ajo sprint 500 g,4.565033777592003,carrefour
+2025-06-29,Ajo sprint 500 g,4.5687907743321565,carrefour
+2025-07-06,Ajo sprint 500 g,4.469105180978349,carrefour
+2025-07-13,Ajo sprint 500 g,4.284473125071112,carrefour
+2025-07-20,Ajo sprint 500 g,4.103381316543777,carrefour
+2025-07-27,Ajo sprint 500 g,4.000814607726892,carrefour
+2025-08-03,Ajo sprint 500 g,3.9886161831900915,carrefour
+2025-08-10,Ajo sprint 500 g,4.0312878454426135,carrefour
+2025-08-17,Ajo sprint 500 g,4.088913613527232,carrefour
+2025-08-24,Ajo sprint 500 g,4.140633594094858,carrefour
+2025-08-31,Ajo sprint 500 g,4.18114208020124,carrefour
+2025-09-07,Ajo sprint 500 g,4.209723744428129,carrefour
+2025-09-14,Ajo sprint 500 g,4.224295791297748,carrefour
+2025-09-21,Ajo sprint 500 g,4.219190436218866,carrefour
+2025-09-28,Ajo sprint 500 g,4.187371115424274,carrefour

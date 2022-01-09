@@ -10,7 +10,7 @@ def filter (frame, prod):
 
 prohibido = {'aceite de girasol':['atún','melva','anchoas','caballa','mayonesa','sardinillas','sardinas','paté','patatas','caballa','salsa','chipirones','caballa','melva','tomates','anchoa','potón','chipirones'],
 'aceite de oliva':[],
-'ajo':['polvo','perejil','salsa','crema','picado','sazonar','picado','troceado','polvo','perejil','panecillo','pan', 'salsa','tiras','ojos','papel'],
+'ajo':['uds','gel','tumaca','cebolla','patata','polvo','perejil','salsa','crema','picado','sazonar','picado','troceado','polvo','perejil','panecillo','pan', 'salsa','tiras','ojos','papel'],
 'albaricoque':['confitura','orejón','champú','orejones','mermelada','yogur','barritas','facial','bebida'],
 'arroz':[],
 'azucar':['pepitos','berlinas','palmera','ensaimada','panela','sin','bebida','magdalenas','bizcocho','sobaos'],
@@ -51,6 +51,6 @@ prohibido = {'aceite de girasol':['atún','melva','anchoas','caballa','mayonesa'
 'suero de leche':['fisiologico','fisiológico','desnatada','semidesnatada','entera'],
 'ternera':['perros','menestra','potitos','tarrito'],
 'tomate':['triturado','pelado','frito',],
-'uva':['zumo','bebida','crema','barritas','néctar'],
+'uva':['zumo','vino','bebida','crema','barritas','néctar'],
 'vino':[],
 'zanahoria':['refresco']}

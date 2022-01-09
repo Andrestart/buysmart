@@ -29,11 +29,23 @@ def giveid(prodname):
 
 def deletescrap():
     if supermarket == 'all':
-        c.engine.execute(f"""TRUNCATE `dia`;""")
-        c.engine.execute(f"""TRUNCATE `carrefour`;""")
-        c.engine.execute(f"""TRUNCATE `eroski`;""")
+        try:
+            c.engine.execute(f"""TRUNCATE `dia`;""")
+        except:
+            pass
+        try:
+            c.engine.execute(f"""TRUNCATE `carrefour`;""")
+        except:
+            pass
+        try:
+            c.engine.execute(f"""TRUNCATE `eroski`;""")
+        except:
+            pass
     else:
-        c.engine.execute(f"""TRUNCATE `{supermarket}`;""")
+        try:
+            c.engine.execute(f"""TRUNCATE `{supermarket}`;""")
+        except:
+            pass
 
 
     return print("All scraps previously saved have been deleted")

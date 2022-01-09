@@ -11,6 +11,7 @@ import numpy as np
 import warnings
 warnings.filterwarnings("ignore")
 
+#Crome options to use Selenium
 opciones=Options()
 opciones.add_experimental_option('excludeSwitches', ['enable-logging'])
 opciones.add_experimental_option('excludeSwitches', ['enable-automation'])
@@ -39,6 +40,8 @@ def scrap():
     frame = {}
 
     for f in foods:
+        #CARREFOUR
+
         if supermarket == 'carrefour':
             print(f"SCRAPPING {f} from {supermarket}...")
             for i in range(2,4):
@@ -57,8 +60,11 @@ def scrap():
                     except:
                         prices.append(np.nan)
                     try:
-                        names.append(driver.find_element_by_css_selector(f'#ebx-grid > article:nth-child({o}) > div > a.ebx-result-link.ebx-result__title-link.track-click > h1').text)
+                        #names.append(driver.find_element_by_css_selector(f'#ebx-grid > article:nth-child({o}) > div > a.ebx-result-link.ebx-result__title-link.track-click > h1').text)
                         driver.execute_script("window.scrollTo(0, window.scrollY + 300)")
+                        names.append(driver.find_element_by_css_selector(f'article.ebx-result:nth-child({o}) > div:nth-child(1) > a:nth-child(4) > h1:nth-child(1)').text)
+                        driver.execute_script("window.scrollTo(0, window.scrollY + 300)")
+
                     except:
                         names.append(np.nan)
                     try:
@@ -136,9 +142,11 @@ def scrap():
             newprice.append(row['price'])
 
     scrap['price'] = newprice
-    scrap.dropna(how='any',inplace=True)
+    scrap.dropna(how='any', inplace=True)
+
     scrap['price'] = [float((i.replace(",",".").replace("€","").strip())) for i in scrap['price']]
-    scrap['name'] = [(i.replace("%","por ciento").strip()) for i in scrap['name']]
+    scrap['name'] = [(i.replace("%","por ciento").replace("."," ").strip()) for i in scrap['name']]
+    scrap.dropna(how='any', inplace=True)
 
 
     if not os.path.exists(f"../mydata/scraps_{supermarket}"):
@@ -153,11 +161,13 @@ def scrap():
 def scrapall():
     warnings.filterwarnings("ignore")
 
+    #GET THE FOODS LIST
     data = pd.read_csv("../mydata/cleandata/data.csv")
     data.index=data.date
     data.drop('date',axis=1,inplace=True)
+    foods = sorted(list(set(data['product'])))   
 
-    foods = sorted(list(set(data['product'])))    
+    #START CHROME DIRVER 
     driver = "../driver/chromedriver.exe"
     driver = webdriver.Chrome(driver, options=opciones)
 
@@ -181,7 +191,7 @@ def scrapall():
                 time.sleep(0.7)
             except:
                 pass
-            for o in range(1,50): #price, scroll, product, supermarket, link and name
+            for o in range(1,50): # Get price, scroll, product, supermarket, link and name
                 try:
                     prices.append(driver.find_element_by_css_selector(f'#ebx-grid > article:nth-child({o}) > div > span').text.split("€")[0])
                     driver.execute_script("window.scrollTo(0, window.scrollY + 300)")
@@ -199,20 +209,22 @@ def scrapall():
                 prod.append(f)
                 sup.append(supermarket)
     
-    print("prices",len(prices))
-    print("prod", len(prod))
-    print("links", len(links))
-    print("sup", len(sup))
-    print(f"names", len(names))
+    #Check how many items we got for each category
+    print(len(prices), "prices")
+    print(len(prod), "prod")
+    print(len(links), "links")
+    print(len(sup), "sup")
+    print(len(names), "names")
 
-
+    #Insert the values from lists in the "frame" dictionary and make a dataframe called "scrap"
     frame['price'] = prices
     frame['product'] = prod
     frame['supermarket'] = sup
     frame['link'] = links
     frame['name'] = names
-
     scrap = pd.DataFrame(frame)
+
+    #If price is empty, append a Nan and then drop all rows with a Nan
     for i, row in scrap.iterrows():
         if row['price'] == '':
             newprice.append(np.nan)
@@ -221,13 +233,18 @@ def scrapall():
 
     scrap['price'] = newprice
     scrap.dropna(how='any',inplace=True)
+
+    #Replace special characters for SQL
     scrap['price'] = [float((i.replace(",",".").replace("€","").strip())) for i in scrap['price']]
     scrap['name'] = [(i.replace("%","por ciento").strip()) for i in scrap['name']]
+    scrap['name'] = [(i.replace(".","").strip()) for i in scrap['name']]
 
-
+    #Create the folder and save file with the scrap
     if not os.path.exists(f"../mydata/scraps_{supermarket}"):
         os.makedirs(f"../mydata/scraps_{supermarket}")
     now = str(datetime.now())[:19].replace(":","_")
+
+    #Save one with the data and other with a default name so we can rewrite it
     scrap.to_csv(f'../mydata/scraps_{supermarket}/{now}.csv', index=False)
     scrap.to_csv(f'../mydata/scraps_{supermarket}/scrap.csv', index=False)
     print(f"I have saved the scrap from {supermarket}")
@@ -293,6 +310,8 @@ def scrapall():
     scrap.dropna(how='any',inplace=True)
     scrap['price'] = [float((i.replace(",",".").replace("€","").strip())) for i in scrap['price']]
     scrap['name'] = [(i.replace("%","por ciento").strip()) for i in scrap['name']]
+    scrap['name'] = [(i.replace(".","").strip()) for i in scrap['name']]
+
 
 
     if not os.path.exists(f"../mydata/scraps_{supermarket}"):
@@ -353,6 +372,7 @@ def scrapall():
     scrap.dropna(how='any',inplace=True)
     scrap['price'] = [float((i.replace(",",".").replace("€","").strip())) for i in scrap['price']]
     scrap['name'] = [(i.replace("%","por ciento").strip()) for i in scrap['name']]
+    scrap['name'] = [(i.replace(".","").strip()) for i in scrap['name']]
 
 
     if not os.path.exists(f"../mydata/scraps_{supermarket}"):
@@ -364,10 +384,13 @@ def scrapall():
 
     return print(f"""All scrappings have been correctly saved. NOW it's time to change your environment to predict the prices. Use one that contains fbprophet and run 'predict.py'""")
 
-superm=input("\n\nType 'one' if you want to scrap only one super market or 'all' to scrap them all\n\n")
-if superm == 'all':
-    scrapall()
-elif superm == 'one':
-    scrap()
-else:
-    print("\n\nPlease type 'one' or 'all' to choose what to scrap\n\n")
+def choosesuper():
+    superm=input("\n\nType 'one' if you want to scrap only one super market or 'all' to scrap them all\n\n")
+    if superm == 'all':
+        scrapall()
+    elif superm == 'one':
+        scrap()
+    else:
+        print("\n\nPlease type 'one' or 'all' to choose what to scrap\n\n")
+
+choosesuper()
