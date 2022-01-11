@@ -1,196 +1,200 @@
 date,Name,Price,Super
-2022-01-02,Ajo sprint 500 g,4.7,carrefour
-2022-01-16,Ajo sprint 500 g,4.926856399206647,carrefour
-2022-01-23,Ajo sprint 500 g,4.987254123522701,carrefour
-2022-01-30,Ajo sprint 500 g,4.9639303548068066,carrefour
-2022-02-06,Ajo sprint 500 g,4.939065888644367,carrefour
-2022-02-13,Ajo sprint 500 g,5.002158697695616,carrefour
-2022-02-20,Ajo sprint 500 g,5.133598439728071,carrefour
-2022-02-27,Ajo sprint 500 g,5.206142980671143,carrefour
-2022-03-06,Ajo sprint 500 g,5.120877251625515,carrefour
-2022-03-13,Ajo sprint 500 g,4.932138435138634,carrefour
-2022-03-20,Ajo sprint 500 g,4.8106780694495175,carrefour
-2022-03-27,Ajo sprint 500 g,4.868913809945123,carrefour
-2022-04-03,Ajo sprint 500 g,5.034993690773187,carrefour
-2022-04-10,Ajo sprint 500 g,5.12115977385675,carrefour
-2022-04-17,Ajo sprint 500 g,5.021608968682636,carrefour
-2022-04-24,Ajo sprint 500 g,4.82851791873926,carrefour
-2022-05-01,Ajo sprint 500 g,4.739703811578698,carrefour
-2022-05-08,Ajo sprint 500 g,4.8560348576786945,carrefour
-2022-05-15,Ajo sprint 500 g,5.082725797497437,carrefour
-2022-05-22,Ajo sprint 500 g,5.231567688652923,carrefour
-2022-05-29,Ajo sprint 500 g,5.2064784755051,carrefour
-2022-06-05,Ajo sprint 500 g,5.078062862221304,carrefour
-2022-06-12,Ajo sprint 500 g,4.9855268264282815,carrefour
-2022-06-19,Ajo sprint 500 g,4.987122895267408,carrefour
-2022-06-26,Ajo sprint 500 g,5.016030399174761,carrefour
-2022-07-03,Ajo sprint 500 g,4.968583165391383,carrefour
-2022-07-10,Ajo sprint 500 g,4.814860372868211,carrefour
-2022-07-17,Ajo sprint 500 g,4.620070677972382,carrefour
-2022-07-24,Ajo sprint 500 g,4.4754202887948145,carrefour
-2022-07-31,Ajo sprint 500 g,4.423780736112463,carrefour
-2022-08-07,Ajo sprint 500 g,4.446591258776325,carrefour
-2022-08-14,Ajo sprint 500 g,4.501182874006116,carrefour
-2022-08-21,Ajo sprint 500 g,4.556973313730668,carrefour
-2022-08-28,Ajo sprint 500 g,4.60284524466638,carrefour
-2022-09-04,Ajo sprint 500 g,4.637063884872563,carrefour
-2022-09-11,Ajo sprint 500 g,4.65860234817572,carrefour
-2022-09-18,Ajo sprint 500 g,4.663571938166093,carrefour
-2022-09-25,Ajo sprint 500 g,4.644770621415988,carrefour
-2022-10-02,Ajo sprint 500 g,4.598498997496075,carrefour
-2022-10-09,Ajo sprint 500 g,4.538355441154549,carrefour
-2022-10-16,Ajo sprint 500 g,4.499489086285796,carrefour
-2022-10-23,Ajo sprint 500 g,4.517276832540678,carrefour
-2022-10-30,Ajo sprint 500 g,4.593657265538697,carrefour
-2022-11-06,Ajo sprint 500 g,4.688354353385073,carrefour
-2022-11-13,Ajo sprint 500 g,4.751623781963824,carrefour
-2022-11-20,Ajo sprint 500 g,4.766290594979258,carrefour
-2022-11-27,Ajo sprint 500 g,4.751626057069479,carrefour
-2022-12-04,Ajo sprint 500 g,4.7269590845245295,carrefour
-2022-12-11,Ajo sprint 500 g,4.685511429033969,carrefour
-2022-12-18,Ajo sprint 500 g,4.61706678821751,carrefour
-2022-12-25,Ajo sprint 500 g,4.549678096473892,carrefour
-2023-01-01,Ajo sprint 500 g,4.544503131187195,carrefour
-2023-01-08,Ajo sprint 500 g,4.6317789858905165,carrefour
-2023-01-15,Ajo sprint 500 g,4.760618099428276,carrefour
-2023-01-22,Ajo sprint 500 g,4.837245789956759,carrefour
-2023-01-29,Ajo sprint 500 g,4.82510493505748,carrefour
-2023-02-05,Ajo sprint 500 g,4.792336891274452,carrefour
-2023-02-12,Ajo sprint 500 g,4.83708468294079,carrefour
-2023-02-19,Ajo sprint 500 g,4.963808020609485,carrefour
-2023-02-26,Ajo sprint 500 g,5.057174475076417,carrefour
-2023-03-05,Ajo sprint 500 g,5.001173731942653,carrefour
-2023-03-12,Ajo sprint 500 g,4.819848052055991,carrefour
-2023-03-19,Ajo sprint 500 g,4.673929472561538,carrefour
-2023-03-26,Ajo sprint 500 g,4.699704124249978,carrefour
-2023-04-02,Ajo sprint 500 g,4.8593210520576715,carrefour
-2023-04-09,Ajo sprint 500 g,4.972454999577162,carrefour
-2023-04-16,Ajo sprint 500 g,4.905007336122864,carrefour
-2023-04-23,Ajo sprint 500 g,4.7145566910126355,carrefour
-2023-04-30,Ajo sprint 500 g,4.594513371981985,carrefour
-2023-05-07,Ajo sprint 500 g,4.675796703074679,carrefour
-2023-05-14,Ajo sprint 500 g,4.896417355541095,carrefour
-2023-05-21,Ajo sprint 500 g,5.070897079096867,carrefour
-2023-05-28,Ajo sprint 500 g,5.076042137287661,carrefour
-2023-06-04,Ajo sprint 500 g,4.9556753094991475,carrefour
-2023-06-11,Ajo sprint 500 g,4.848655431757271,carrefour
-2023-06-18,Ajo sprint 500 g,4.83532709775753,carrefour
-2023-06-25,Ajo sprint 500 g,4.867615900622361,carrefour
-2023-07-02,Ajo sprint 500 g,4.8390773411164485,carrefour
-2023-07-09,Ajo sprint 500 g,4.701720664619368,carrefour
-2023-07-16,Ajo sprint 500 g,4.507115361589677,carrefour
-2023-07-23,Ajo sprint 500 g,4.348386674352593,carrefour
-2023-07-30,Ajo sprint 500 g,4.28006325575931,carrefour
-2023-08-06,Ajo sprint 500 g,4.292626602581954,carrefour
-2023-08-13,Ajo sprint 500 g,4.344400470028515,carrefour
-2023-08-20,Ajo sprint 500 g,4.401256195135377,carrefour
-2023-08-27,Ajo sprint 500 g,4.44914509284273,carrefour
-2023-09-03,Ajo sprint 500 g,4.4854748545605885,carrefour
-2023-09-10,Ajo sprint 500 g,4.5094528769261695,carrefour
-2023-09-17,Ajo sprint 500 g,4.517845089296536,carrefour
-2023-09-24,Ajo sprint 500 g,4.503826969596305,carrefour
-2023-10-01,Ajo sprint 500 g,4.462135562006403,carrefour
-2023-10-08,Ajo sprint 500 g,4.402390187430657,carrefour
-2023-10-15,Ajo sprint 500 g,4.356674392941693,carrefour
-2023-10-22,Ajo sprint 500 g,4.362881825893964,carrefour
-2023-10-29,Ajo sprint 500 g,4.430757792527434,carrefour
-2023-11-05,Ajo sprint 500 g,4.526205765018383,carrefour
-2023-11-12,Ajo sprint 500 g,4.597643344081579,carrefour
-2023-11-19,Ajo sprint 500 g,4.6202833471894325,carrefour
-2023-11-26,Ajo sprint 500 g,4.608870480990469,carrefour
-2023-12-03,Ajo sprint 500 g,4.585739480639558,carrefour
-2023-12-10,Ajo sprint 500 g,4.548560616349079,carrefour
-2023-12-17,Ajo sprint 500 g,4.484330178421622,carrefour
-2023-12-24,Ajo sprint 500 g,4.412604796428175,carrefour
-2023-12-31,Ajo sprint 500 g,4.39220006221646,carrefour
-2024-01-07,Ajo sprint 500 g,4.4642689496374715,carrefour
-2024-01-14,Ajo sprint 500 g,4.592546962412801,carrefour
-2024-01-21,Ajo sprint 500 g,4.684086042878576,carrefour
-2024-01-28,Ajo sprint 500 g,4.685522572689231,carrefour
-2024-02-04,Ajo sprint 500 g,4.648360499637948,carrefour
-2024-02-11,Ajo sprint 500 g,4.674994126129656,carrefour
-2024-02-18,Ajo sprint 500 g,4.792966176428289,carrefour
-2024-02-25,Ajo sprint 500 g,4.903023374306025,carrefour
-2024-03-03,Ajo sprint 500 g,4.877055923655261,carrefour
-2024-03-10,Ajo sprint 500 g,4.708753277584326,carrefour
-2024-03-17,Ajo sprint 500 g,4.543178691132995,carrefour
-2024-03-24,Ajo sprint 500 g,4.535194403098271,carrefour
-2024-03-31,Ajo sprint 500 g,4.682029701723044,carrefour
-2024-04-07,Ajo sprint 500 g,4.8174154988738085,carrefour
-2024-04-14,Ajo sprint 500 g,4.784075212665287,carrefour
-2024-04-21,Ajo sprint 500 g,4.603029910858018,carrefour
-2024-04-28,Ajo sprint 500 g,4.456321745453588,carrefour
-2024-05-05,Ajo sprint 500 g,4.5003665590721695,carrefour
-2024-05-12,Ajo sprint 500 g,4.7084426246124025,carrefour
-2024-05-19,Ajo sprint 500 g,4.904323990108377,carrefour
-2024-05-26,Ajo sprint 500 g,4.941326787993944,carrefour
-2024-06-02,Ajo sprint 500 g,4.833900054169452,carrefour
-2024-06-09,Ajo sprint 500 g,4.715159751176985,carrefour
-2024-06-16,Ajo sprint 500 g,4.685153625078855,carrefour
-2024-06-23,Ajo sprint 500 g,4.717078590559032,carrefour
-2024-06-30,Ajo sprint 500 g,4.705805013159604,carrefour
-2024-07-07,Ajo sprint 500 g,4.586641403257067,carrefour
-2024-07-14,Ajo sprint 500 g,4.395427244839529,carrefour
-2024-07-21,Ajo sprint 500 g,4.2244234987517695,carrefour
-2024-07-28,Ajo sprint 500 g,4.139009091459007,carrefour
-2024-08-04,Ajo sprint 500 g,4.139880710877713,carrefour
-2024-08-11,Ajo sprint 500 g,4.187720542434484,carrefour
-2024-08-18,Ajo sprint 500 g,4.245224530456662,carrefour
-2024-08-25,Ajo sprint 500 g,4.295074140854248,carrefour
-2024-09-01,Ajo sprint 500 g,4.333498660802747,carrefour
-2024-09-08,Ajo sprint 500 g,4.359817735832976,carrefour
-2024-09-15,Ajo sprint 500 g,4.371403599407727,carrefour
-2024-09-22,Ajo sprint 500 g,4.361961178641171,carrefour
-2024-09-29,Ajo sprint 500 g,4.325128675505876,carrefour
-2024-10-06,Ajo sprint 500 g,4.266849321438723,carrefour
-2024-10-13,Ajo sprint 500 g,4.2155947026005895,carrefour
-2024-10-20,Ajo sprint 500 g,4.210583744972311,carrefour
-2024-10-27,Ajo sprint 500 g,4.26879052751147,carrefour
-2024-11-03,Ajo sprint 500 g,4.363209400330645,carrefour
-2024-11-10,Ajo sprint 500 g,4.44198583282053,carrefour
-2024-11-17,Ajo sprint 500 g,4.473170306241445,carrefour
-2024-11-24,Ajo sprint 500 g,4.465824907329751,carrefour
-2024-12-01,Ajo sprint 500 g,4.444112953238782,carrefour
-2024-12-08,Ajo sprint 500 g,4.41064844016936,carrefour
-2024-12-15,Ajo sprint 500 g,4.351225677095622,carrefour
-2024-12-22,Ajo sprint 500 g,4.277210612040948,carrefour
-2024-12-29,Ajo sprint 500 g,4.243078325059308,carrefour
-2025-01-05,Ajo sprint 500 g,4.298730061298625,carrefour
-2025-01-12,Ajo sprint 500 g,4.4231909652523544,carrefour
-2025-01-19,Ajo sprint 500 g,4.527733442834722,carrefour
-2025-01-26,Ajo sprint 500 g,4.544547036301901,carrefour
-2025-02-02,Ajo sprint 500 g,4.50664061020329,carrefour
-2025-02-09,Ajo sprint 500 g,4.51620527735898,carrefour
-2025-02-16,Ajo sprint 500 g,4.621969631670741,carrefour
-2025-02-23,Ajo sprint 500 g,4.744171908817069,carrefour
-2025-03-02,Ajo sprint 500 g,4.747938261579381,carrefour
-2025-03-09,Ajo sprint 500 g,4.597708420892981,carrefour
-2025-03-16,Ajo sprint 500 g,4.41792518476016,carrefour
-2025-03-23,Ajo sprint 500 g,4.376116422387914,carrefour
-2025-03-30,Ajo sprint 500 g,4.504349217131395,carrefour
-2025-04-06,Ajo sprint 500 g,4.656459855075854,carrefour
-2025-04-13,Ajo sprint 500 g,4.6579489121650575,carrefour
-2025-04-20,Ajo sprint 500 g,4.492676490988663,carrefour
-2025-04-27,Ajo sprint 500 g,4.32476317269122,carrefour
-2025-05-04,Ajo sprint 500 g,4.330610968609822,carrefour
-2025-05-11,Ajo sprint 500 g,4.51998213605822,carrefour
-2025-05-18,Ajo sprint 500 g,4.7321977873855205,carrefour
-2025-05-25,Ajo sprint 500 g,4.80165672771184,carrefour
-2025-06-01,Ajo sprint 500 g,4.711874782629142,carrefour
-2025-06-08,Ajo sprint 500 g,4.5848790178144485,carrefour
-2025-06-15,Ajo sprint 500 g,4.537183922725338,carrefour
-2025-06-22,Ajo sprint 500 g,4.565033777592003,carrefour
-2025-06-29,Ajo sprint 500 g,4.5687907743321565,carrefour
-2025-07-06,Ajo sprint 500 g,4.469105180978349,carrefour
-2025-07-13,Ajo sprint 500 g,4.284473125071112,carrefour
-2025-07-20,Ajo sprint 500 g,4.103381316543777,carrefour
-2025-07-27,Ajo sprint 500 g,4.000814607726892,carrefour
-2025-08-03,Ajo sprint 500 g,3.9886161831900915,carrefour
-2025-08-10,Ajo sprint 500 g,4.0312878454426135,carrefour
-2025-08-17,Ajo sprint 500 g,4.088913613527232,carrefour
-2025-08-24,Ajo sprint 500 g,4.140633594094858,carrefour
-2025-08-31,Ajo sprint 500 g,4.18114208020124,carrefour
-2025-09-07,Ajo sprint 500 g,4.209723744428129,carrefour
-2025-09-14,Ajo sprint 500 g,4.224295791297748,carrefour
-2025-09-21,Ajo sprint 500 g,4.219190436218866,carrefour
-2025-09-28,Ajo sprint 500 g,4.187371115424274,carrefour
+2022-01-09,Cuello de cordero Círculo de Calidad 500 g aprox,8.5,carrefour
+2022-01-16,Cuello de cordero Círculo de Calidad 500 g aprox,8.46740284644006,carrefour
+2022-01-23,Cuello de cordero Círculo de Calidad 500 g aprox,8.564669592983515,carrefour
+2022-01-30,Cuello de cordero Círculo de Calidad 500 g aprox,8.680752258697,carrefour
+2022-02-06,Cuello de cordero Círculo de Calidad 500 g aprox,8.681119433078711,carrefour
+2022-02-13,Cuello de cordero Círculo de Calidad 500 g aprox,8.530676362764023,carrefour
+2022-02-20,Cuello de cordero Círculo de Calidad 500 g aprox,8.327726104227139,carrefour
+2022-02-27,Cuello de cordero Círculo de Calidad 500 g aprox,8.214815453306628,carrefour
+2022-03-06,Cuello de cordero Círculo de Calidad 500 g aprox,8.251273894380462,carrefour
+2022-03-13,Cuello de cordero Círculo de Calidad 500 g aprox,8.367138569235433,carrefour
+2022-03-20,Cuello de cordero Círculo de Calidad 500 g aprox,8.43655724892553,carrefour
+2022-03-27,Cuello de cordero Círculo de Calidad 500 g aprox,8.39475857890239,carrefour
+2022-04-03,Cuello de cordero Círculo de Calidad 500 g aprox,8.28792708649943,carrefour
+2022-04-10,Cuello de cordero Círculo de Calidad 500 g aprox,8.217417110298054,carrefour
+2022-04-17,Cuello de cordero Círculo de Calidad 500 g aprox,8.24124742706345,carrefour
+2022-04-24,Cuello de cordero Círculo de Calidad 500 g aprox,8.327986035161377,carrefour
+2022-05-01,Cuello de cordero Círculo de Calidad 500 g aprox,8.39798817986432,carrefour
+2022-05-08,Cuello de cordero Círculo de Calidad 500 g aprox,8.401643054041017,carrefour
+2022-05-15,Cuello de cordero Círculo de Calidad 500 g aprox,8.357198269842545,carrefour
+2022-05-22,Cuello de cordero Círculo de Calidad 500 g aprox,8.320100921681703,carrefour
+2022-05-29,Cuello de cordero Círculo de Calidad 500 g aprox,8.324809040416522,carrefour
+2022-06-05,Cuello de cordero Círculo de Calidad 500 g aprox,8.359856979769695,carrefour
+2022-06-12,Cuello de cordero Círculo de Calidad 500 g aprox,8.394405921218617,carrefour
+2022-06-19,Cuello de cordero Círculo de Calidad 500 g aprox,8.419076168290282,carrefour
+2022-06-26,Cuello de cordero Círculo de Calidad 500 g aprox,8.453239428820526,carrefour
+2022-07-03,Cuello de cordero Círculo de Calidad 500 g aprox,8.51276229393925,carrefour
+2022-07-10,Cuello de cordero Círculo de Calidad 500 g aprox,8.579035062975423,carrefour
+2022-07-17,Cuello de cordero Círculo de Calidad 500 g aprox,8.610414300671204,carrefour
+2022-07-24,Cuello de cordero Círculo de Calidad 500 g aprox,8.589519542276912,carrefour
+2022-07-31,Cuello de cordero Círculo de Calidad 500 g aprox,8.555322994986547,carrefour
+2022-08-07,Cuello de cordero Círculo de Calidad 500 g aprox,8.578309146330511,carrefour
+2022-08-14,Cuello de cordero Círculo de Calidad 500 g aprox,8.695055388204116,carrefour
+2022-08-21,Cuello de cordero Círculo de Calidad 500 g aprox,8.865905163006937,carrefour
+2022-08-28,Cuello de cordero Círculo de Calidad 500 g aprox,9.002752726879576,carrefour
+2022-09-04,Cuello de cordero Círculo de Calidad 500 g aprox,9.04524665486251,carrefour
+2022-09-11,Cuello de cordero Círculo de Calidad 500 g aprox,9.012493842974257,carrefour
+2022-09-18,Cuello de cordero Círculo de Calidad 500 g aprox,8.979432739711882,carrefour
+2022-09-25,Cuello de cordero Círculo de Calidad 500 g aprox,9.00273095049984,carrefour
+2022-10-02,Cuello de cordero Círculo de Calidad 500 g aprox,9.07196528687713,carrefour
+2022-10-09,Cuello de cordero Círculo de Calidad 500 g aprox,9.13340879611216,carrefour
+2022-10-16,Cuello de cordero Círculo de Calidad 500 g aprox,9.15585572977451,carrefour
+2022-10-23,Cuello de cordero Círculo de Calidad 500 g aprox,9.16471627906178,carrefour
+2022-10-30,Cuello de cordero Círculo de Calidad 500 g aprox,9.208897375927,carrefour
+2022-11-06,Cuello de cordero Círculo de Calidad 500 g aprox,9.30143265233056,carrefour
+2022-11-13,Cuello de cordero Círculo de Calidad 500 g aprox,9.403241160592685,carrefour
+2022-11-20,Cuello de cordero Círculo de Calidad 500 g aprox,9.467724030377852,carrefour
+2022-11-27,Cuello de cordero Círculo de Calidad 500 g aprox,9.491792359718843,carrefour
+2022-12-04,Cuello de cordero Círculo de Calidad 500 g aprox,9.510755833987977,carrefour
+2022-12-11,Cuello de cordero Círculo de Calidad 500 g aprox,9.541837455585327,carrefour
+2022-12-18,Cuello de cordero Círculo de Calidad 500 g aprox,9.546447128751023,carrefour
+2022-12-25,Cuello de cordero Círculo de Calidad 500 g aprox,9.465478660020642,carrefour
+2023-01-01,Cuello de cordero Círculo de Calidad 500 g aprox,9.297116229613735,carrefour
+2023-01-08,Cuello de cordero Círculo de Calidad 500 g aprox,9.128073378074307,carrefour
+2023-01-15,Cuello de cordero Círculo de Calidad 500 g aprox,9.069152098761817,carrefour
+2023-01-22,Cuello de cordero Círculo de Calidad 500 g aprox,9.148684447082024,carrefour
+2023-01-29,Cuello de cordero Círculo de Calidad 500 g aprox,9.272394779673006,carrefour
+2023-02-05,Cuello de cordero Círculo de Calidad 500 g aprox,9.30006903438303,carrefour
+2023-02-12,Cuello de cordero Círculo de Calidad 500 g aprox,9.172619618875459,carrefour
+2023-02-19,Cuello de cordero Círculo de Calidad 500 g aprox,8.968056586478337,carrefour
+2023-02-26,Cuello de cordero Círculo de Calidad 500 g aprox,8.830993232886234,carrefour
+2023-03-05,Cuello de cordero Círculo de Calidad 500 g aprox,8.842551104242425,carrefour
+2023-03-12,Cuello de cordero Círculo de Calidad 500 g aprox,8.95346777870907,carrefour
+2023-03-19,Cuello de cordero Círculo de Calidad 500 g aprox,9.038968549884592,carrefour
+2023-03-26,Cuello de cordero Círculo de Calidad 500 g aprox,9.016647471011618,carrefour
+2023-04-02,Cuello de cordero Círculo de Calidad 500 g aprox,8.91425862296161,carrefour
+2023-04-09,Cuello de cordero Círculo de Calidad 500 g aprox,8.830645676823195,carrefour
+2023-04-16,Cuello de cordero Círculo de Calidad 500 g aprox,8.837446631924337,carrefour
+2023-04-23,Cuello de cordero Círculo de Calidad 500 g aprox,8.918445536347996,carrefour
+2023-04-30,Cuello de cordero Círculo de Calidad 500 g aprox,8.996836933543834,carrefour
+2023-05-07,Cuello de cordero Círculo de Calidad 500 g aprox,9.01290545181893,carrefour
+2023-05-14,Cuello de cordero Círculo de Calidad 500 g aprox,8.973266947151185,carrefour
+2023-05-21,Cuello de cordero Círculo de Calidad 500 g aprox,8.931080891734517,carrefour
+2023-05-28,Cuello de cordero Círculo de Calidad 500 g aprox,8.927942347407244,carrefour
+2023-06-04,Cuello de cordero Círculo de Calidad 500 g aprox,8.95988321663189,carrefour
+2023-06-11,Cuello de cordero Círculo de Calidad 500 g aprox,8.996202616441801,carrefour
+2023-06-18,Cuello de cordero Círculo de Calidad 500 g aprox,9.02177748334774,carrefour
+2023-06-25,Cuello de cordero Círculo de Calidad 500 g aprox,9.052420595099994,carrefour
+2023-07-02,Cuello de cordero Círculo de Calidad 500 g aprox,9.10763726563932,carrefour
+2023-07-09,Cuello de cordero Círculo de Calidad 500 g aprox,9.175616396046403,carrefour
+2023-07-16,Cuello de cordero Círculo de Calidad 500 g aprox,9.215871188669514,carrefour
+2023-07-23,Cuello de cordero Círculo de Calidad 500 g aprox,9.203116797297733,carrefour
+2023-07-30,Cuello de cordero Círculo de Calidad 500 g aprox,9.16626520133445,carrefour
+2023-08-06,Cuello de cordero Círculo de Calidad 500 g aprox,9.174502338482343,carrefour
+2023-08-13,Cuello de cordero Círculo de Calidad 500 g aprox,9.275143562326146,carrefour
+2023-08-20,Cuello de cordero Círculo de Calidad 500 g aprox,9.442289826208093,carrefour
+2023-08-27,Cuello de cordero Círculo de Calidad 500 g aprox,9.591465353418867,carrefour
+2023-09-03,Cuello de cordero Círculo de Calidad 500 g aprox,9.651852028771362,carrefour
+2023-09-10,Cuello de cordero Círculo de Calidad 500 g aprox,9.62778241506833,carrefour
+2023-09-17,Cuello de cordero Círculo de Calidad 500 g aprox,9.589097941971547,carrefour
+2023-09-24,Cuello de cordero Círculo de Calidad 500 g aprox,9.601043771083441,carrefour
+2023-10-01,Cuello de cordero Círculo de Calidad 500 g aprox,9.665583034864303,carrefour
+2023-10-08,Cuello de cordero Círculo de Calidad 500 g aprox,9.732171654791307,carrefour
+2023-10-15,Cuello de cordero Círculo de Calidad 500 g aprox,9.761276771029674,carrefour
+2023-10-22,Cuello de cordero Círculo de Calidad 500 g aprox,9.768821827104103,carrefour
+2023-10-29,Cuello de cordero Círculo de Calidad 500 g aprox,9.80409774024602,carrefour
+2023-11-05,Cuello de cordero Círculo de Calidad 500 g aprox,9.889677642539114,carrefour
+2023-11-12,Cuello de cordero Círculo de Calidad 500 g aprox,9.993877495615541,carrefour
+2023-11-19,Cuello de cordero Círculo de Calidad 500 g aprox,10.066856680254052,carrefour
+2023-11-26,Cuello de cordero Círculo de Calidad 500 g aprox,10.09606830760306,carrefour
+2023-12-03,Cuello de cordero Círculo de Calidad 500 g aprox,10.113332724973532,carrefour
+2023-12-10,Cuello de cordero Círculo de Calidad 500 g aprox,10.14348126735529,carrefour
+2023-12-17,Cuello de cordero Círculo de Calidad 500 g aprox,10.15755730406029,carrefour
+2023-12-24,Cuello de cordero Círculo de Calidad 500 g aprox,10.09457355253616,carrefour
+2023-12-31,Cuello de cordero Círculo de Calidad 500 g aprox,9.937695369811934,carrefour
+2024-01-07,Cuello de cordero Círculo de Calidad 500 g aprox,9.759896868119258,carrefour
+2024-01-14,Cuello de cordero Círculo de Calidad 500 g aprox,9.675679314452362,carrefour
+2024-01-21,Cuello de cordero Círculo de Calidad 500 g aprox,9.734247090596275,carrefour
+2024-01-28,Cuello de cordero Círculo de Calidad 500 g aprox,9.860737641208686,carrefour
+2024-02-04,Cuello de cordero Círculo de Calidad 500 g aprox,9.913668226523814,carrefour
+2024-02-11,Cuello de cordero Círculo de Calidad 500 g aprox,9.811908584083051,carrefour
+2024-02-18,Cuello de cordero Círculo de Calidad 500 g aprox,9.610728644441988,carrefour
+2024-02-25,Cuello de cordero Círculo de Calidad 500 g aprox,9.452294850686062,carrefour
+2024-03-03,Cuello de cordero Círculo de Calidad 500 g aprox,9.437215860029326,carrefour
+2024-03-10,Cuello de cordero Círculo de Calidad 500 g aprox,9.53885665217832,carrefour
+2024-03-17,Cuello de cordero Círculo de Calidad 500 g aprox,9.637614972198275,carrefour
+2024-03-24,Cuello de cordero Círculo de Calidad 500 g aprox,9.635776999252226,carrefour
+2024-03-31,Cuello de cordero Círculo de Calidad 500 g aprox,9.54127489561973,carrefour
+2024-04-07,Cuello de cordero Círculo de Calidad 500 g aprox,9.447019093169388,carrefour
+2024-04-14,Cuello de cordero Círculo de Calidad 500 g aprox,9.436187497126562,carrefour
+2024-04-21,Cuello de cordero Círculo de Calidad 500 g aprox,9.508765585610504,carrefour
+2024-04-28,Cuello de cordero Círculo de Calidad 500 g aprox,9.59349946685071,carrefour
+2024-05-05,Cuello de cordero Círculo de Calidad 500 g aprox,9.62225668005958,carrefour
+2024-05-12,Cuello de cordero Círculo de Calidad 500 g aprox,9.589294685676233,carrefour
+2024-05-19,Cuello de cordero Círculo de Calidad 500 g aprox,9.54344509056675,carrefour
+2024-05-26,Cuello de cordero Círculo de Calidad 500 g aprox,9.532272387938667,carrefour
+2024-06-02,Cuello de cordero Círculo de Calidad 500 g aprox,9.559997444432243,carrefour
+2024-06-09,Cuello de cordero Círculo de Calidad 500 g aprox,9.597559188959577,carrefour
+2024-06-16,Cuello de cordero Círculo de Calidad 500 g aprox,9.624627541584651,carrefour
+2024-06-23,Cuello de cordero Círculo de Calidad 500 g aprox,9.652481546452872,carrefour
+2024-06-30,Cuello de cordero Círculo de Calidad 500 g aprox,9.703010391304549,carrefour
+2024-07-07,Cuello de cordero Círculo de Calidad 500 g aprox,9.771273091113054,carrefour
+2024-07-14,Cuello de cordero Círculo de Calidad 500 g aprox,9.819476793356237,carrefour
+2024-07-21,Cuello de cordero Círculo de Calidad 500 g aprox,9.815821940643112,carrefour
+2024-07-28,Cuello de cordero Círculo de Calidad 500 g aprox,9.778705300698507,carrefour
+2024-08-04,Cuello de cordero Círculo de Calidad 500 g aprox,9.773857113636916,carrefour
+2024-08-11,Cuello de cordero Círculo de Calidad 500 g aprox,9.857526777462269,carrefour
+2024-08-18,Cuello de cordero Círculo de Calidad 500 g aprox,10.018062174636418,carrefour
+2024-08-25,Cuello de cordero Círculo de Calidad 500 g aprox,10.177124412769972,carrefour
+2024-09-01,Cuello de cordero Círculo de Calidad 500 g aprox,10.25557104580122,carrefour
+2024-09-08,Cuello de cordero Círculo de Calidad 500 g aprox,10.242621580624514,carrefour
+2024-09-15,Cuello de cordero Círculo de Calidad 500 g aprox,10.200569121006907,carrefour
+2024-09-22,Cuello de cordero Círculo de Calidad 500 g aprox,10.201190443625737,carrefour
+2024-09-29,Cuello de cordero Círculo de Calidad 500 g aprox,10.259229650434499,carrefour
+2024-10-06,Cuello de cordero Círculo de Calidad 500 g aprox,10.329568747867624,carrefour
+2024-10-13,Cuello de cordero Círculo de Calidad 500 g aprox,10.36590866194134,carrefour
+2024-10-20,Cuello de cordero Círculo de Calidad 500 g aprox,10.373894165774747,carrefour
+2024-10-27,Cuello de cordero Círculo de Calidad 500 g aprox,10.401068618719266,carrefour
+2024-11-03,Cuello de cordero Círculo de Calidad 500 g aprox,10.478571321359743,carrefour
+2024-11-10,Cuello de cordero Círculo de Calidad 500 g aprox,10.58340192102011,carrefour
+2024-11-17,Cuello de cordero Círculo de Calidad 500 g aprox,10.664454593573518,carrefour
+2024-11-24,Cuello de cordero Círculo de Calidad 500 g aprox,10.699982658381153,carrefour
+2024-12-01,Cuello de cordero Círculo de Calidad 500 g aprox,10.716487479354079,carrefour
+2024-12-08,Cuello de cordero Círculo de Calidad 500 g aprox,10.74471839987207,carrefour
+2024-12-15,Cuello de cordero Círculo de Calidad 500 g aprox,10.766084900121935,carrefour
+2024-12-22,Cuello de cordero Círculo de Calidad 500 g aprox,10.720404696412182,carrefour
+2024-12-29,Cuello de cordero Círculo de Calidad 500 g aprox,10.577475765168806,carrefour
+2025-01-05,Cuello de cordero Círculo de Calidad 500 g aprox,10.394891263910287,carrefour
+2025-01-12,Cuello de cordero Círculo de Calidad 500 g aprox,10.287126033347777,carrefour
+2025-01-19,Cuello de cordero Círculo de Calidad 500 g aprox,10.322175655140317,carrefour
+2025-01-26,Cuello de cordero Círculo de Calidad 500 g aprox,10.446559220309453,carrefour
+2025-02-02,Cuello de cordero Círculo de Calidad 500 g aprox,10.521933001020882,carrefour
+2025-02-09,Cuello de cordero Círculo de Calidad 500 g aprox,10.447771874629039,carrefour
+2025-02-16,Cuello de cordero Círculo de Calidad 500 g aprox,10.254888255065048,carrefour
+2025-02-23,Cuello de cordero Círculo de Calidad 500 g aprox,10.078543647345871,carrefour
+2025-03-02,Cuello de cordero Círculo de Calidad 500 g aprox,10.035873851716696,carrefour
+2025-03-09,Cuello de cordero Círculo de Calidad 500 g aprox,10.124084065015506,carrefour
+2025-03-16,Cuello de cordero Círculo de Calidad 500 g aprox,10.232739386999892,carrefour
+2025-03-23,Cuello de cordero Círculo de Calidad 500 g aprox,10.251703666534336,carrefour
+2025-03-30,Cuello de cordero Círculo de Calidad 500 g aprox,10.168333490496705,carrefour
+2025-04-06,Cuello de cordero Círculo de Calidad 500 g aprox,10.066301617044994,carrefour
+2025-04-13,Cuello de cordero Círculo de Calidad 500 g aprox,10.037796129704294,carrefour
+2025-04-20,Cuello de cordero Círculo de Calidad 500 g aprox,10.099458265931887,carrefour
+2025-04-27,Cuello de cordero Círculo de Calidad 500 g aprox,10.18818894174972,carrefour
+2025-05-04,Cuello de cordero Círculo de Calidad 500 g aprox,10.229480317363167,carrefour
+2025-05-11,Cuello de cordero Círculo de Calidad 500 g aprox,10.204921074103268,carrefour
+2025-05-18,Cuello de cordero Círculo de Calidad 500 g aprox,10.157048250509314,carrefour
+2025-05-25,Cuello de cordero Círculo de Calidad 500 g aprox,10.137941314953764,carrefour
+2025-06-01,Cuello de cordero Círculo de Calidad 500 g aprox,10.160394550318895,carrefour
+2025-06-08,Cuello de cordero Círculo de Calidad 500 g aprox,10.198481364556205,carrefour
+2025-06-15,Cuello de cordero Círculo de Calidad 500 g aprox,10.227468368889681,carrefour
+2025-06-22,Cuello de cordero Círculo de Calidad 500 g aprox,10.253347571403946,carrefour
+2025-06-29,Cuello de cordero Círculo de Calidad 500 g aprox,10.299052386954397,carrefour
+2025-07-06,Cuello de cordero Círculo de Calidad 500 g aprox,10.366277491605356,carrefour
+2025-07-13,Cuello de cordero Círculo de Calidad 500 g aprox,10.421280582454848,carrefour
+2025-07-20,Cuello de cordero Círculo de Calidad 500 g aprox,10.42731592977746,carrefour
+2025-07-27,Cuello de cordero Círculo de Calidad 500 g aprox,10.392197534204117,carrefour
+2025-08-03,Cuello de cordero Círculo de Calidad 500 g aprox,10.376233215806787,carrefour
+2025-08-10,Cuello de cordero Círculo de Calidad 500 g aprox,10.442559105309353,carrefour
+2025-08-17,Cuello de cordero Círculo de Calidad 500 g aprox,10.59379121374035,carrefour
+2025-08-24,Cuello de cordero Círculo de Calidad 500 g aprox,10.760010760670745,carrefour
+2025-08-31,Cuello de cordero Círculo de Calidad 500 g aprox,10.85615974946554,carrefour
+2025-09-07,Cuello de cordero Círculo de Calidad 500 g aprox,10.856507222911487,carrefour
+2025-09-14,Cuello de cordero Círculo de Calidad 500 g aprox,10.813574111487632,carrefour
+2025-09-21,Cuello de cordero Círculo de Calidad 500 g aprox,10.803347375904492,carrefour
+2025-09-28,Cuello de cordero Círculo de Calidad 500 g aprox,10.853268981146512,carrefour
+2025-10-05,Cuello de cordero Círculo de Calidad 500 g aprox,10.925721602205549,carrefour
+2025-10-12,Cuello de cordero Círculo de Calidad 500 g aprox,10.969508493448455,carrefour
+2025-10-19,Cuello de cordero Círculo de Calidad 500 g aprox,10.97962935330247,carrefour
+2025-10-26,Cuello de cordero Círculo de Calidad 500 g aprox,10.999810532706539,carrefour

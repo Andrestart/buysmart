@@ -1,96 +1,42 @@
 Name,Price,Super,Link,product
-"Ajo blanco, malla 400 g",7.80,eroski,https://supermercado.eroski.es/es/search/results/?q=ajo&suggestionsFilter=false,ajo
-"Ajo para sazonar EROSKI, frasco 57 g",5.00,eroski,https://supermercado.eroski.es/es/search/results/?q=ajo&suggestionsFilter=false,ajo
-"Ajo ecológico EROSKI NATUR BIO, malla 150 g",8.60,eroski,https://supermercado.eroski.es/es/search/results/?q=ajo&suggestionsFilter=false,ajo
-"Caldo natural de pollo bajo en sal ANETO, brik 1 litro",8.60,eroski,https://supermercado.eroski.es/es/search/results/?q=ajo&suggestionsFilter=false,ajo
-"Ajo para sazonar DUCROS, frasco 58 g",26.53,eroski,https://supermercado.eroski.es/es/search/results/?q=ajo&suggestionsFilter=false,ajo
-"Jugoso al horno pollo ajo MAGGI, sobre 36 g",34.31,eroski,https://supermercado.eroski.es/es/search/results/?q=ajo&suggestionsFilter=false,ajo
-"Ajo en láminas DUCROS, frasco 22 g",18.79,eroski,https://supermercado.eroski.es/es/search/results/?q=ajo&suggestionsFilter=false,ajo
-Ajo Círculo de Calidad 250 g,5.80,carrefour,https://www.carrefour.es/?q=ajo&page=2,ajo
-Ajo sprint 500 g,4.70,carrefour,https://www.carrefour.es/?q=ajo&page=2,ajo
-Ajo blanco extra de Chinchón 500 g,4.98,carrefour,https://www.carrefour.es/?q=ajo&page=2,ajo
-Ajo morado ecológico Cachopo 250 g,9.80,carrefour,https://www.carrefour.es/?q=ajo&page=2,ajo
-Ajo Carrefour 100 g,17.30,carrefour,https://www.carrefour.es/?q=ajo&page=2,ajo
-Ajo morado ristra 500 g,7.70,carrefour,https://www.carrefour.es/?q=ajo&page=2,ajo
-Ajo ecológico Carrefour Bio 3 uds,1.45,carrefour,https://www.carrefour.es/?q=ajo&page=2,ajo
-Ajo granulado Carrefour 55 g,8.00,carrefour,https://www.carrefour.es/?q=ajo&page=2,ajo
-Ajo-Puerro tierno grande manojo de 150 g,8.33,carrefour,https://www.carrefour.es/?q=ajo&page=2,ajo
-Ajo y perejil picado Carrefour 50 g,28.20,carrefour,https://www.carrefour.es/?q=ajo&page=2,ajo
-Ajo en aceite de oliva Carrefour 225 g,7.11,carrefour,https://www.carrefour.es/?q=ajo&page=2,ajo
-Ajo granulado Carrefour 350 g,6.83,carrefour,https://www.carrefour.es/?q=ajo&page=2,ajo
-Ajo en polvo Carmencita sin gluten 60 g,28.17,carrefour,https://www.carrefour.es/?q=ajo&page=2,ajo
-Ajo y perejíl Especias tarrina 30 g,33.00,carrefour,https://www.carrefour.es/?q=ajo&page=2,ajo
-Picada de ajo y perejil Fruits S&P 100 g,13.90,carrefour,https://www.carrefour.es/?q=ajo&page=2,ajo
-Pan rallado de ajo y perejil Classic Carrefour 500 g,1.36,carrefour,https://www.carrefour.es/?q=ajo&page=2,ajo
-Ajo negro pelado en tarrina 85 g,46.94,carrefour,https://www.carrefour.es/?q=ajo&page=2,ajo
-Ajo tierno troceado 100 g,18.90,carrefour,https://www.carrefour.es/?q=ajo&page=2,ajo
-Ajo tierno pelado 150 g,15.93,carrefour,https://www.carrefour.es/?q=ajo&page=2,ajo
-Ajo negro pelado ecológico 60 g,83.17,carrefour,https://www.carrefour.es/?q=ajo&page=2,ajo
-Ajo morado ecológico Cachopo 500 g,7.98,carrefour,https://www.carrefour.es/?q=ajo&page=2,ajo
-Ajo pelado 100 g,18.90,carrefour,https://www.carrefour.es/?q=ajo&page=2,ajo
-Ajo en polvo Carmencita sin gluten 290 g,13.97,carrefour,https://www.carrefour.es/?q=ajo&page=2,ajo
-Ajo molido ecológico Carrefour Bio 50 g,39.80,carrefour,https://www.carrefour.es/?q=ajo&page=2,ajo
-Cebolla Carrefour 1 Kg,1.15,carrefour,https://www.carrefour.es/?q=ajo&page=2,ajo
-Cebolla Carrefour 2 kg,0.59,carrefour,https://www.carrefour.es/?q=ajo&page=2,ajo
-Patata para freír Carrefour 4 kg,0.99,carrefour,https://www.carrefour.es/?q=ajo&page=2,ajo
-Cebolla roja Carrefour 500 g,2.70,carrefour,https://www.carrefour.es/?q=ajo&page=2,ajo
-Cebolla dulce Carrefour 500 g,3.38,carrefour,https://www.carrefour.es/?q=ajo&page=2,ajo
-Patata lavada Carrefour 5 Kg,0.96,carrefour,https://www.carrefour.es/?q=ajo&page=2,ajo
-Patata para cocer Carrefour 4 Kg,0.99,carrefour,https://www.carrefour.es/?q=ajo&page=2,ajo
-Cebolla echalotte Carrefour 250 g,6.36,carrefour,https://www.carrefour.es/?q=ajo&page=2,ajo
-Panecillos ajo y perejil Carrefour Sensation 160 g,5.31,carrefour,https://www.carrefour.es/?q=ajo&page=2,ajo
-Picatostes ajo y finas hierbas para ensalada Florette 70 g,14.14,carrefour,https://www.carrefour.es/?q=ajo&page=2,ajo
-Tumaca con ajo y aceite de oliva Carrefour 370 g,3.81,carrefour,https://www.carrefour.es/?q=ajo&page=2,ajo
-Spaghetti de ajo y pimiento Dalla Costa 500 g,8.30,carrefour,https://www.carrefour.es/?q=ajo&page=2,ajo
-Sazonador ajo y perejil Carmencita sin gluten 40 g,36.50,carrefour,https://www.carrefour.es/?q=ajo&page=2,ajo
-Ajo Círculo de Calidad 250 g,5.80,carrefour,https://www.carrefour.es/?q=ajo&page=3,ajo
-Ajo sprint 500 g,4.70,carrefour,https://www.carrefour.es/?q=ajo&page=3,ajo
-Ajo blanco extra de Chinchón 500 g,4.98,carrefour,https://www.carrefour.es/?q=ajo&page=3,ajo
-Ajo morado ecológico Cachopo 250 g,9.80,carrefour,https://www.carrefour.es/?q=ajo&page=3,ajo
-Ajo Carrefour 100 g,17.30,carrefour,https://www.carrefour.es/?q=ajo&page=3,ajo
-Ajo morado ristra 500 g,7.70,carrefour,https://www.carrefour.es/?q=ajo&page=3,ajo
-Ajo ecológico Carrefour Bio 3 uds,1.45,carrefour,https://www.carrefour.es/?q=ajo&page=3,ajo
-Ajo granulado Carrefour 55 g,8.00,carrefour,https://www.carrefour.es/?q=ajo&page=3,ajo
-Ajo-Puerro tierno grande manojo de 150 g,8.33,carrefour,https://www.carrefour.es/?q=ajo&page=3,ajo
-Ajo y perejil picado Carrefour 50 g,28.20,carrefour,https://www.carrefour.es/?q=ajo&page=3,ajo
-Ajo en aceite de oliva Carrefour 225 g,7.11,carrefour,https://www.carrefour.es/?q=ajo&page=3,ajo
-Ajo granulado Carrefour 350 g,6.83,carrefour,https://www.carrefour.es/?q=ajo&page=3,ajo
-Ajo en polvo Carmencita sin gluten 60 g,28.17,carrefour,https://www.carrefour.es/?q=ajo&page=3,ajo
-Ajo y perejíl Especias tarrina 30 g,33.00,carrefour,https://www.carrefour.es/?q=ajo&page=3,ajo
-Picada de ajo y perejil Fruits S&P 100 g,13.90,carrefour,https://www.carrefour.es/?q=ajo&page=3,ajo
-Pan rallado de ajo y perejil Classic Carrefour 500 g,1.36,carrefour,https://www.carrefour.es/?q=ajo&page=3,ajo
-Ajo negro pelado en tarrina 85 g,46.94,carrefour,https://www.carrefour.es/?q=ajo&page=3,ajo
-Ajo tierno troceado 100 g,18.90,carrefour,https://www.carrefour.es/?q=ajo&page=3,ajo
-Ajo tierno pelado 150 g,15.93,carrefour,https://www.carrefour.es/?q=ajo&page=3,ajo
-Ajo negro pelado ecológico 60 g,83.17,carrefour,https://www.carrefour.es/?q=ajo&page=3,ajo
-Ajo morado ecológico Cachopo 500 g,7.98,carrefour,https://www.carrefour.es/?q=ajo&page=3,ajo
-Ajo pelado 100 g,18.90,carrefour,https://www.carrefour.es/?q=ajo&page=3,ajo
-Ajo en polvo Carmencita sin gluten 290 g,13.97,carrefour,https://www.carrefour.es/?q=ajo&page=3,ajo
-Ajo molido ecológico Carrefour Bio 50 g,39.80,carrefour,https://www.carrefour.es/?q=ajo&page=3,ajo
-Cebolla Carrefour 1 Kg,1.15,carrefour,https://www.carrefour.es/?q=ajo&page=3,ajo
-Cebolla Carrefour 2 kg,0.59,carrefour,https://www.carrefour.es/?q=ajo&page=3,ajo
-Patata para freír Carrefour 4 kg,0.99,carrefour,https://www.carrefour.es/?q=ajo&page=3,ajo
-Cebolla roja Carrefour 500 g,2.70,carrefour,https://www.carrefour.es/?q=ajo&page=3,ajo
-Cebolla dulce Carrefour 500 g,3.38,carrefour,https://www.carrefour.es/?q=ajo&page=3,ajo
-Patata lavada Carrefour 5 Kg,0.96,carrefour,https://www.carrefour.es/?q=ajo&page=3,ajo
-Patata para cocer Carrefour 4 Kg,0.99,carrefour,https://www.carrefour.es/?q=ajo&page=3,ajo
-Cebolla echalotte Carrefour 250 g,6.36,carrefour,https://www.carrefour.es/?q=ajo&page=3,ajo
-Panecillos ajo y perejil Carrefour Sensation 160 g,5.31,carrefour,https://www.carrefour.es/?q=ajo&page=3,ajo
-Picatostes ajo y finas hierbas para ensalada Florette 70 g,14.14,carrefour,https://www.carrefour.es/?q=ajo&page=3,ajo
-Tumaca con ajo y aceite de oliva Carrefour 370 g,3.81,carrefour,https://www.carrefour.es/?q=ajo&page=3,ajo
-Spaghetti de ajo y pimiento Dalla Costa 500 g,8.30,carrefour,https://www.carrefour.es/?q=ajo&page=3,ajo
-Sazonador ajo y perejil Carmencita sin gluten 40 g,36.50,carrefour,https://www.carrefour.es/?q=ajo&page=3,ajo
-Ajo morado malla 250 gr,5.80,dia,https://www.dia.es/compra-online/search?text=ajo&x=0&y=0,ajo
-Ajo morado malla 400 gr,4.98,dia,https://www.dia.es/compra-online/search?text=ajo&x=0&y=0,ajo
-DIA ajo en polvo frasco 65 gr,9.08,dia,https://www.dia.es/compra-online/search?text=ajo&x=0&y=0,ajo
-DANI ajo molida frasco 55 gr,24.55,dia,https://www.dia.es/compra-online/search?text=ajo&x=0&y=0,ajo
-CARMENCITA ajo en polvo frasco 60 gr,33.17,dia,https://www.dia.es/compra-online/search?text=ajo&x=0&y=0,ajo
-DANI ajo y perejil frasco 150 gr,24.33,dia,https://www.dia.es/compra-online/search?text=ajo&x=0&y=0,ajo
-DIA panecillo ajo y perejil bolsa 160 gr,5.56,dia,https://www.dia.es/compra-online/search?text=ajo&x=0&y=0,ajo
-DIA salsa fina con ajo bote 300 ml,4.83,dia,https://www.dia.es/compra-online/search?text=ajo&x=0&y=0,ajo
-DIA VEGECAMPO ajo picado bolsa 150 gr,7.00,dia,https://www.dia.es/compra-online/search?text=ajo&x=0&y=0,ajo
-DIA pan rallado con ajo y perejil bolsa 500 gr,1.90,dia,https://www.dia.es/compra-online/search?text=ajo&x=0&y=0,ajo
-SELECCIÓN DE DIA hamburguesas con ajo y perejil bandeja 360 gr,5.81,dia,https://www.dia.es/compra-online/search?text=ajo&x=0&y=0,ajo
-DIA VEGECAMPO pimientos del piquillo en tiras con ajo frasco 225 gr,4.50,dia,https://www.dia.es/compra-online/search?text=ajo&x=0&y=0,ajo
-LA ESPAÑOLA aceite de oliva virgen extra al ajo botella 250 ml,9.40,dia,https://www.dia.es/compra-online/search?text=ajo&x=0&y=0,ajo
-LA TOJA gel de baño aloe vera botella 800 ml,3.74,dia,https://www.dia.es/compra-online/search?text=ajo&x=0&y=0,ajo
+"Chuletillas de cordero de pasto, al corte, compra mínima 500 g",28.25,eroski,https://supermercado.eroski.es/es/search/results/?q=cordero&suggestionsFilter=false,cordero
+"Filete de cordero Ternasco de Aragón E.Natur, bandeja aprox. 350 g",17.96,eroski,https://supermercado.eroski.es/es/search/results/?q=cordero&suggestionsFilter=false,cordero
+"Chuletillas de cordero galés, bandeja aprox. 500 g",25.94,eroski,https://supermercado.eroski.es/es/search/results/?q=cordero&suggestionsFilter=false,cordero
+"Chuletillas de cordero galés, bandeja aprox. 800 g",17.96,eroski,https://supermercado.eroski.es/es/search/results/?q=cordero&suggestionsFilter=false,cordero
+"Medio cordero lechal limpio al vacío, bandeja aprox. 2.76 kg",17.95,eroski,https://supermercado.eroski.es/es/search/results/?q=cordero&suggestionsFilter=false,cordero
+"Paletilla de cordero Ternasco de Aragón E.Natur, bandeja aprox. 1 kg",12.95,eroski,https://supermercado.eroski.es/es/search/results/?q=cordero&suggestionsFilter=false,cordero
+"1/2 Cordero lechal EUSKO LABEL E.Natur, al peso, compra mínima 2.5 kg",10.25,eroski,https://supermercado.eroski.es/es/search/results/?q=cordero&suggestionsFilter=false,cordero
+"Hígado de cordero fileteado, bandeja aprox. 400 g",13.45,eroski,https://supermercado.eroski.es/es/search/results/?q=cordero&suggestionsFilter=false,cordero
+"Cordero chuleteado barbacoa, bandeja aprox. 1.25 kg",9.00,eroski,https://supermercado.eroski.es/es/search/results/?q=cordero&suggestionsFilter=false,cordero
+"Mollejas de cordero, bandeja aprox. 300 g",12.95,eroski,https://supermercado.eroski.es/es/search/results/?q=cordero&suggestionsFilter=false,cordero
+"Chuletillas de cordero lechal, bandeja aprox. 500 g",21.00,eroski,https://supermercado.eroski.es/es/search/results/?q=cordero&suggestionsFilter=false,cordero
+"Sesos de cordero QUINMAR, bandeja 200 g",31.96,eroski,https://supermercado.eroski.es/es/search/results/?q=cordero&suggestionsFilter=false,cordero
+"Octavo chuleteado de cordero Círculo de Calidad 1,2 kg aprox",20.90,carrefour,https://www.carrefour.es/?q=cordero&page=2,cordero
+Paletilla de cordero al vacio Carrefour 1 Kg aprox,18.90,carrefour,https://www.carrefour.es/?q=cordero&page=2,cordero
+"Pierna de cordero al vacio 1,5 Kg aprox",16.90,carrefour,https://www.carrefour.es/?q=cordero&page=2,cordero
+Paletilla de cordero Círculo de Calidad 1 kg aprox,21.90,carrefour,https://www.carrefour.es/?q=cordero&page=2,cordero
+"Pierna de cordero Círculo de Calidad 1,2 kg aprox",15.90,carrefour,https://www.carrefour.es/?q=cordero&page=2,cordero
+Costillar de cordero 400 g aprox,17.50,carrefour,https://www.carrefour.es/?q=cordero&page=2,cordero
+Falda de cordero Círculo de Calidad 500 g aprox,8.90,carrefour,https://www.carrefour.es/?q=cordero&page=2,cordero
+Cuello de cordero Círculo de Calidad 500 g aprox,8.50,carrefour,https://www.carrefour.es/?q=cordero&page=2,cordero
+Mollejas de Cordero Cárnicas Meca 500 g,25.69,carrefour,https://www.carrefour.es/?q=cordero&page=2,cordero
+"Tarrito de brócoli, cordero y chirivía ecológico Smileat sin gluten 230 g",9.78,carrefour,https://www.carrefour.es/?q=cordero&page=2,cordero
+Tarrito de menestra de cordero desde 6 meses Nutribén 235 g,4.21,carrefour,https://www.carrefour.es/?q=cordero&page=2,cordero
+"Octavo chuleteado de cordero Círculo de Calidad 1,2 kg aprox",20.90,carrefour,https://www.carrefour.es/?q=cordero&page=3,cordero
+Paletilla de cordero al vacio Carrefour 1 Kg aprox,18.90,carrefour,https://www.carrefour.es/?q=cordero&page=3,cordero
+"Pierna de cordero al vacio 1,5 Kg aprox",16.90,carrefour,https://www.carrefour.es/?q=cordero&page=3,cordero
+Paletilla de cordero Círculo de Calidad 1 kg aprox,21.90,carrefour,https://www.carrefour.es/?q=cordero&page=3,cordero
+"Pierna de cordero Círculo de Calidad 1,2 kg aprox",15.90,carrefour,https://www.carrefour.es/?q=cordero&page=3,cordero
+Costillar de cordero 400 g aprox,17.50,carrefour,https://www.carrefour.es/?q=cordero&page=3,cordero
+Falda de cordero Círculo de Calidad 500 g aprox,8.90,carrefour,https://www.carrefour.es/?q=cordero&page=3,cordero
+Cuello de cordero Círculo de Calidad 500 g aprox,8.50,carrefour,https://www.carrefour.es/?q=cordero&page=3,cordero
+Mollejas de Cordero Cárnicas Meca 500 g,25.69,carrefour,https://www.carrefour.es/?q=cordero&page=3,cordero
+"Tarrito de brócoli, cordero y chirivía ecológico Smileat sin gluten 230 g",9.78,carrefour,https://www.carrefour.es/?q=cordero&page=3,cordero
+Tarrito de menestra de cordero desde 6 meses Nutribén 235 g,4.21,carrefour,https://www.carrefour.es/?q=cordero&page=3,cordero
+AS paté para perros rico en cordero tarrina 300 gr,2.17,dia,https://www.dia.es/compra-online/search?text=cordero&x=0&y=0,cordero
+AS snack para perros sabor cordero bolsa 200 gr,6.95,dia,https://www.dia.es/compra-online/search?text=cordero&x=0&y=0,cordero
+PEDIGREE alimento para perros pollo cordero tarrina 300 gr,6.63,dia,https://www.dia.es/compra-online/search?text=cordero&x=0&y=0,cordero
+AS alimento para gatos con cordero e hígado tarro 100 gr,3.90,dia,https://www.dia.es/compra-online/search?text=cordero&x=0&y=0,cordero
+ULTIMA Nature alimento para perros medianos con cordero bolsa 3 Kg,5.26,dia,https://www.dia.es/compra-online/search?text=cordero&x=0&y=0,cordero
+ULTIMA Nature alimento para perros mini con cordero bolsa 1.25 Kg,7.35,dia,https://www.dia.es/compra-online/search?text=cordero&x=0&y=0,cordero
+AS alimento para perros de razas pequeñas cordero arroz bolsa 2 kg,2.15,dia,https://www.dia.es/compra-online/search?text=cordero&x=0&y=0,cordero
