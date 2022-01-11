@@ -16,7 +16,6 @@ This project makes it easier to understand how food prices have been variating d
 
 5. Creating a database to store and organize my data using SQL.
 ![](images/sqlschema.PNG "SQL")
-0
 
 6. Filtering the database to get exactly the information I'm looking for.
 
