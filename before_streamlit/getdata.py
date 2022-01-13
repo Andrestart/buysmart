@@ -111,7 +111,7 @@ def getmydata():
     'mandarins':'mandarina',
     'melons':'melon',
     'milling_wheat':'harina de trigo',
-    'mushrooms,_cultivated':'champiñon',
+    'mushrooms,_cultivated':'champinon',
     'nectarines':'nectarina',
     'olive-pomace_oil_(up_to_1%)':'aceite de orujo de oliva (hasta 1%)',
     'onions':'cebolla',
@@ -179,6 +179,14 @@ def getmydata():
             gooddata.append(np.nan)
         elif row['product']=='nectarina':
             gooddata.append(np.nan)
+        elif row['product']=='vino':
+            gooddata.append(np.nan)
+        elif row['product']=='malta':
+            gooddata.append(np.nan)
+        elif row['product']=='albaricoque':
+            gooddata.append(np.nan)
+        elif row['product']=='malta':
+                gooddata.append(np.nan)
         else:
             gooddata.append(row['product'])
     data['product'] = gooddata

@@ -7,4 +7,4 @@ from before_streamlit import scrapit as s
 
 g.getmydata()
 prod.toprophet()
-s.scrap()
+s.choosesuper()

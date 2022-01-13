@@ -67,7 +67,7 @@ def insertproducts():
         pass
     data = pd.read_csv("../mydata/cleandata/data.csv")
     data.index=data.date
-    data.drop('date',axis=1,inplace=True)
+    data.drop('date',axis=1,inplace=True)    
     foods = sorted(list(set(data['product'])))
     for f in foods:
         if check(f):
@@ -81,6 +81,8 @@ def insertscrap():
         supers = ['dia','carrefour','eroski']
         for superm in supers:
             scrap = pd.read_csv(f'../mydata/scraps_{superm}/scrap.csv')
+            scrap = scrap.drop_duplicates(subset=['price', 'name'])
+
             try:
                 c.engine.execute(f"""TRUNCATE `{superm}`;""")
             except:

@@ -198,7 +198,8 @@ def scrapall():
                 except:
                     prices.append(np.nan)
                 try:
-                    names.append(driver.find_element_by_css_selector(f'#ebx-grid > article:nth-child({o}) > div > a.ebx-result-link.ebx-result__title-link.track-click > h1').text)
+                    driver.execute_script("window.scrollTo(0, window.scrollY + 300)")
+                    names.append(driver.find_element_by_css_selector(f'article.ebx-result:nth-child({o}) > div:nth-child(1) > a:nth-child(4) > h1:nth-child(1)').text)
                     driver.execute_script("window.scrollTo(0, window.scrollY + 300)")
                 except:
                     names.append(np.nan)
